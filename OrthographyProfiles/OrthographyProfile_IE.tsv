@@ -1,0 +1,133 @@
+Grapheme	IPA
+k	q
+g	ɢ
+gʰ	ɢ̤ʱ
+kᵘ̯	kʷ
+gᵘ̯	gʷ
+gᵘ̯ʰ	gʷʱ
+ḱ	k
+ǵ	g
+ǵʰ	g̤ʱ
+t	t
+d	d
+dʰ	d̤ʱ
+n	n
+p	p
+b	b
+bʰ	bʱ
+m	m
+i̯	j
+u̯	w
+r	ɾ
+l	l
+s	s
+a	a
+ā	aː
+i	i
+ī	iː
+u	u
+ū	uː
+e	ɛ
+ē	ɛː
+o	ɔ
+ō	ɔː
+ṛ	r̩
+ḷ	l̩
+n̩	n̩
+m̩	m̩
+h₁	h
+h₂	χ
+h₃	ʁ
+-	NULL
+^	NULL
+$	NULL
+ā́	ˈaː
+á	ˈa
+é	ˈɛ
+ó	ˈɔ
+ú	ˈu
+r̩	ɾ̩
+h́₃	ˈʁ
+ṃ	m̩
+í	i
+ḗ	ˈɛː
+ṓ	ˈɔː
+l̩	l̩
+ṁ	m̩
+ḗ	ˈɛː
+ai	ai̯
+oi	ɔi̯
+ōi	ɔːi̯
+ei	ɛi̯
+au̯	au̯
+au̯i	a w i
+au̯-i	a w i
+eu̯	ɛu̯
+eu̯i	ɛ w i
+eu̯-i	ɛ w i
+ou̯	ɔu̯
+ou̯o	ɔ w ɔ
+ou̯-o	ɔ w ɔ
+ou̯i	ɔ w i
+ou̯-i	ɔ w i
+ou̯ei̯	ɔ w ɛi̯
+ou̯-ei̯	ɔ w ɛi̯
+ou̯e	ɔ w ɛ
+ou̯-e	ɔ w ɛ
+oːu̯	ɔːu̯
+oːu̯o	ɔː w ɔ
+oːu̯-o	ɔː w ɔ
+oːu̯i	ɔː w i
+oːu̯-i	ɔː w i
+oːu̯ei̯	ɔː w ɛi̯
+oːu̯-ei̯	ɔː w ɛi̯
+oːu̯e	ɔː w ɛ
+oːu̯-e	ɔː w ɛ
+ái	ˈai̯
+ói	ˈɔi̯
+ōi	ˈɔːi̯
+éi	ˈɛi̯
+áu̯	ˈau̯
+áu̯i	ˈa w i
+áu̯-i	ˈa w i
+éu̯	ˈɛu̯
+éu̯i	ˈɛ w i
+éu̯-i	ˈɛ w i
+óu̯	ˈɔu̯
+óu̯o	ˈɔ w ɔ
+óu̯-o	ˈɔ w ɔ
+óu̯i	ˈɔ w i
+óu̯-i	ˈɔ w i
+óu̯ei̯	ˈɔ w ɛi̯
+óu̯-ei̯	ˈɔ w ɛi̯
+óu̯e	ˈɔ w ɛ
+óu̯-e	ˈɔ w ɛ
+óːu̯	ˈɔːu̯
+óːu̯o	ˈɔː w ɔ
+óːu̯-o	ˈɔː w ɔ
+óːu̯i	ˈɔː w i
+óːu̯-i	ˈɔː w i
+óːu̯ei̯	ˈɔː w ɛi̯
+óːu̯-ei̯	ˈɔː w ɛi̯
+óːu̯e	ˈɔː w ɛ
+óːu̯-e	ˈɔː w ɛ
+au̯í	a w ˈi
+au̯-í	a w ˈi
+eu̯í	ɛ w ˈi
+eu̯-í	ɛ w ˈi
+ou̯ó	ɔ w ˈɔ
+ou̯-ó	ɔ w ˈɔ
+ou̯í	ɔ w ˈi
+ou̯-í	ɔ w ˈi
+ou̯éi̯	ɔ w ˈɛi̯
+ou̯-éi̯	ɔ w ˈɛi̯
+ou̯é	ɔ w ˈɛ
+ou̯-é	ɔ w ˈɛ
+oːu̯ó	ɔː w ˈɔ
+oːu̯-ó	ɔː w ˈɔ
+oːu̯í	ɔː w ˈi
+oːu̯-í	ɔː w ˈi
+oːu̯éi̯	ɔː w ˈɛi̯
+oːu̯-éi̯	ɔː w ˈɛi̯
+oːu̯é	ɔː w ˈɛ
+oːu̯-é	ɔː w ˈɛ

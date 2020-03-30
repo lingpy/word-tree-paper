@@ -1,0 +1,949 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	ATTESTED	ANCESTOR	RELATION	PROCESS	COGID	ROOT	STEM	ALIGNMENT	WORD_CLASS	INFLECTION_CLASS	CASE	GENDER	QUESTIONMARK	SQUAREBRACKET	UNSURE	NOTES
+1	Indo-European	als Anteil bekommen	bʰag-	bʱ a ɢ	0				0	bʰag	1	bʱ a ɢ	root							
+2	Indo-European	?	bʰā́g-	bʱ ˈaː ɢ	0	1	derivation	lengthened grade	0	bʰag	1	bʱ ˈaː ɢ								
+3	Indo-European	?	bʰā́gs	bʱ ˈaː ɢ s	0	2	inflection	n.sg.	1	bʰag	0	bʱ ˈaː ɢ s			n.sg.					
+4	Vedic	?	-bhā́j-	bʱ ˈaː dʓ	0	2	inheritance	inheritance	0	bʰag	1	bʱ ˈaː dʓ								
+5	Vedic	?	bhā́k	bʱ ˈaː k	0	4	inflection	n.sg.	1	bʰag	0	bʱ ˈaː k -			n.sg.					
+6	Vedic	Nahrung genießend	pitu-bhā́j-	p i t u bʱ ˈaː dʓ	0	4	compound	compound2 with 0 p i t u	0	bʰag	1	p i t u bʱ ˈaː dʓ	adjective							
+7	Vedic	Nahrung genießend	pitu-bhā́k	p i t u bʱ ˈaː k	1	6	inflection	n.sg.masculine	0	bʰag	0	p i t u bʱ ˈaː k	adjective		n.sg.	masculine				
+8	Indo-European	?	bʰag-ón-	bʱ a ɢ ˈɔ n	0	1	suffixation	suffix: ˈɔ n	0	bʰag	1	bʱ a ɢ ˈɔ n	substantive							
+9	Indo-European	?	bʰagónes	bʱ a ɢ ˈɔ n ɛ s	0	8	inflection	n.pl.	2	bʰag	0	bʱ a ɢ ˈɔ n ɛ s	substantive		n.pl.					
+10	Greek	σιαγόνες, γνάθοι, Kiefer	φαγόν-	pʰ a g ˈɔ n	0	8	inheritance	inheritance	0	bʰag	1	pʰ a g ˈɔ n	substantive							
+11	Greek	σιαγόνες, γνάθοι, Kiefer	φαγόνες	pʰ a g ˈɔ n ɛ s	1	10	inflection	n.pl.	2	bʰag	0	pʰ a g ˈɔ n ɛ s	substantive		n.pl.					
+12	Indo-European	?	bʰag-tor-	bʱ a ɢ t ɔ ɾ	0	1	suffixation	suffix: t ɔ ɾ	0	bʰag	1	bʱ a ɢ t ɔ ɾ				masculine				
+13	Indo-European	?	bʰagtōr	bʱ a ɢ t ɔː ɾ	0	12	inflection	n.sg.	3	bʰag	0	bʱ a ɢ t ɔː ɾ			n.sg.	masculine				
+14	Vedic	?	-bhaktar-	bʱ ɐ k t ɐ ɾ	0	12	inheritance	inheritance	0	bʰag	1	bʱ ɐ k t ɐ ɾ				masculine				
+15	Vedic	?	bhaktā́	bʱ ɐ k t ˈaː	0	14	inflection	n.sg.	3	bʰag	0	bʱ ɐ k t ˈaː -			n.sg.	masculine				
+16	Vedic	Zuteiler	ví-bhaktar-	w ˈi bʱ ɐ k t ɐ ɾ	0	14	prefixation	prefix: w ˈi	0	bʰag	1	w ˈi bʱ ɐ k t ɐ ɾ	substantive			masculine				
+17	Vedic	Zuteiler	víbhaktā	w ˈi bʱ ɐ k t aː	1	16	inflection	n.sg.	0	bʰag	0	w ˈi bʱ ɐ k t aː	substantive		n.sg.	masculine				
+18	Indo-European	?	bʰag-tér-	bʱ a ɢ t ˈɛ ɾ	0	1	suffixation	suffix: t ˈɛ ɾ	0	bʰag	1	bʱ a ɢ t ˈɛ ɾ				masculine				
+19	Indo-European	?	bʰagtḗr	bʱ a ɢ t ˈɛː ɾ	0	18	inflection	n.sg.	4	bʰag	0	bʱ a ɢ t ˈɛː ɾ			n.sg.	masculine				
+20	Vedic	?	-bhaktár-	bʱ ɐ k t ˈɐ ɾ	0	18	inheritance	inheritance	0	bʰag	1	bʱ ɐ k t ˈɐ ɾ				masculine				
+21	Vedic	?	bhaktā́	bʱ ɐ k t ˈaː	0	20	inflection	n.sg.	4	bʰag	0	bʱ ɐ k t ˈaː -			n.sg.	masculine				
+22	Vedic	Zuteiler	vi-bhaktár-	w i bʱ ɐ k t ˈɐ ɾ	0	20	prefixation	prefix: w i	0	bʰag	1	w i bʱ ɐ k t ˈɐ ɾ	substantive			masculine				
+23	Vedic	Zuteiler	vibhaktā́	w i bʱ ɐ k t ˈaː	1	22	inflection	n.sg.	0	bʰag	0	w i bʱ ɐ k t ˈaː	substantive		n.sg.	masculine				
+24	Indo-European	?	bʰag-ti-	bʱ a ɢ t i	0	1	suffixation	suffix: t i	0	bʰag	1	bʱ a ɢ t i	substantive			feminine				
+25	Indo-European	?	bʰagtis	bʱ a ɢ t i s	0	24	inflection	n.sg.	5	bʰag	0	bʱ a ɢ t i s	substantive		n.sg.	feminine				
+26	Vedic	Zuteilung, Verteilung	bhaktí-	bʱ ɐ k t ˈi	0	24	inheritance	inheritance	0	bʰag	1	bʱ ɐ k t ˈi	substantive			feminine				
+27	Vedic	Zuteilung, Verteilung	bhaktíḥ	bʱ ɐ k t ˈi h	1	26	inflection	n.sg.	5	bʰag	0	bʱ ɐ k t ˈi h	substantive		n.sg.	feminine				
+28	Indo-European	?	bʰág-o-	bʱ ˈa ɢ ɔ	0	1	suffixation	suffix: ɔ	0	bʰag	1	bʱ ˈa ɢ ɔ	substantive			masculine				
+29	Indo-European	?	bʰágos	bʱ ˈa ɢ ɔ s	0	28	inflection	n.sg.	6	bʰag	0	bʱ ˈa ɢ ɔ s	substantive		n.sg.	masculine				
+30	Vedic	Zuteiler, Zuteilung	bhága-	bʱ ˈɐ g ɐ	0	28	inheritance	inheritance	0	bʰag	1	bʱ ˈɐ g ɐ	substantive			masculine				
+31	Vedic	Zuteiler, Zuteilung	bhágaḥ	bʱ ˈɐ g ɐ h	1	30	inflection	n.sg.	6	bʰag	0	bʱ ˈɐ g ɐ h	substantive		n.sg.	masculine				
+32	Indo-European	?	bʰāg-ó-	bʱ aː ɢ ˈɔ	0	28	derivation	vriddhi - lengthened grade and accent shift	0	bʰag	1	bʱ aː ɢ ˈɔ	substantive			masculine	?		?	
+33	Indo-European	?	bʰāgós	bʱ aː ɢ ˈɔ s	0	32	inflection	n.sg.	7	bʰag	0	bʱ aː ɢ ˈɔ s	substantive		n.sg.	masculine	?		?	
+34	Vedic	Anteil	bhāgá-	bʱ aː g ˈɐ	0	32	inheritance	inheritance	0	bʰag	1	bʱ aː g ˈɐ	substantive			masculine				
+35	Vedic	Anteil	bhāgáḥ	bʱ aː g ˈɐ h	1	34	inflection	n.sg.	7	bʰag	0	bʱ aː g ˈɐ h	substantive		n.sg.	masculine				
+36	Indo-European	?	bʰag-ó-	bʱ a ɢ ˈɔ	0	1	suffixation	suffix: ˈɔ	0	bʰag	1	bʱ a ɢ ˈɔ								
+37	Indo-European	?	bʰagós	bʱ a ɢ ˈɔ s	0	36	inflection	n.sg.	8	bʰag	0	bʱ a ɢ ˈɔ s			n.sg.					
+38	Greek	?	-φάγο-	pʰ ˈa g ɔ	0	36	inheritance	inheritance	0	bʰag	1	pʰ ˈa g ɔ								
+39	Greek	?	-φάγος	pʰ ˈa g ɔ s	0	38	inflection	n.sg.	8	bʰag	0	pʰ ˈa g ɔ s			n.sg.					
+40	Greek	rohes [Fleisch] essend	ὠμο-φάγο-	ɔː m ɔ pʰ ˈa g ɔ	0	38	compound	compound2 with 0 ɔː m ɔ	0	bʰag	1	ɔː m ɔ pʰ ˈa g ɔ	adjective							
+41	Greek	rohes [Fleisch] essend	ὠμοφάγος	ɔː m ɔ pʰ ˈa g ɔ s	1	40	inflection	n.sg.masculine	0	bʰag	0	ɔː m ɔ pʰ ˈa g ɔ s	adjective		n.sg.	masculine				
+42	Indo-European	?	bʰag-tó-	bʱ a ɢ t ˈɔ	0	1	suffixation	suffix: t ˈɔ	0	bʰag	1	bʱ a ɢ t ˈɔ	adjective							
+43	Indo-European	?	bʰagtós	bʱ a ɢ t ˈɔ s	0	42	inflection	n.sg.masculine	9	bʰag	0	bʱ a ɢ t ˈɔ s	adjective		n.sg.	masculine				
+44	Vedic	empfangen, erhalten, geschenkt	bhaktá-	bʱ ɐ k t ˈɐ	0	42	inheritance	inheritance	0	bʰag	1	bʱ ɐ k t ˈɐ	adjective							
+45	Vedic	empfangen, erhalten, geschenkt	bhaktáḥ	bʱ ɐ k t ˈɐ h	1	44	inflection	n.sg.	9	bʰag	0	bʱ ɐ k t ˈɐ h	adjective		n.sg.	masculine				
+46	Indo-European	Buche	bʰah₂g-	bʱ a χ ɢ	0				0	bʰah₂g-(ó-)	1	bʱ a χ ɢ	root				?		?	
+47	Indo-European	?	bʰah₂g-	bʱ a χ ɢ	0	46	derivation	root noun	0	bʰah₂g-(ó-)	1	bʱ a χ ɢ	substantive			feminine	?		?	
+48	Indo-European	?	bʰah₂gs	bʱ a χ ɢ s	0	47	inflection	n.sg.	10	bʰah₂g-(ó-)	0	bʱ - a χ ɢ s	substantive		n.sg.	feminine	?		?	
+49	Germanic	Buchstabe, Buch	bōk-	β ɔː k	0	47	inheritance	inheritance	0	bʰah₂g-(ó-)	1	β ɔː k	substantive			feminine				
+50	Germanic	Buchstabe, Buch	bōks	β ɔː k s	0	49	inflection	n.sg.	10	bʰah₂g-(ó-)	0	β - ɔː - k s	substantive		n.sg.	feminine				
+51	Old High German	Buch, Schriftstück	buoh-	b u o x	0	49	inheritance	inheritance	0	bʰah₂g-(ó-)	1	b u o x	substantive			feminine				
+52	Old High German	Buch, Schriftstück	buoh	b u o x	1	51	inflection	n.sg.	10	bʰah₂g-(ó-)	0	b u o - x -	substantive		n.sg.	feminine				
+53	Old High German	Buchstabe	buoh-stab-	b u o x s̺ t a b	0	51	compound	compound with 0 s̺ t a b	0	bʰah₂g-(ó-)	1	b u o x s̺ t a b	substantive			masculine				
+54	Old High German	Buchstabe	buoh-stab	b u o x s̺ t a b	1	53	inflection	n.sg.	0	bʰah₂g-(ó-)	0	b u o x s̺ t a b	substantive		n.sg.	masculine				
+55	Indo-European	?	bʰah₂g-ó-	bʱ a χ ɢ ˈɔ	0	47	suffixation	suffix: ˈɔ	0	bʰah₂g-(ó-)	1	bʱ a χ ɢ ˈɔ	substantive			feminine				
+56	Indo-European	?	bʰah₂gós	bʱ a χ ɢ ˈɔ s	0	55	inflection	n.sg.	11	bʰah₂g-(ó-)	0	bʱ a χ ɢ ˈɔ s	substantive		n.sg.	feminine				
+57	Greek	Eiche	φηγό-	pʰ ɛː g ˈɔ	0	55	inheritance	inheritance	0	bʰah₂g-(ó-)	1	pʰ ɛː g ˈɔ	substantive			feminine				
+58	Greek	Eiche	φηγός	pʰ ɛː g ˈɔ s	1	57	inflection	n.sg.	11	bʰah₂g-(ó-)	0	pʰ ɛː - g ˈɔ s	substantive		n.sg.	feminine				
+59	Latin	Buche	fāgo-	f aː g ɔ	0	55	inheritance	inheritance	0	bʰah₂g-(ó-)	1	f aː g ɔ	substantive	o		feminine				
+60	Latin	Buche	fāgus	f aː g ʊ s	1	59	inflection	n.sg.	11	bʰah₂g-(ó-)	0	f aː - g ʊ s	substantive	o	n.sg.	feminine				
+61	Germanic	?	bōka-	β ɔː k a	0	55	inheritance	inheritance	0	bʰah₂g-(ó-)	1	β ɔː k a	substantive			feminine		[	[	
+62	Germanic	?	bōkaz	β ɔː k a z	0	61	inflection	n.sg.	11	bʰah₂g-(ó-)	0	β ɔː - k a z	substantive		n.sg.	feminine		[	[	
+63	Germanic	?	bōkō-	β ɔː k ɔː	0	61	derivation	inflection class change	0	bʰah₂g-(ó-)	1	β ɔː k ɔː	substantive	ō		feminine		[	[	
+64	Germanic	?	bōkō	β ɔː k ɔː	0	63	inflection	n.sg.	12	bʰah₂g-(ó-)	0	β - ɔː k ɔː	substantive	ō	n.sg.	feminine		[	[	
+65	Old High German	Buche	buocha-	b u o xː a	0	63	inheritance	inheritance	0	bʰah₂g-(ó-)	1	b u o xː a	substantive	ō		feminine		[	[	
+66	Old High German	Buche	buocha	b u o xː a	0	65	inflection	n.sg.	12	bʰah₂g-(ó-)	0	b u o xː a	substantive	ō	n.sg.	feminine		[	[	
+67	Old High German	Buche	buochan-	b u o xː a n	0	65	derivation	inflection class change	0	bʰah₂g-(ó-)	1	b u o xː a n	substantive	ōn		feminine		[	[	
+68	Old High German	Buche	buocha	b u o xː a	1	67	inflection	n.sg.	0	bʰah₂g-(ó-)	0	b u o xː a	substantive	ōn	n.sg.	feminine		[	[	
+69	Indo-European	?	bʰarsdʰ-o-	bʱ a ɾ s dʱ ɔ	0	71	derivation	infixation of s, suffix: ɔ	0	bʰar(s)dʰ-o/ah₂-	1	bʱ a ɾ s dʱ ɔ	substantive			masculine				
+70	Indo-European	?	bʰarsdʰos	bʱ a ɾ s dʱ ɔ s	0	69	inflection	n.sg.	0	bʰar(s)dʰ-o/ah₂-	0	bʱ a ɾ s dʱ ɔ s	substantive		n.sg.	masculine				
+71	Indo-European	Bart	bʰardʰ	bʱ a ɾ dʱ	0				0	bʰar(s)dʰ-o/ah₂-	1	bʱ a ɾ dʱ	root							
+72	Indo-European	?	bʰardʰ-o-	bʱ a ɾ dʱ ɔ	0	71	suffixation	suffix: ɔ	0	bʰar(s)dʰ-o/ah₂-	1	bʱ a ɾ dʱ ɔ	substantive			masculine				
+73	Indo-European	?	bʰardʰos	bʱ a ɾ dʱ ɔ s	0	72	inflection	n.sg.	13	bʰar(s)dʰ-o/ah₂-	0	bʱ a ɾ dʱ ɔ s	substantive		n.sg.	masculine				
+74	Germanic	?	barda-	β a r ð a	0	72	inheritance	inheritance	0	bʰar(s)dʰ-o/ah₂-	1	β a r ð a	substantive			masculine				
+75	Germanic	?	bardaz	β a r ð a z	0	74	inflection	n.sg.	13	bʰar(s)dʰ-o/ah₂-	0	β a r ð a z	substantive		n.sg.	masculine				
+76	Old High German	Bart	bart-	b a r t	0	74	inheritance	inheritance	0	bʰar(s)dʰ-o/ah₂-	1	b a r t	substantive			masculine				
+77	Old High German	Bart	bart	b a r t	1	76	inflection	n.sg.	13	bʰar(s)dʰ-o/ah₂-	0	b a r t - -	substantive		n.sg.	masculine				
+78	Indo-European	?	bʰardʰ-ah₂-	bʱ a ɾ dʱ a χ	0	71	suffixation	suffix: a χ	0	bʰar(s)dʰ-o/ah₂-	1	bʱ a ɾ dʱ a χ	substantive			feminine				
+79	Indo-European	?	bʰardʰah₂	bʱ a ɾ dʱ a χ	0	78	inflection	n.sg.	14	bʰar(s)dʰ-o/ah₂-	0	bʱ a ɾ dʱ a χ	substantive		n.sg.	feminine				
+80	Latin	Bart	barba-	b a ɾ b a	0	78	inheritance	inheritance	0	bʰar(s)dʰ-o/ah₂-	1	b a ɾ b a	substantive			feminine				
+81	Latin	Bart	barba	b a ɾ b a	1	80	inflection	n.sg.	14	bʰar(s)dʰ-o/ah₂-	0	b a ɾ b a -	substantive		n.sg.	feminine				
+82	Indo-European	?	bʰardʰ-ah₂-to-	bʱ a ɾ dʱ a χ t ɔ	0	78	suffixation	suffix: t ɔ	0	bʰar(s)dʰ-o/ah₂-	1	bʱ a ɾ dʱ a χ t ɔ	adjective							
+83	Indo-European	?	bʰardʰah₂tos	bʱ a ɾ dʱ a χ t ɔ s	0	82	inflection	n.sg.masculine	15	bʰar(s)dʰ-o/ah₂-	0	bʱ a ɾ dʱ a χ t ɔ s	adjective		n.sg.	masculine				
+84	Latin	bärtig	barbāto-	b a ɾ b aː t ɔ	0	82	inheritance	inheritance	0	bʰar(s)dʰ-o/ah₂-	1	b a ɾ b aː t ɔ	adjective							
+85	Latin	bärtig	barbātus	b a ɾ b aː t ʊ s	1	84	inflection	n.sg.masculine	15	bʰar(s)dʰ-o/ah₂-	0	b a ɾ b aː - t ʊ s	adjective		n.sg.	masculine				
+86	Indo-European	brechen	bʰeg-	bʱ ɛ ɢ	0				0	bʰeg	1	bʱ ɛ ɢ	root							
+87	Indo-European	?	-bʰog-ó-	bʱ ɔ ɢ ˈɔ	0	86	derivation	o-grade, suffix: ˈɔ	0	bʰeg	1	bʱ ɔ ɢ ˈɔ	adjective				?		?	
+88	Indo-European	?	bʰogós	bʱ ɔ ɢ ˈɔ s	0	87	inflection	n.sg.masculine	16	bʰeg	0	bʱ ɔ ɢ ˈɔ s	adjective		n.sg.	masculine	?		?	
+89	Vedic	brechend, sprengend	bhagá-	bʱ ɐ g ˈɐ	0	87	inheritance	inheritance	0	bʰeg	1	bʱ ɐ g ˈɐ	adjective					[	[	
+90	Vedic	brechend, sprengend	bhagáḥ	bʱ ɐ g ˈɐ h	0	89	inflection	n.sg.masculine	16	bʰeg	0	bʱ ɐ g ˈɐ h	adjective		n.sg.	masculine		[	[	
+91	Vedic	brechend, sprengend	bhaṅgá-	bʱ ɐ ŋ g ˈɐ	0	89	analogy	analogy: 0 bʱ ɐ ŋ dʓ	0	bʰeg	1	bʱ ɐ ŋ g ˈɐ	adjective					[	[	
+92	Vedic	brechend, sprengend	bhaṅgáḥ	bʱ ɐ ŋ g ˈɐ h	1	91	inflection	n.sg.masculine	0	bʰeg	0	bʱ ɐ ŋ g ˈɐ h	adjective		n.sg.	masculine		[	[	
+93	Vedic	Zerbrecher	pra-bhaṅgá-	p ɾ ɐ bʱ ɐ ŋ g ˈɐ	0	91	prefixation	prefix: p ɾ ɐ	0	bʰeg	1	p ɾ ɐ bʱ ɐ ŋ g ˈɐ	substantive			masculine		[	[	
+94	Vedic	Zerbrecher	prabhaṅgáḥ	p ɾ ɐ bʱ ɐ ŋ g ˈɐ h	1	93	inflection	n.sg.	0	bʰeg	0	p ɾ ɐ bʱ ɐ ŋ g ˈɐ h	substantive		n.sg.	masculine		[	[	
+95	Indo-European	?	bʰeg-nó-	bʱ ɛ ɢ n ˈɔ	0	86	suffixation	suffix: n ˈɔ	0	bʰeg	1	bʱ ɛ ɢ n ˈɔ	adjective							
+96	Indo-European	?	bʰegnós	bʱ ɛ ɢ n ˈɔ s	0	95	inflection	n.sg.masculine	17	bʰeg	0	bʱ ɛ ɢ n ˈɔ s	adjective		n.sg.	masculine				
+97	Vedic	gebrochen	bhagna-	bʱ ɐ g n ɐ	0	95	inheritance	inheritance	0	bʰeg	1	bʱ ɐ g n ɐ	adjective							
+98	Vedic	gebrochen	bhagnaḥ	bʱ ɐ g n ɐ h	1	97	inflection	n.sg.masculine	17	bʰeg	0	bʱ ɐ g n ɐ h	adjective		n.sg.	masculine				
+99	Indo-European	glänzen, leuchten, scheinen	bʰeh₂-	bʱ a χ	0				0	bʰeh₂	1	bʱ a χ	root							
+100	Indo-European	?	bʰáh₂-	bʱ ˈa χ	0	99	derivation	root noun	0	bʰeh₂	1	bʱ ˈa χ	substantive			feminine				
+101	Indo-European	?	bʰáh₂s	bʱ ˈa χ s	0	100	inflection	n.sg.	18	bʰeh₂	0	bʱ ˈa χ s	substantive		n.sg.	feminine				
+102	Vedic	Schein, Licht	bhā́-	bʱ ˈaː	0	100	inheritance	inheritance	0	bʰeh₂	1	bʱ ˈaː	substantive			feminine				
+103	Vedic	Schein, Licht	bhā́	bʱ ˈaː	1	102	inflection	n.sg.	18	bʰeh₂	0	bʱ ˈaː - -	substantive		n.sg.	feminine				
+104	Vedic	?	bhā́-tvakṣas-	bʱ ˈaː t w ɐ k ʂ ɐ s	0	102	compound	compound with 0 t w ˈɐ k ʂ ɐ s	0	bʰeh₂	1	bʱ ˈaː t w ɐ k ʂ ɐ s	adjective							
+105	Vedic	?	bhā́-tvakṣaḥ	bʱ ˈaː t w ɐ k ʂ ɐ h	1	104	inflection	n.sg.masculine	0	bʰeh₂	0	bʱ ˈaː t w ɐ k ʂ ɐ h	adjective		n.sg.	masculine				
+106	Vedic	strahlend	vi-bhā́-	w i bʱ ˈaː	0	102	prefixation	prefix: w i	0	bʰeh₂	1	w i bʱ ˈaː	adjective							
+107	Vedic	strahlend	vi-bhā́	w i bʱ ˈaː	1	106	inflection	n.sg.masculine	0	bʰeh₂	0	w i bʱ ˈaː	adjective		n.sg.	masculine				
+108	Germanic	?	-bō-	β ɔː	0	100	inheritance	inheritance	0	bʰeh₂	1	β ɔː								
+109	Germanic	?	-bōs	β ɔː s	0	108	inflection	n.sg.	18	bʰeh₂	0	β ɔː - s			n.sg.	masculine				
+110	Germanic	?	-bō	β ɔː	0	108	inflection	i.sg.	0	bʰeh₂	0	β ɔː			i.sg.	masculine				
+111	Germanic	?	-bōi	β ɔː i	0	108	inflection	d.sg.	0	bʰeh₂	0	β ɔː i			d.sg.	masculine				corrected from -bhāi
+112	Indo-European	?	-bʰh₂-o-	bʱ χ ɔ	0	99	derivation	zero-grade, suffix: ɔ	0	bʰeh₂	1	bʱ χ ɔ								
+113	Indo-European	?	bʰh₂os	bʱ χ ɔ s	0	112	inflection	n.sg.	19	bʰeh₂	0	bʱ χ ɔ s			n.sg.					
+114	Old Indic	?	bha-	bʱ ɐ	0	112	inheritance	inheritance	0	bʰeh₂	1	bʱ ɐ								
+115	Old Indic	?	bhaḥ	bʱ ɐ h	0	114	inflection	n.sg.	19	bʰeh₂	0	bʱ - ɐ h			n.sg.					
+116	Old Indic	ähnlich, gleich	nibha-	n i bʱ ɐ	0	114	prefixation	prefix: n i	0	bʰeh₂	1	n i bʱ ɐ	adjective							
+117	Old Indic	ähnlich, gleich	nibhaḥ	n i bʱ ɐ h	1	116	inflection	n.sg.masculine	0	bʰeh₂	0	n i bʱ ɐ h	adjective		n.sg.	masculine				
+118	Indo-European	?	bʰoh₂-t-	bʱ ɔ χ t	0	99	derivation	o-grade, suffix: t	0	bʰeh₂	1	bʱ ɔ χ t	substantive			masculine				
+119	Indo-European	?	bʰoh₂ts	bʱ ɔ χ t s	0	118	inflection	n.sg.	20	bʰeh₂	0	bʱ ɔ χ t s	substantive		n.sg.	masculine				
+120	Greek	Mann	φῶτ-	pʰ ˈɔː t	0	118	inheritance	inheritance	0	bʰeh₂	1	pʰ ˈɔː t	substantive			masculine				
+121	Greek	Mann	φῶς	pʰ ˈɔː s	1	120	inflection	n.sg.	20	bʰeh₂	0	pʰ ˈɔː - - s	substantive		n.sg.	masculine				
+122	Indo-European	?	bʰoh₂-t-ih₂-	bʱ ɔ χ t i χ	0	118	suffixation	suffix: i χ	0	bʰeh₂	1	bʱ ɔ χ t i χ								
+123	Indo-European	?	bʰoh₂tih₂	bʱ ɔ χ t i χ	0	122	inflection	n.sg.	21	bʰeh₂	0	bʱ ɔ χ t i χ			n.sg.					
+124	Greek	?	φαττα-	pʰ a tː a	0	122	inheritance	inheritance	0	bʰeh₂	1	pʰ a tː a								
+125	Greek	?	φαττα	pʰ a tː a	0	124	inflection	n.sg.	21	bʰeh₂	0	pʰ a - tː a -			n.sg.					
+126	Greek	Persephone	Φερρέφαττα-	pʰ ɛ rː ˈɛ pʰ a tː a	0	124	compound	compound2 with 0 pʰ ɛ rː ˈɛ	0	bʰeh₂	1	pʰ ɛ rː ˈɛ pʰ a tː a	substantive			feminine				
+127	Greek	Persephone	Φερρέφαττα	pʰ ɛ rː ˈɛ pʰ a tː a	1	126	inflection	n.sg.	0	bʰeh₂	0	pʰ ɛ rː ˈɛ pʰ a tː a	substantive		n.sg.	feminine				
+128	Attic	?	φαττα-	pʰ a tː a	0	122	inheritance	inheritance	0	bʰeh₂	1	pʰ a tː a								
+129	Attic	?	φαττα	pʰ a tː a	0	128	inflection	n.sg.	21	bʰeh₂	0	pʰ a - tː a -			n.sg.					
+130	Attic	Persephone	Φερρέφαττα-	pʰ ɛ rː ˈɛ pʰ a tː a	0	128	compound	compound2 with 0 pʰ ɛ rː ˈɛ	0	bʰeh₂	1	pʰ ɛ rː ˈɛ pʰ a tː a	substantive			feminine				
+131	Attic	Persephone	Φερρέφαττα	pʰ ɛ rː ˈɛ pʰ a tː a	1	130	inflection	n.sg.	0	bʰeh₂	0	pʰ ɛ rː ˈɛ pʰ a tː a	substantive		n.sg.	feminine				
+132	Indo-European	?	bʰh₂-ti-	bʱ χ t i	0	99	derivation	zero-grade, suffix: t i	0	bʰeh₂	1	bʱ χ t i	substantive			feminine	?		?	
+133	Indo-European	?	bʰh₂tis	bʱ χ t i s	0	132	inflection	n.sg.	22	bʰeh₂	0	bʱ χ t i s	substantive		n.sg.	feminine	?		?	
+134	Greek	Anzeige, Erscheinung	φάσι-	pʰ ˈa s ɪ	0	132	inheritance	inheritance	0	bʰeh₂	1	pʰ ˈa s ɪ	substantive			feminine				
+135	Greek	Anzeige, Erscheinung	φάσις	pʰ ˈa s ɪ s	1	134	inflection	n.sg.	22	bʰeh₂	0	pʰ ˈa s ɪ s	substantive		n.sg.	feminine				
+136	Greek	(scheinbarer) Grund, Vorwand	πρόφασι-	p ɾ ˈɔ pʰ a s ɪ	0	134	prefixation	prefix: p ɾ ˈɔ	0	bʰeh₂	1	p ɾ ˈɔ pʰ a s ɪ	substantive			feminine				
+137	Greek	(scheinbarer) Grund, Vorwand	πρόφασις	p ɾ ˈɔ pʰ a s ɪ s	1	136	inflection	n.sg.	0	bʰeh₂	0	p ɾ ˈɔ pʰ a s ɪ s	substantive		n.sg.	feminine				
+138	Indo-European	?	bʰáh₂-ti-	bʱ ˈa χ t i	0	99	suffixation	suffix: t i	0	bʰeh₂	1	bʱ ˈa χ t i	substantive			feminine				
+139	Indo-European	?	bʰáh₂tis	bʱ ˈa χ t i s	0	138	inflection	n.sg.	23	bʰeh₂	0	bʱ ˈa χ t i s	substantive		n.sg.	feminine				
+140	Old Indic	Glanz, Licht, Erkenntnis	bhāti-	bʱ aː t i	0	138	inheritance	inheritance	0	bʰeh₂	1	bʱ aː t i	substantive			feminine				
+141	Old Indic	Glanz, Licht, Erkenntnis	bhātiḥ	bʱ aː t i h	1	140	inflection	n.sg.	23	bʰeh₂	0	bʱ aː - t i h	substantive		n.sg.	feminine				
+142	Indo-European	?	bʰah₂-nú-	bʱ a χ n ˈu	0	99	suffixation	suffix: n ˈu	0	bʰeh₂	1	bʱ a χ n ˈu	substantive			masculine				
+143	Indo-European	?	bʰah₂nús	bʱ a χ n ˈu s	0	142	inflection	n.sg.	24	bʰeh₂	0	bʱ a χ n ˈu s	substantive		n.sg.	masculine				
+144	Vedic	Licht, Strahl, Erscheinung, Glanz	bhānú-	bʱ aː n ˈu	0	142	inheritance	inheritance	0	bʰeh₂	1	bʱ aː n ˈu	substantive			masculine				
+145	Vedic	Licht, Strahl, Erscheinung, Glanz	bhānúḥ	bʱ aː n ˈu h	1	144	inflection	n.sg.	24	bʰeh₂	0	bʱ aː - n ˈu h	substantive		n.sg.	masculine				
+146	Indo-European	?	bʰah₂-es-	bʱ a χ ɛ s	0	99	suffixation	suffix: ɛ s	0	bʰeh₂	1	bʱ a χ ɛ s	substantive			neuter				
+147	Indo-European	?	bʰah₂-es	bʱ a χ ɛ s	0	146	inflection	n.sg.	25	bʰeh₂	0	bʱ a χ ɛ s	substantive		n.sg.	neuter				
+148	Vedic	Licht, Strahl	bhā́s-	bʱ ˈaː s	0	146	inheritance	inheritance	0	bʰeh₂	1	bʱ ˈaː s	substantive			neuter				
+149	Vedic	Licht, Strahl	bhā́ḥ	bʱ ˈaː h	1	148	inflection	n.sg.	25	bʰeh₂	0	bʱ ˈaː h - -	substantive		n.sg.	neuter				
+150	Latin	?	bar-	b a ɾ	0	146	inheritance	inheritance	0	bʰeh₂	1	b a ɾ								
+151	Latin	?	bar	b a ɾ	0	150	inflection	n.sg.	25	bʰeh₂	0	b a ɾ - -			n.sg.					
+152	Latin	erstes Tageslicht, Morgenstern	iūbar-	j uː b a ɾ	0	150	compound	compound2 with 0 j uː	0	bʰeh₂	1	j uː b a ɾ	substantive			neuter				
+153	Latin	erstes Tageslicht, Morgenstern	iūbar	j uː b a ɾ	1	152	inflection	n.sg.	0	bʰeh₂	0	j uː b a ɾ	substantive		n.sg.	neuter				
+154	Indo-European	?	bʰah₂-lo-	bʱ a χ l ɔ	0	99	suffixation	suffix: l ɔ	0	bʰeh₂	1	bʱ a χ l ɔ	substantive			neuter				
+155	Indo-European	?	bʰah₂los	bʱ a χ l ɔ s	0	154	inflection	n.sg.	26	bʰeh₂	0	bʱ a χ l ɔ s	substantive		n.sg.	neuter				
+156	Old Indic	Stirn, Glanz	bhāla-	bʱ aː l ɐ	0	154	inheritance	inheritance	0	bʰeh₂	1	bʱ aː l ɐ	substantive			neuter	?		?	
+157	Old Indic	Stirn, Glanz	bhālaḥ	bʱ aː l ɐ h	1	156	inflection	n.sg.	26	bʰeh₂	0	bʱ aː - l ɐ h	substantive		n.sg.	neuter	?		?	
+158	Indo-European	?	bʰah₂-mo-	bʱ a χ m ɔ	0	99	suffixation	suffix: m ɔ	0	bʰeh₂	1	bʱ a χ m ɔ	substantive			masculine				
+159	Indo-European	?	bʰah₂mos	bʱ a χ m ɔ s	0	158	inflection	n.sg.	27	bʰeh₂	0	bʱ a χ m ɔ s	substantive		n.sg.	masculine				
+160	Vedic	Licht, Glanz, Grimm, Wut, Zorn	bhā́ma-	bʱ ˈaː m ɐ	0	158	inheritance	inheritance	0	bʰeh₂	1	bʱ ˈaː m ɐ	substantive			masculine				
+161	Vedic	Licht, Glanz, Grimm, Wut, Zorn	bhā́maḥ	bʱ ˈaː m ɐ h	1	160	inflection	n.sg.	27	bʰeh₂	0	bʱ ˈaː - m ɐ h	substantive		n.sg.	masculine				
+162	Indo-European	?	bʰah₂-no-	bʱ a χ n ɔ	0	99	suffixation	suffix: n ɔ	0	bʰeh₂	1	bʱ a χ n ɔ	substantive			neuter				
+163	Indo-European	?	bʰah₂nom	bʱ a χ n ɔ m	0	162	inflection	n.sg.	28	bʰeh₂	0	bʱ a χ n ɔ m	substantive		n.sg.	neuter				
+164	Indo-European	?	bʰoh₂-no-	bʱ ɔ χ n ɔ	0	99	derivation	o-grade, suffix: n ɔ	0	bʰeh₂	1	bʱ ɔ χ n ɔ	substantive			neuter				
+165	Indo-European	?	bʰoh₂nom	bʱ ɔ χ n ɔ m	0	164	inflection	n.sg.	28	bʰeh₂	0	bʱ ɔ χ n ɔ m	substantive		n.sg.	neuter				
+166	Old Indic	das Leuchten, Erscheinung	bhā́na-	bʱ ˈaː n ɐ	0	164	inheritance	inheritance	0	bʰeh₂	1	bʱ ˈaː n ɐ	substantive			neuter				
+167	Old Indic	das Leuchten, Erscheinung	bhā́nam	bʱ ˈaː n ɐ m	1	166	inflection	n.sg.	28	bʰeh₂	0	bʱ ˈaː - n ɐ m	substantive		n.sg.	neuter				
+168	Germanic	?	bōna-	β ɔː n a	0	164	inheritance	inheritance	0	bʰeh₂	1	β ɔː n a	substantive			neuter				
+169	Germanic	?	bōnan	β ɔː n a n	0	168	inflection	n.sg.	28	bʰeh₂	0	β ɔː - n a n	substantive		n.sg.	neuter				could also be not neuter
+170	Indo-European	?	bʰh₂-to-	bʱ χ t ɔ	0	99	derivation	zero-grade, suffix: t ɔ	0	bʰeh₂	1	bʱ χ t ɔ					?		?	
+171	Indo-European	?	bʰh₂tos	bʱ χ t ɔ s	0	170	inflection	n.sg.	29	bʰeh₂	0	bʱ χ t ɔ s			n.sg.		?		?	
+172	Greek	?	-φατο-	pʰ a t ɔ	0	170	inheritance	inheritance	0	bʰeh₂	1	pʰ a t ɔ								
+173	Greek	?	φατος	pʰ a t ɔ s	0	172	inflection	n.sg.	29	bʰeh₂	0	pʰ a t ɔ s			n.sg.					
+174	Greek	dargelegt, berühmt	πρόφατο-	p ɾ ˈɔ pʰ a t ɔ	0	172	prefixation	prefix: p ɾ ˈɔ	0	bʰeh₂	1	p ɾ ˈɔ pʰ a t ɔ	adjective							
+175	Greek	dargelegt, berühmt	πρόφατος	p ɾ ˈɔ pʰ a t ɔ s	1	174	inflection	n.sg.masculine	0	bʰeh₂	0	p ɾ ˈɔ pʰ a t ɔ s	adjective		n.sg.	masculine				
+176	Greek	unaussprechlich	ὑπέρφατο-	h ʏ p ˈɛ ɾ pʰ a t ɔ	0	172	prefixation	prefix: h ʏ p ˈɛ ɾ	0	bʰeh₂	1	h ʏ p ˈɛ ɾ pʰ a t ɔ	adjective							
+177	Greek	unaussprechlich	ὑπέρφατος	h ʏ p ˈɛ ɾ pʰ a t ɔ s	1	176	inflection	n.sg.masculine	0	bʰeh₂	0	h ʏ p ˈɛ ɾ pʰ a t ɔ s	adjective		n.sg.	masculine				
+178	Indo-European	?	bʰah₂-to-	bʱ a χ t ɔ	0	99	suffixation	suffix: t ɔ	0	bʰeh₂	1	bʱ a χ t ɔ	adjective							
+179	Indo-European	?	bʰah₂tos	bʱ a χ t ɔ s	0	178	inflection	n.sg.masculine	30	bʰeh₂	0	bʱ a χ t ɔ s	adjective		n.sg.	masculine				
+180	Old Indic	leuchtend, scheinend	bhāta-	bʱ aː t ɐ	0	178	inheritance	inheritance	0	bʰeh₂	1	bʱ aː t ɐ	adjective							
+181	Old Indic	leuchtend, scheinend	bhātaḥ	bʱ aː t ɐ h	1	180	inflection	n.sg.masculine	30	bʰeh₂	0	bʱ aː - t ɐ h	adjective		n.sg.	masculine				
+182	Indo-European	spalten	bʰei̯d-	bʱ ɛi̯ d	0				0	bʰei̯d	1	bʱ ɛi̯ d	root							
+183	Indo-European	?	bʰid-	bʱ i d	0	182	derivation	zero-grade	0	bʰei̯d	1	bʱ i d	substantive			feminine				
+184	Indo-European	?	bʰids	bʱ i d s	0	183	inflection	n.sg.	31	bʰei̯d	0	bʱ i d s	substantive		n.sg.	feminine				
+185	Vedic	Spaltung, Spalte	bhíd-	bʱ ˈi d	0	183	inheritance	inheritance	0	bʰei̯d	1	bʱ ˈi d	substantive			feminine				
+186	Vedic	Spaltung, Spalte	bhít	bʱ ˈi t	1	185	inflection	n.sg.	31	bʰei̯d	0	bʱ ˈi t -	substantive		n.sg.	feminine				
+187	Vedic	Befestigungen aufbrechend	pūr-bhíd-	p uː ɾ bʱ ˈi d	0	185	compound	compound2 with 0 p uː ɾ	0	bʰei̯d	1	p uː ɾ bʱ ˈi d	adjective							
+188	Vedic	Befestigungen aufbrechend	pūr-bhít	p uː ɾ bʱ ˈi t	1	187	inflection	n.sg.masculine	0	bʰei̯d	0	p uː ɾ bʱ ˈi t	adjective		n.sg.	masculine				
+189	Indo-European	?	bʰid-o-	bʱ i d ɔ	0	182	derivation	zero-grade, suffix: ɔ	0	bʰei̯d	1	bʱ i d ɔ					?		?	
+190	Indo-European	?	bʰidos	bʱ i d ɔ s	0	189	inflection	n.sg.	32	bʰei̯d	0	bʱ i d ɔ s			n.sg.		?		?	
+191	Latin	?	-fido-	f ɪ d ɔ	0	189	inheritance	inheritance	0	bʰei̯d	1	f ɪ d ɔ								
+192	Latin	?	-fidus	f ɪ d ʊ s	0	191	inflection	n.sg.	32	bʰei̯d	0	f ɪ d ʊ s			n.sg.					
+193	Latin	in zwei Teile gespalten	bi-fido-	b ɪ f ɪ d ɔ	0	191	compound	compound2 with 0 b ɪ	0	bʰei̯d	1	b ɪ f ɪ d ɔ	adjective							
+194	Latin	in zwei Teile gespalten	bifidus	b ɪ f ɪ d ʊ s	1	193	inflection	n.sg.masculine	0	bʰei̯d	0	b ɪ f ɪ d ʊ s	adjective		n.sg.	masculine				
+195	Indo-European	?	bʰid-tér-	bʱ i d t ˈɛ ɾ	0	182	derivation	zero-grade, suffix: t ˈɛ ɾ	0	bʰei̯d	1	bʱ i d t ˈɛ ɾ	substantive			masculine				
+196	Indo-European	?	bʰidtḗr	bʱ i d t ˈɛː ɾ	0	195	inflection	n.sg.	33	bʰei̯d	0	bʱ i d t ˈɛː ɾ	substantive		n.sg.	masculine				
+197	Vedic	Zerbrecher	bhittár-	bʱ i tː ˈɐ ɾ	0	195	inheritance	inheritance	0	bʰei̯d	1	bʱ i tː ˈɐ ɾ	substantive			masculine		[	[	
+198	Vedic	Zerbrecher	bhittā́	bʱ i tː ˈaː	0	197	inflection	n.sg.	33	bʰei̯d	0	bʱ i - tː ˈaː -	substantive		n.sg.	masculine		[	[	
+199	Vedic	Zerbrecher	bhettár-	bʱ ɛː tː ˈɐ ɾ	0	197	analogy	analogy: ?	0	bʰei̯d	1	bʱ ɛː tː ˈɐ ɾ	substantive			masculine		[	[	
+200	Vedic	Zerbrecher	bhettā́	bʱ ɛː tː ˈaː	1	199	inflection	n.sg.	0	bʰei̯d	0	bʱ ɛː tː ˈaː	substantive		n.sg.	masculine		[	[	
+201	Indo-European	?	bʰei̯d-oi̯-	bʱ ɛi̯ d ɔi̯	0	182	suffixation	suffix: ɔi̯	0	bʰei̯d	1	bʱ ɛi̯ d ɔi̯	substantive			feminine	?		?	
+202	Indo-European	?	bʰei̯doi̯	bʱ ɛi̯ d ɔi̯	0	201	inflection	n.sg.	34	bʰei̯d	0	bʱ ɛi̯ d ɔi̯	substantive		n.sg.	feminine	?		?	
+203	Greek	Schonen, Sparen	φειδόι-	pʰ eː d ˈɔi̯	0	201	inheritance	inheritance	0	bʰei̯d	1	pʰ eː d ˈɔi̯	substantive			feminine				
+204	Greek	Schonen, Sparen	φειδώ	pʰ eː d ˈɔː	1	203	inflection	n.sg.	34	bʰei̯d	0	pʰ eː d ˈɔː	substantive		n.sg.	feminine				
+205	Indo-European	?	bʰid-ti-	bʱ i d t i	0	182	derivation	zero-grade, suffix: t i	0	bʰei̯d	1	bʱ i d t i	substantive			feminine				
+206	Indo-European	?	bʰidtis	bʱ i d t i s	0	205	inflection	n.sg.	35	bʰei̯d	0	bʱ i d t i s	substantive		n.sg.	feminine				
+207	Vedic	Zerbrechen, Schilfmatte	bhitti-	bʱ i tː i	0	205	inheritance	inheritance	0	bʰei̯d	1	bʱ i tː i	substantive			feminine				
+208	Vedic	Zerbrechen, Schilfmatte	bhittiḥ	bʱ i tː i h	1	207	inflection	n.sg.	35	bʰei̯d	0	bʱ i - tː i h	substantive		n.sg.	feminine				
+209	Vedic	Zerbrechen	ví-bhitti-	w ˈi bʱ i tː i	0	207	prefixation	prefix: w ˈi	0	bʰei̯d	1	w ˈi bʱ i tː i	substantive			feminine				
+210	Vedic	Zerbrechen	víbhittiḥ	w ˈi bʱ i tː i h	1	209	inflection	n.sg.	0	bʰei̯d	0	w ˈi bʱ i tː i h	substantive		n.sg.	feminine				
+211	Indo-European	?	bʰei̯d-tu-	bʱ ɛi̯ d t u	0	182	suffixation	suffix: t u	0	bʰei̯d	1	bʱ ɛi̯ d t u	substantive							
+212	Indo-European	?	bʰei̯dtum	bʱ ɛi̯ d t u m	0	211	inflection	n.sg.	149	bʰei̯d	0	bʱ ɛi̯ d t u m	substantive		n.sg.	neuter				
+213	Vedic	spalten	bhid-	bʱ i d	0				0	bʰei̯d	1	bʱ i d	verb							
+214	Vedic	spalten	bhettum	bʱ ɛː tː u m	1	956	inflection	infinitive	0	bʰei̯d	0	bʱ ɛː tː u m	infinitive		n.sg.	neuter				
+215	Indo-European	?	bʰei̯d-o-	bʱ ɛi̯ d ɔ	0	182	suffixation	suffix: ɔ	0	bʰei̯d	1	bʱ ɛi̯ d ɔ								
+216	Indo-European	?	bʰei̯dos	bʱ ɛi̯ d ɔ s	0	215	inflection	n.sg.	36	bʰei̯d	0	bʱ ɛi̯ d ɔ s			n.sg.					
+217	Germanic	?	-beita-	β ɛi̯ t a	0	215	inheritance	inheritance	0	bʰei̯d	1	β ɛi̯ t a								
+218	Germanic	?	-beitaz	β ɛi̯ t a z	0	217	inflection	n.sg.	36	bʰei̯d	0	β ɛi̯ t a z			n.sg.					
+219	Indo-European	?	bʰoi̯d-ó-	bʱ ɔi̯ d ˈɔ	0	182	derivation	o-grade, suffix: ˈɔ	0	bʰei̯d	1	bʱ ɔi̯ d ˈɔ	substantive			masculine				
+220	Indo-European	?	bʰoi̯dós	bʱ ɔi̯ d ˈɔ s	0	219	inflection	n.sg.	37	bʰei̯d	0	bʱ ɔi̯ d ˈɔ s	substantive		n.sg.	masculine				
+221	Vedic	Schamlippe, Zerbrecher	bhedá-	bʱ ɛː d ˈɐ	0	219	inheritance	inheritance	0	bʰei̯d	1	bʱ ɛː d ˈɐ	substantive			masculine				
+222	Vedic	Schamlippe, Zerbrecher	bhedáḥ	bʱ ɛː d ˈɐ h	1	221	inflection	n.sg.	37	bʰei̯d	0	bʱ ɛː d ˈɐ h	substantive		n.sg.	masculine				
+223	Germanic	beißend	-baita-	β ai̯ t a	0	915	inheritance	inheritance	0	bʰei̯d	1	β ai̯ t a	adjective							
+224	Germanic	beißend	-baitaz	β ai̯ t a z	0	223	inflection	n.sg.masculine	38	bʰei̯d	0	β ai̯ t a z	adjective		n.sg.	masculine				
+225	Indo-European	?	bʰoi̯d-ah₂-	bʱ ɔi̯ d a χ	0	182	derivation	o-grade, suffix: a χ	0	bʰei̯d	1	bʱ ɔi̯ d a χ	substantive							
+226	Indo-European	?	bʰoi̯dah₂	bʱ ɔi̯ d a χ	0	225	inflection	n.sg.	39	bʰei̯d	0	bʱ ɔi̯ d a χ	substantive		n.sg.					
+227	Germanic	?	baitō-	β ai̯ t ɔː	0	225	inheritance	inheritance	0	bʰei̯d	1	β ai̯ t ɔː	substantive							
+228	Germanic	?	baitō	β ai̯ t ɔː	0	227	inflection	n.sg.	39	bʰei̯d	0	β ai̯ t ɔː -	substantive		n.sg.					
+229	Indo-European	?	bʰid-nó-	bʱ i d n ˈɔ	0	182	derivation	zero-grade, suffix: n ˈɔ	0	bʰei̯d	1	bʱ i d n ˈɔ	adjective							
+230	Indo-European	?	bʰidnós	bʱ i d n ˈɔ s	0	229	inflection	n.sg.masculine	40	bʰei̯d	0	bʱ i d n ˈɔ s	adjective		n.sg.	masculine				
+231	Vedic	gespalten	bhinnáḥ	bʱ i nː ˈɐ h	0	938	inflection	n.sg.masculine	40	bʰei̯d	0	bʱ i - nː ˈɐ h			n.sg.	masculine				
+232	Vedic	gespalten	bhinnáḥ	bʱ i nː ˈɐ h	1	939	inflection	ppp n.sg.masculine	0	bʰei̯d	0	bʱ i nː ˈɐ h	ppp		n.sg.	masculine				
+233	Indo-European	?	bʰid-ró-	bʱ i d ɾ ˈɔ	0	182	derivation	zero-grade, suffix: ɾ ˈɔ	0	bʰei̯d	1	bʱ i d ɾ ˈɔ	adjective							
+234	Indo-European	?	bʰidrós	bʱ i d ɾ ˈɔ s	0	233	inflection	n.sg.masculine	41	bʰei̯d	0	bʱ i d - ɾ ˈɔ s	adjective		n.sg.	masculine				
+235	Germanic	beißend	bitra-	β i t r a	0	233	inheritance	inheritance	0	bʰei̯d	1	β i t r a	adjective							
+236	Germanic	beißend	bitraz	β i t r a z	0	235	inflection	n.sg.masculine	41	bʰei̯d	0	β i t - r a z	adjective		n.sg.	masculine				
+237	Germanic	bitter	bitras	β i t r a s	0	235	inflection	g.sg.	42	bʰei̯d	0	β i t r a s	adjective		g.sg.	masculine				
+238	Old High German	bitter	bizzar	b i sː a r	0	239	inflection	n.sg.masculine	41	bʰei̯d	0	b i sː a r - -	adjective		n.sg.	masculine				
+239	Old High German	bitter	bittar-	b i tː a r	0	235	inheritance	inheritance	0	bʰei̯d	1	b i tː a r	adjective							
+240	Old High German	bitter	bittar	b i tː a r	1	897	inflection	n.sg.masculine	0	bʰei̯d	0	b i tː a r	adjective		n.sg.	masculine				
+241	Old High German	bitter	bittres	b i tː r e s̺	0	239	inflection	g.sg.masculine	42	bʰei̯d	0	b i tː r e s̺	adjective		g.sg.	masculine				
+242	Indo-European	?	bʰid-tó-	bʱ i d t ˈɔ	0	182	derivation	zero-grade, suffix: t ˈɔ	0	bʰei̯d	1	bʱ i d t ˈɔ	substantive			neuter				
+243	Indo-European	?	bʰidtóm	bʱ i d t ˈɔ m	0	242	inflection	n.sg.	43	bʰei̯d	0	bʱ i d t ˈɔ m	substantive		n.sg.	neuter				
+244	Old Indic	Abschnitt, Trennwand	bhitta-	bʱ i tː ɐ	0	242	inheritance	inheritance	0	bʰei̯d	1	bʱ i tː ɐ	substantive			neuter				
+245	Old Indic	Abschnitt, Trennwand	bhittam	bʱ i tː ɐ m	1	244	inflection	n.sg.	43	bʰei̯d	0	bʱ i - tː ɐ m	substantive		n.sg.	neuter				
+246	Latin	spalten	finde-	f i n d ɛ	0				0	bʰei̯d	1	f i n d ɛ	verb							
+247	Latin	gespalten	fīssus	f iː sː ʊ s	1	941	inflection	ppp n.sg.masculine	0	bʰei̯d	0	f iː sː ʊ s	ppp		n.sg.	masculine				
+249	Latin	Spalt	fīsso-	f iː sː ɔ	0	242	inheritance	inheritance	0	bʰei̯d	1	f iː sː ɔ	substantive			neuter				
+250	Latin	Spalt	fīssum	f iː sː ʊ m	1	249	inflection	n.sg.	43	bʰei̯d	0	f iː - sː ʊ m	substantive		n.sg.	neuter				
+251	Indo-European	sich anvertrauen, Vertrauen fassen	bʰei̯dʰ-	bʱ ɛi̯ dʱ	0				0	bʰei̯dʰ	1	bʱ ɛi̯ dʱ	root							
+252	Indo-European	?	bʰei̯dʰ-oi̯-	bʱ ɛi̯ dʱ ɔi̯	0	251	suffixation	suffix: ɔi̯	0	bʰei̯dʰ	1	bʱ ɛi̯ dʱ ɔi̯	substantive			feminine	?		?	
+253	Indo-European	?	bʰei̯dʰōi̯	bʱ ɛi̯ dʱ ɔːi̯	0	252	inflection	n.sg.	45	bʰei̯dʰ	0	bʱ ɛi̯ dʱ ɔːi̯	substantive		n.sg.	feminine	?		?	
+254	Greek	Überredungskunst (Göttername)	Πειθόι-	p eː θ ˈɔi̯	0	252	inheritance	inheritance	0	bʰei̯dʰ	1	p eː θ ˈɔi̯	substantive			feminine				
+255	Greek	Überredungskunst (Göttername)	Πειθώ	p eː θ ˈɔː	1	254	inflection	n.sg.	45	bʰei̯dʰ	0	p eː θ ˈɔː	substantive		n.sg.	feminine				
+256	Indo-European	?	bʰidʰ-ti-	bʱ i dʱ t i	0	251	derivation	zero-grade, suffix: t i	0	bʰei̯dʰ	1	bʱ i dʱ t i	substantive			feminine				
+257	Indo-European	?	bʰidʰtis	bʱ i dʱ t i s	0	256	inflection	n.sg.	46	bʰei̯dʰ	0	bʱ i dʱ t i s	substantive		n.sg.	feminine				
+258	Greek	Treue, Vertrauen, Bürgschaft	πίστι-	p ˈɪ s t ɪ	0	256	inheritance	inheritance	0	bʰei̯dʰ	1	p ˈɪ s t ɪ	substantive			feminine		[	[	
+259	Greek	Treue, Vertrauen, Bürgschaft	πίστις	p ˈɪ s t ɪ s	1	258	inflection	n.sg.	46	bʰei̯dʰ	0	p ˈɪ s t ɪ s	substantive		n.sg.	feminine		[	[	
+260	Indo-European	?	bʰei̯dʰ-ih₂-	bʱ ɛi̯ dʱ i χ	0	251	suffixation	suffix: i χ	0	bʰei̯dʰ	1	bʱ ɛi̯ dʱ i χ	substantive			feminine	?		?	
+261	Indo-European	?	bʰei̯dʰih₂	bʱ ɛi̯ dʱ i χ	0	260	inflection	n.sg.	47	bʰei̯dʰ	0	bʱ ɛi̯ dʱ i χ	substantive		n.sg.	feminine	?		?	
+262	Greek	(im) Gehorsam	πείση-	p eː s ɛː	0	260	inheritance	inheritance	0	bʰei̯dʰ	1	p eː s ɛː	substantive							
+263	Greek	(im) Gehorsam	πείσῃ	p eː s ɛː	0	262	inflection	d.sg.	47	bʰei̯dʰ	0	p eː s ɛː -	substantive		d.sg.					
+264	Greek	(im) Gehorsam	ἐν πείσῃ	ɛ n # p eː s ɛː	1	262	syntax	embedding in prepositional phrase	0	bʰei̯dʰ	1	ɛ n # p eː s ɛː	noun phrase							
+265	Indo-European	?	bʰei̯dʰ-es-	bʱ ɛi̯ dʱ ɛ s	0	251	suffixation	suffix: ɛ s	0	bʰei̯dʰ	1	bʱ ɛi̯ dʱ ɛ s	substantive			neuter				
+266	Indo-European	?	bʰei̯dʰes	bʱ ɛi̯ dʱ ɛ s	0	265	inflection	n.sg.	48	bʰei̯dʰ	0	bʱ ɛi̯ dʱ ɛ s	substantive		n.sg.	neuter				
+267	Greek	?	-πείθη-	p eː θ ɛː	0	265	inheritance	inheritance	0	bʰei̯dʰ	1	p eː θ ɛː	substantive							
+268	Greek	?	πείθης	p eː θ ɛː s	0	267	inflection	n.sg.	48	bʰei̯dʰ	0	p eː θ ɛː s	substantive		n.sg.					
+269	Greek	(Personenname)	Εὐ-πείθη-	ɛu̯ p eː θ ˈɛː	0	271	derivation	conversion to substantive	0	bʰei̯dʰ	1	ɛu̯ p eː θ ˈɛː	substantive							
+270	Greek	(Personenname)	Εὐπείθης	ɛu̯ p eː θ ˈɛː s	1	269	inflection	n.sg.	0	bʰei̯dʰ	0	ɛu̯ p eː θ ˈɛː s	substantive		n.sg.	masculine				
+271	Greek	leicht überredbar	εὐ-πειθή-	ɛu̯ p eː θ ˈɛː	0	267	prefixation	prefix: ɛu̯	0	bʰei̯dʰ	1	ɛu̯ p eː θ ˈɛː	adjective							
+272	Greek	leicht überredbar	εὐπειθής	ɛu̯ p eː θ ˈɛː s	0	271	inflection	n.sg.masculine	0	bʰei̯dʰ	0	ɛu̯ p eː θ ˈɛː s	adjective		n.sg.	masculine				
+273	Greek	nicht überzeugend, ungehorsam	ἀ-πειθή-	a p eː θ ˈɛː	0	267	prefixation	prefix: a	0	bʰei̯dʰ	1	a p eː θ ˈɛː	adjective							
+274	Greek	nicht überzeugend, ungehorsam	ἀπειθής	a p eː θ ˈɛː s	1	273	inflection	n.sg.masculine	0	bʰei̯dʰ	0	a p eː θ ˈɛː s	adjective		n.sg.	masculine				
+275	Old Latin	Bündnis	fīder-	f iː d ɛ ɾ	0	265	inheritance	inheritance	0	bʰei̯dʰ	1	f iː d ɛ ɾ	substantive	k		neuter				
+276	Old Latin	Bündnis	fīdus	f iː d ʊ s	1	275	inflection	n.sg.	48	bʰei̯dʰ	0	f iː d ʊ s	substantive	k	n.sg.	neuter				
+277	Indo-European	?	bʰidʰ-o-	bʱ i dʱ ɔ	0	251	derivation	zero-grade, suffix: ɔ	0	bʰei̯dʰ	1	bʱ i dʱ ɔ	substantive			neuter				
+278	Indo-European	?	bʰidʰom	bʱ i dʱ ɔ m	0	277	inflection	n.sg.	49	bʰei̯dʰ	0	bʱ i dʱ ɔ m	substantive		n.sg.	neuter				
+279	Germanic	?	bid-a-	β i ð a	0	277	inheritance	inheritance	0	bʰei̯dʰ	1	β i ð a	substantive			neuter				
+280	Germanic	?	bidan	β i ð a n	0	279	inflection	n.sg.	49	bʰei̯dʰ	0	β i ð a n	substantive		n.sg.	neuter				
+281	Indo-European	?	bʰei̯dʰ-o-	bʱ ɛi̯ dʱ ɔ	0	251	suffixation	suffix: ɔ	0	bʰei̯dʰ	1	bʱ ɛi̯ dʱ ɔ	adjective							
+282	Indo-European	?	bʰei̯dʰos	bʱ ɛi̯ dʱ ɔ s	0	281	inflection	n.sg.masculine	50	bʰei̯dʰ	0	bʱ ɛi̯ dʱ ɔ s	adjective		n.sg.	masculine				
+283	Latin	vertrauenswürdig, treu	fīdo-	f iː d ɔ	0	281	inheritance	inheritance	0	bʰei̯dʰ	1	f iː d ɔ	adjective							
+284	Latin	vertrauenswürdig, treu	fīdus	f iː d ʊ s	1	283	inflection	n.sg.masculine	50	bʰei̯dʰ	0	f iː d ʊ s	adjective		n.sg.	masculine				
+285	Greek	leicht überredend	πειθό-	p eː θ ˈɔ	0	281	inheritance	inheritance	0	bʰei̯dʰ	1	p eː θ ˈɔ	adjective							
+286	Greek	leicht überredend	πειθός	p eː θ ˈɔ s	1	285	inflection	n.sg.masculine	50	bʰei̯dʰ	0	p eː θ ˈɔ s	adjective		n.sg.	masculine				
+287	Indo-European	?	bʰoi̯dʰ-áh₂-	bʱ ɔi̯ dʱ ˈa χ	0	251	derivation	o-grade, suffix: ˈa χ	0	bʰei̯dʰ	1	bʱ ɔi̯ dʱ ˈa χ	substantive			feminine				
+288	Indo-European	?	bʰoi̯dʰáh₂	bʱ ɔi̯ dʱ ˈa χ	0	287	inflection	n.sg.	51	bʰei̯dʰ	0	bʱ ɔi̯ dʱ ˈa χ	substantive		n.sg.	feminine				
+289	Germanic	?	baidō-	β ai̯ ð ɔː	0	287	inheritance	inheritance	0	bʰei̯dʰ	1	β ai̯ ð ɔː	substantive			feminine				
+290	Germanic	?	baidō	β ai̯ ð ɔː	0	289	inflection	n.sg.	51	bʰei̯dʰ	0	β ai̯ ð ɔː -	substantive		n.sg.	feminine				
+291	Old High German	Zögern, Erwarten	bīta-	b iː t a	0	289	inheritance	inheritance	0	bʰei̯dʰ	1	b iː t a	substantive			feminine		[	[	
+292	Old High German	Zögern, Erwarten	bīta	b iː t a	1	291	inflection	n.sg.	51	bʰei̯dʰ	0	b iː t a -	substantive		n.sg.	feminine		[	[	
+293	Old High German	Zögern, Erwarten	bītan-	b iː t a n	0	291	derivation	inflection class change	0	bʰei̯dʰ	1	b iː t a n	substantive	n		feminine		[	[	
+294	Old High German	Zögern, Erwarten	bīta	b iː t a	1	293	inflection	n.sg.	0	bʰei̯dʰ	0	b iː t a	substantive	n	n.sg.	feminine		[	[	
+295	Indo-European	?	bʰidʰ-tó-	bʱ i dʱ t ˈɔ	0	251	derivation	zero-grade, suffix: t ˈɔ	0	bʰei̯dʰ	1	bʱ i dʱ t ˈɔ	adjective							
+296	Indo-European	?	bʰidʰtós	bʱ i dʱ t ˈɔ s	0	295	inflection	n.sg.masculine	52	bʰei̯dʰ	0	bʱ i dʱ t ˈɔ s	adjective		n.sg.	masculine				
+297	Greek	treu, zuverlässig, glaubwürdig	πιστό-	p ɪ s t ˈɔ	0	295	inheritance	inheritance	0	bʰei̯dʰ	1	p ɪ s t ˈɔ	adjective					[	[	
+298	Greek	treu, zuverlässig, glaubwürdig	πιστός	p ɪ s t ˈɔ s	1	297	inflection	n.sg.masculine	52	bʰei̯dʰ	0	p ɪ s t ˈɔ s	adjective		n.sg.	masculine		[	[	
+299	Latin	vertrauen (Perfekt)	fīde-	f iː d ɛ	0				0	bʰei̯dʰ	1	f iː d ɛ	verb					[	[	
+300	Latin	vertrauen (Perfekt)	fistus	f ɪ s t ʊ s	0	944	inflection	ppp n.sg.masculine	0	bʰei̯dʰ	0	f ɪ s t ʊ s	ppp		n.sg.	masculine		[	[	
+301	Latin	vertrauen (Perfekt)	fīso-	f iː s ɔ	0	944	analogy	analogy: 944	0	bʰei̯dʰ	1	f iː s ɔ	ppp							
+302	Latin	vertrauen (Perfekt)	fīsus	f iː s ʊ s	0	301	inflection	ppp n.sg.masculine	0	bʰei̯dʰ	0	f iː s ʊ s	ppp		n.sg.	masculine		[	[	
+303	Indo-European	dicht, fest machen	bʰenǵʰ-	bʱ ɛ n gʱ	0				0	bʰenǵʰ	1	bʱ ɛ n gʱ	root							
+304	Indo-European	?	bʰn̩ǵʰ-on-	bʱ n̩ gʱ ɔ n	0	303	derivation	zero-grade, suffix: ɔ n	0	bʰenǵʰ	1	bʱ n̩ gʱ ɔ n	substantive			masculine	?		?	
+305	Indo-European	?	bʰn̩ǵʰōn	bʱ n̩ gʱ ɔː n	0	304	inflection	n.sg.	53	bʰenǵʰ	0	bʱ - n̩ gʱ ɔː n	substantive		n.sg.	masculine	?		?	
+306	Old High German	Bachbunge	bungo-	b u ŋ g o	0	304	inheritance	inheritance	0	bʰenǵʰ	1	b u ŋ g o	substantive			masculine				
+307	Old High German	Bachbunge	bungo	b u ŋ g o	1	306	inflection	n.sg.	53	bʰenǵʰ	0	b u ŋ g o -	substantive		n.sg.	masculine				
+308	Indo-European	?	bʰn̩ǵʰ-ú-	bʱ n̩ gʱ ˈu	0	303	derivation	zero-grade, suffix: ˈu	0	bʰenǵʰ	1	bʱ n̩ gʱ ˈu	adjective							
+309	Indo-European	?	bʰn̩ǵʰús	bʱ n̩ gʱ ˈu s	0	308	inflection	n.sg.masculine	54	bʰenǵʰ	0	bʱ n̩ gʱ ˈu s	adjective		n.sg.	masculine				
+310	Vedic	viel, reichlich, häufig, dicht, dichtgedrängt	bahú-	b ɐ ɦ ˈu	0	308	inheritance	inheritance	0	bʰenǵʰ	1	b ɐ ɦ ˈu	adjective							
+311	Vedic	viel, reichlich, häufig, dicht, dichtgedrängt	bahúḥ	b ɐ ɦ ˈu h	1	310	inflection	n.sg.masculine	54	bʰenǵʰ	0	b ɐ ɦ ˈu h	adjective		n.sg.	masculine				
+312	Greek	dick, feist, dicht, gedrungen	παχύ-	p a kʰ ˈʏ	0	308	inheritance	inheritance	0	bʰenǵʰ	1	p a kʰ ˈʏ	adjective							
+313	Greek	dick, feist, dicht, gedrungen	παχύς	p a kʰ ˈʏ s	1	312	inflection	n.sg.	54	bʰenǵʰ	0	p a kʰ ˈʏ s	adjective		n.sg.	masculine				
+314	Indo-European	?	bʰn̩ǵʰ-u-ló-	bʱ n̩ gʱ u l ˈɔ	0	303	derivation	zero-grade, suffix: u l ˈɔ	0	bʰenǵʰ	1	bʱ n̩ gʱ u l ˈɔ	adjective							
+315	Indo-European	?	bʰn̩ǵʰulós	bʱ n̩ gʱ u l ˈɔ s	0	314	inflection	n.sg.masculine	55	bʰenǵʰ	0	bʱ n̩ gʱ u l ˈɔ s	adjective		n.sg.	masculine				
+316	Vedic	dick, weit, ausgedehnt, viel	bahulá-	b ɐ ɦ u l ˈɐ	0	314	inheritance	inheritance via borrowing from another dialect	0	bʰenǵʰ	1	b ɐ ɦ u l ˈɐ	adjective							
+317	Vedic	dick, weit, ausgedehnt, viel	bahuláḥ	b ɐ ɦ u l ˈɐ h	1	316	inflection	n.sg.masculine	0	bʰenǵʰ	0	b ɐ ɦ u l ˈɐ h	adjective		n.sg.	masculine				
+318	Vedic	dick, weit, ausgedehnt, viel	bahura-	b ɐ ɦ u ɾ ɐ	0	314	inheritance	inheritance	0	bʰenǵʰ	1	b ɐ ɦ u ɾ ɐ	adjective							
+319	Vedic	dick, weit, ausgedehnt, viel	bahuraḥ	b ɐ ɦ u ɾ ɐ h	1	318	inflection	n.sg.masculine	55	bʰenǵʰ	0	b ɐ ɦ u ɾ ɐ h	adjective		n.sg.	masculine				
+320	Greek	in groben Zügen	παχυλό-	p a kʰ ʏ l ˈɔ	0	314	inheritance	inheritance	0	bʰenǵʰ	1	p a kʰ ʏ l ˈɔ	adjective							
+321	Greek	in groben Zügen	παχυλός	p a kʰ ʏ l ˈɔ s	0	320	inflection	n.sg.masculine	55	bʰenǵʰ	0	p a kʰ ʏ l ˈɔ s	adjective		n.sg.	masculine				
+322	Greek	in groben Zügen	παχυλῶς-	p a kʰ ʏ l ˈɔː s	0	320	derivation	ˈɔː s-adverb	0	bʰenǵʰ	1	p a kʰ ʏ l ˈɔː s	adverb							
+323	Indo-European	?	bʰénǵʰ-es-	bʱ ˈɛ n gʱ ɛ s	0	303	suffixation	suffix: ɛ s	0	bʰenǵʰ	1	bʱ ˈɛ n gʱ ɛ s	substantive			neuter				
+324	Indo-European	?	bʰénǵʰes	bʱ ˈɛ n gʱ ɛ s	0	323	inflection	n.sg.	56	bʰenǵʰ	0	bʱ ˈɛ n gʱ ɛ s	substantive		n.sg.	neuter				
+325	Greek	Dicke, Stärke, Wucht	πένχος-	p ˈɛ n kʰ ɔ s	0	323	inheritance	inheritance	0	bʰenǵʰ	1	p ˈɛ n kʰ ɔ s	substantive			neuter		[	[	
+326	Greek	Dicke, Stärke, Wucht	πένχος	p ˈɛ n kʰ ɔ s	0	325	inflection	n.sg.	56	bʰenǵʰ	0	p ˈɛ n kʰ ɔ s	substantive		n.sg.	neuter		[	[	
+327	Greek	Dicke, Stärke, Wucht	πάχος-	p ˈa kʰ ɔ s	0	325	analogy	analogy: 312	0	bʰenǵʰ	1	p ˈa kʰ ɔ s	substantive			neuter		[	[	
+328	Greek	Dicke, Stärke, Wucht	πάχος	p ˈa kʰ ɔ s	1	327	inflection	n.sg.	0	bʰenǵʰ	0	p ˈa kʰ ɔ s	substantive		n.sg.	neuter		[	[	
+329	Indo-European	?	bʰénǵʰ-i̯es-	bʱ ˈɛ n gʱ j ɛ s	0	303	suffixation	suffix: j ɛ s	0	bʰenǵʰ	1	bʱ ˈɛ n gʱ j ɛ s	adjective							
+330	Indo-European	?	bʰénǵʰi̯ōn	bʱ ˈɛ n gʱ j ɔː n	0	329	inflection	n.sg.masculine	57	bʰenǵʰ	0	bʱ ˈɛ n gʱ - j ɔː n	adjective		n.sg.	masculine				irregular alternative form due to mix with -i̯en-stems, see Brugmann2009a, 403
+331	Indo-European	?	bʰénǵʰi̯onoṃ	bʱ ˈɛ n gʱ j ɔ n m̩	0	329	inflection	a.sg.masculine	58	bʰenǵʰ	0	bʱ ˈɛ n gʱ j ɔ n m̩	adjective		a.sg.	masculine				irregular alternative form due to mix with -i̯en-stems
+332	Vedic	sehr dick	bám̐hīyas-	b ˈɐ N ɦ iː j ɐ s	0	329	inheritance	inheritance	0	bʰenǵʰ	1	b ˈɐ N ɦ iː j ɐ s	adjective					[	[	
+333	Vedic	sehr dick	bám̐hīyān	b ˈɐ N ɦ iː j aː n	1	332	inflection	n.sg.masculine	57	bʰenǵʰ	0	b ˈɐ N ɦ iː j aː n	adjective		n.sg.	masculine		[	[	
+334	Greek	stattlicher (A.Sg.)	πάσσον-	p ˈa sː ɔ n	0	337	analogy	analogy: 312	0	bʰenǵʰ	1	p ˈa sː ɔ n	adjective					[	[	
+335	Greek	stattlicher (A.Sg.)	πάσσονα	p ˈa sː ɔ n a	1	334	inflection	a.sg.masculine	0	bʰenǵʰ	0	p ˈa sː ɔ n a	adjective		a.sg.	masculine		[	[	
+336	Greek	stattlicher (A.Sg.)	πένσσονα	p ˈɛ n sː ɔ n a	0	337	inflection	a.sg.masculine	58	bʰenǵʰ	0	p ˈɛ n - sː ɔ n a	adjective		a.sg.	masculine		[	[	
+337	Greek	stattlicher (A.Sg.)	πένσσον-	p ˈɛ n sː ɔ n	0	329	inheritance	inheritance	0	bʰenǵʰ	1	p ˈɛ n sː ɔ n	adjective					[	[	
+338	Indo-European	?	bʰenǵʰ-isth₂o-	bʱ ɛ n gʱ i s t χ ɔ	0	303	suffixation	suffix: i s t χ ɔ	0	bʰenǵʰ	1	bʱ ɛ n gʱ i s t χ ɔ	adjective							
+339	Indo-European	?	bʰenǵʰ-isth₂os	bʱ ɛ n gʱ i s t χ ɔ s	0	338	inflection	n.sg.masculine	59	bʰenǵʰ	0	bʱ ɛ n gʱ i s t χ ɔ s	adjective		n.sg.	masculine				
+340	Vedic	stärkst, meist	bám̐hiṣṭha-	b ˈɐ N ɦ i ʂ ʈʰ ɐ	0	338	inheritance	inheritance	0	bʰenǵʰ	1	b ˈɐ N ɦ i ʂ ʈʰ ɐ	adjective							
+341	Vedic	stärkst, meist	bám̐hiṣṭhaḥ	b ˈɐ N ɦ i ʂ ʈʰ ɐ h	1	340	inflection	n.sg.masculine	59	bʰenǵʰ	0	b ˈɐ N ɦ i ʂ ʈʰ - ɐ h	adjective		n.sg.	masculine				
+342	Greek	dickest	πάχιστο-	p ˈa kʰ ɪ s t ɔ	0	476	analogy	analogy: 312	0	bʰenǵʰ	1	p ˈa kʰ ɪ s t ɔ	adjective					[	[	
+343	Greek	dickest	πάχιστος	p ˈa kʰ ɪ s t ɔ s	1	342	inflection	n.sg.masculine	0	bʰenǵʰ	0	p ˈa kʰ ɪ s t ɔ s	adjective		n.sg.	masculine		[	[	
+344	Indo-European	?	bʰn̩ǵʰ-et-	bʱ n̩ gʱ ɛ t	0	303	derivation	zero-grade, suffix: ɛ t	0	bʰenǵʰ	1	bʱ n̩ gʱ ɛ t	adjective				?		?	
+345	Indo-European	?	bʰn̩ǵʰēts	bʱ n̩ gʱ ɛː t s	0	344	inflection	n.sg.masculine	0	bʰenǵʰ	0	bʱ n̩ gʱ ɛː t s	adjective		n.sg.	masculine	?		?	
+346	Indo-European	?	bʰn̩ǵʰētes	bʱ n̩ gʱ ɛː t ɛ s	0	344	inflection	n.pl.masculine	60	bʰenǵʰ	0	bʱ n̩ gʱ ɛː t ɛ s	adjective		n.pl.	masculine	?		?	
+347	Greek	πλούσιοι, παχεῖς	πάχητ-	p ˈa kʰ ɛː t	0	344	inheritance	inheritance	0	bʰenǵʰ	1	p ˈa kʰ ɛː t	adjective							
+348	Greek	πλούσιοι, παχεῖς	πάχητες	p ˈa kʰ ɛː t ɛ s	1	347	inflection	n.pl.masculine	60	bʰenǵʰ	0	p ˈa kʰ ɛː t ɛ s	adjective		n.pl.	masculine				
+349	Greek	(Personenname)	Πάχητ-	p ˈa kʰ ɛː t	0	347	derivation	conversion to substantive	0	bʰenǵʰ	1	p ˈa kʰ ɛː t	substantive							
+350	Greek	(Personenname)	Πάχης	p ˈa kʰ ɛː s	1	349	inflection	n.sg.	0	bʰenǵʰ	0	p ˈa kʰ ɛː s	substantive		n.sg.					
+351	Indo-European	?	bʰn̩ǵʰ-tó-	bʱ n̩ gʱ t ˈɔ	0	303	derivation	zero-grade, suffix: t ˈɔ	0	bʰenǵʰ	1	bʱ n̩ gʱ t ˈɔ								
+352	Indo-European	?	bʰn̩ǵʰtós	bʱ n̩ gʱ t ˈɔ s	0	351	inflection	n.sg.	61	bʰenǵʰ	0	bʱ n̩ gʱ t ˈɔ s			n.sg.	masculine				
+353	Vedic	?	bāḍha-	b aː ɖ̤ʱ ɐ	0	351	inheritance	inheritance	0	bʰenǵʰ	1	b aː ɖ̤ʱ ɐ								
+354	Vedic	?	bāḍhaḥ	b aː ɖ̤ʱ ɐ h	1	353	inflection	n.sg.	61	bʰenǵʰ	0	b aː - ɖ̤ʱ ɐ h			n.sg.	masculine				
+355	Vedic	kräftigen Ganges	bāḍhasŕ̩tvan-	b aː ɖ̤ʱ ɐ s ˈr̩ t w ɐ n	0	353	compound	compound with 0 s ˈr̩ t w ɐ n	0	bʰenǵʰ	1	b aː ɖ̤ʱ ɐ s ˈr̩ t w ɐ n	adjective							
+356	Vedic	kräftigen Ganges	bāḍhasŕ̩tvā	b aː ɖ̤ʱ ɐ s ˈr̩ t w aː	1	355	inflection	n.sg.masculine	0	bʰenǵʰ	0	b aː ɖ̤ʱ ɐ s ˈr̩ t w aː	adjective		n.sg.	masculine				
+357	Indo-European	?	bʰn̩ǵʰ-eto-	bʱ n̩ gʱ ɛ t ɔ	0	303	derivation	zero-grade, suffix: ɛ t ɔ	0	bʰenǵʰ	1	bʱ n̩ gʱ ɛ t ɔ	adjective							
+358	Indo-European	?	bʰn̩ǵʰetos	bʱ n̩ gʱ ɛ t ɔ s	0	357	inflection	n.sg.masculine	62	bʰenǵʰ	0	bʱ n̩ gʱ ɛ t ɔ s	adjective		n.sg.	masculine				
+359	Greek	dick, stämmig, dicht	πάχετο-	p ˈa kʰ ɛ t ɔ	0	357	inheritance	inheritance	0	bʰenǵʰ	1	p ˈa kʰ ɛ t ɔ	adjective							
+360	Greek	dick, stämmig, dicht	πάχετος	p ˈa kʰ ɛ t ɔ s	1	359	inflection	n.sg.masculine	62	bʰenǵʰ	0	p ˈa kʰ ɛ t ɔ s	adjective		n.sg.	masculine				
+361	Indo-European	tragen, bringen	bʰer-	bʱ ɛ ɾ	0				0	bʰer	1	bʱ ɛ ɾ	root							
+362	Indo-European	?	bʰor-	bʱ ɔ ɾ	0	361	derivation	o-grade	0	bʰer	1	bʱ ɔ ɾ	substantive			masculine				
+363	Indo-European	?	bʰōr	bʱ ɔː ɾ	0	362	inflection	n.sg.	63	bʰer	0	bʱ ɔː ɾ	substantive		n.sg.	masculine				
+364	Greek	Dieb	φῶρ-	pʰ ˈɔː ɾ	0	362	inheritance	inheritance	0	bʰer	1	pʰ ˈɔː ɾ	substantive			masculine				
+365	Greek	Dieb	φῶρ	pʰ ˈɔː ɾ	1	364	inflection	n.sg.	63	bʰer	0	pʰ ˈɔː ɾ	substantive		n.sg.	masculine				
+366	Latin	Dieb	fūr-	f uː ɾ	0	362	inheritance	inheritance	0	bʰer	1	f uː ɾ	substantive			masculine				
+367	Latin	Dieb	fūr	f uː ɾ	1	366	inflection	n.sg.	63	bʰer	0	f uː ɾ	substantive		n.sg.	masculine				
+368	Indo-European	?	bʰōr-on-	bʱ ɔː ɾ ɔ n	0	361	derivation	lengthened o-grade, suffix: ɔ n	0	bʰer	1	bʱ ɔː ɾ ɔ n	substantive			masculine				
+369	Indo-European	?	bʰōrōn	bʱ ɔː ɾ ɔː n	0	368	inflection	n.sg.	64	bʰer	0	bʱ ɔː ɾ ɔː n	substantive		n.sg.	masculine				
+370	Latin	Dieb, Frettchen, Wiesel	fūrōn-	f uː ɾ oː n	0	368	inheritance	inheritance	0	bʰer	1	f uː ɾ oː n	substantive			masculine				
+371	Latin	Dieb, Frettchen, Wiesel	fūrō	f uː ɾ oː	1	370	inflection	n.sg.	64	bʰer	0	f uː ɾ oː m	substantive		n.sg.	masculine				
+372	Indo-European	?	bʰōr-ah₂-	bʱ ɔː ɾ a χ	0	361	derivation	lengthened o-grade, suffix: a χ	0	bʰer	1	bʱ ɔː ɾ a χ	substantive			feminine				
+373	Indo-European	?	bʰōrah₂	bʱ ɔː ɾ a χ	0	372	inflection	n.sg.	65	bʰer	0	bʱ ɔː ɾ a χ	substantive		n.sg.	feminine				
+374	Greek	Diebstahl	φωρᾱ́-	pʰ ɔː ɾ ˈaː	0	372	inheritance	inheritance	0	bʰer	1	pʰ ɔː ɾ ˈaː	substantive			feminine				
+375	Greek	Diebstahl	φωρᾱ́	pʰ ɔː ɾ ˈaː	1	374	inflection	n.sg.	65	bʰer	0	pʰ ɔː ɾ ˈaː -	substantive		n.sg.	feminine				
+377	Indo-European	?	bʰōr-i̯o-	bʱ ɔː ɾ j ɔ	0	361	derivation	lengthened o-grade, suffix: j ɔ	0	bʰer	1	bʱ ɔː ɾ j ɔ	adjective							
+378	Indo-European	?	bʰōri̯os	bʱ ɔː ɾ j ɔ s	0	377	inflection	n.sg.masculine	66	bʰer	0	bʱ ɔː ɾ j ɔ s	adjective		n.sg.	masculine				
+379	Greek	aus einem Diebstahl stammend	φώριο-	pʰ ˈɔː ɾ ɪ ɔ	0	377	inheritance	inheritance	0	bʰer	1	pʰ ˈɔː ɾ ɪ ɔ	adjective							
+380	Greek	aus einem Diebstahl stammend	φώριος	pʰ ˈɔː ɾ ɪ ɔ s	1	379	inflection	n.sg.masculine	66	bʰer	0	pʰ ˈɔː ɾ ɪ ɔ s	adjective		n.sg.	masculine				
+381	Greek	Beweis	φώριο-	pʰ ˈɔː ɾ ɪ ɔ	0	917	inheritance	inheritance	0	bʰer	1	pʰ ˈɔː ɾ ɪ ɔ	substantive			neuter				
+382	Greek	Beweis	φώριον	pʰ ˈɔː ɾ ɪ ɔ n	1	381	inflection	n.sg.	67	bʰer	0	pʰ ˈɔː ɾ ɪ ɔ n	substantive		n.sg.	neuter				
+383	Indo-European	?	bʰōri̯om	bʱ ɔː ɾ j ɔ n	0	917	inflection	n.sg.	67	bʰer	0	bʱ ɔː ɾ j ɔ n	substantive		n.sg.	neuter				
+384	Indo-European	?	bʰr-ó-	bʱ ɾ ˈɔ	0	361	derivation	zero-grade, suffix: ˈɔ	0	bʰer	1	bʱ ɾ ˈɔ								
+385	Indo-European	?	bʰrós	bʱ ɾ ˈɔ s	0	384	inflection	n.sg.	68	bʰer	0	bʱ ɾ ˈɔ s			n.sg.					
+386	Vedic	?	-bhrá-	bʱ ɾ ˈɐ	0	384	inheritance	inheritance	0	bʰer	1	bʱ ɾ ˈɐ								
+387	Vedic	?	-bhráḥ	bʱ ɾ ˈɐ h	0	386	inflection	n.sg.	68	bʰer	0	bʱ ɾ ˈɐ h			n.sg.					
+388	Vedic	mit nicht fortzutragenden Gaben	anava-bhrá-rādhas-	ɐ n ɐ w ɐ bʱ ɾ ˈɐ ɾ aː dʱ ɐ s	0	386	compound	compound with 0 ɐ n ɐ w ɐ and compound2 with 0 ɾ aː dʱ ɐ h	0	bʰer	1	ɐ n ɐ w ɐ bʱ ɾ ˈɐ ɾ aː dʱ ɐ s	adjective							
+389	Vedic	mit nicht fortzutragenden Gaben	anava-bhrá-rādhaḥ	ɐ n ɐ w ɐ bʱ ɾ ˈɐ ɾ aː dʱ ɐ h	1	388	inflection	n.sg.masculine	0	bʰer	0	ɐ n ɐ w ɐ bʱ ɾ ˈɐ ɾ aː dʱ ɐ h	adjective		n.sg.	masculine				
+390	Greek	?	-φρο-	pʰ ɾ ɔ	0	384	inheritance	inheritance	0	bʰer	1	pʰ ɾ ɔ								
+391	Greek	?	φρος	pʰ ɾ ɔ s	0	390	inflection	n.sg.	68	bʰer	0	pʰ ɾ ɔ s			n.sg.					
+392	Greek	Wagenstuhl (für Wagenlenker und Kämpfer), Zweiradwagen, Stuhl ohne Lehne	δί-φρο-	d ˈɪ pʰ ɾ ɔ	0	390	prefixation	prefix: d ˈɪ	0	bʰer	1	d ˈɪ pʰ ɾ ɔ	substantive			masculine				
+393	Greek	Wagenstuhl (für Wagenlenker und Kämpfer), Zweiradwagen, Stuhl ohne Lehne	δίφρος	d ˈɪ pʰ ɾ ɔ s	0	392	inflection	n.sg.	0	bʰer	0	d ˈɪ pʰ ɾ ɔ s	substantive		n.sg.	masculine				
+394	Greek	Wagenstuhl (für Wagenlenker und Kämpfer), Zweiradwagen, Stuhl ohne Lehne	δίσ-φρο-	d ˈɪ s pʰ ɾ ɔ	0	390	prefixation	prefix: d ˈɪ s	0	bʰer	1	d ˈɪ s pʰ ɾ ɔ	substantive			masculine				
+395	Greek	Wagenstuhl (für Wagenlenker und Kämpfer), Zweiradwagen, Stuhl ohne Lehne	δίσφρος	d ˈɪ s pʰ ɾ ɔ s	1	394	inflection	n.sg.	0	bʰer	0	d ˈɪ s pʰ ɾ ɔ s	substantive		n.sg.	masculine				
+396	Latin	Vorwurf, Beleidigung, Schande	bro-	b ɾ ɔ	0	400	inheritance	inheritance	0	bʰer	1	b ɾ ɔ				neuter				
+397	Latin	Vorwurf, Beleidigung, Schande	brum	b ɾ ʊ m	0	396	inflection	n.sg.	69	bʰer	0	b ɾ ʊ m			n.sg.	neuter				
+398	Latin	Vorwurf, Beleidigung, Schande	probro-	p ɾ ɔ b ɾ ɔ	0	396	prefixation	prefix: p ɾ ɔ	0	bʰer	1	p ɾ ɔ b ɾ ɔ	substantive			neuter				
+399	Latin	Vorwurf, Beleidigung, Schande	probrum	p ɾ ɔ b ɾ ʊ m	1	398	inflection	n.sg.	0	bʰer	0	p ɾ ɔ b ɾ ʊ m	substantive		n.sg.	neuter				
+400	Indo-European	?	bʰr-ó-	bʱ ɾ ˈɔ	0	361	derivation	zero-grade, suffix: ˈɔ	0	bʰer	1	bʱ ɾ ˈɔ								
+401	Indo-European	?	bʰróm	bʱ ɾ ˈɔ m	0	400	inflection	n.sg.	69	bʰer	0	bʱ ɾ ˈɔ m			n.sg.	neuter				
+402	Indo-European	?	oi̯bʰr-ó-	ɔi̯ bʱ ɾ ˈɔ	0	384	compound	compound2 with 0 ɔi̯	0	bʰer	1	ɔi̯ bʱ ɾ ˈɔ	adjective							
+403	Indo-European	?	oi̯bʰrós	ɔi̯ bʱ ɾ ˈɔ s	0	402	inflection	n.sg.masculine	70	bʰer	0	ɔi̯ bʱ - ɾ ˈɔ s	adjective		n.sg.	masculine				
+404	Germanic	?	aibra-	ai̯ β r a	0	402	inheritance	inheritance	0	bʰer	1	ai̯ β r a	adjective							
+405	Germanic	?	aibraz	ai̯ β r a z	0	404	inflection	n.sg.masculine	70	bʰer	0	ai̯ β - r a z	adjective		n.sg.	masculine				
+406	Old High German	scharf, beißend, bitter, heftig, schrecklich	eibar-	ei̯ b a r	0	404	inheritance	inheritance	0	bʰer	1	ei̯ b a r	adjective							
+407	Old High German	scharf, beißend, bitter, heftig, schrecklich	eibar	ei̯ b a r	1	406	inflection	n.sg.masculine	70	bʰer	0	ei̯ b a r - -	adjective		n.sg.	masculine				
+408	Old High German	scharf, beißend, bitter, heftig, schrecklich	eifar-	ei̯ f a r	0	404	inheritance	inheritance	0	bʰer	1	ei̯ f a r	adjective							
+409	Old High German	scharf, beißend, bitter, heftig, schrecklich	eifar	ei̯ f a r	1	408	inflection	n.sg.masculine	70	bʰer	0	ei̯ f a r - -	adjective		n.sg.	masculine				
+410	Indo-European	?	to-bʰr-o-	t ɔ bʱ ɾ ɔ	0	384	compound	compound2 with 0 t ɔ	0	bʰer	1	t ɔ bʱ ɾ ɔ								
+411	Indo-European	?	to-bʰroh₂	t ɔ bʱ ɾ ɔ χ	0	410	inflection	a.pl.	71	bʰer	0	t ɔ bʱ ɾ ɔ χ			a.pl.					
+412	Greek	?	τόφρο-	t ˈɔ pʰ ɾ o	0	410	inheritance	inheritance	0	bʰer	1	t ˈɔ pʰ ɾ o								
+413	Greek	solange	τόφρα	t ˈɔ pʰ ɾ a	1	958	inflection	uninflectable word form	0	bʰer	0	t ˈɔ pʰ ɾ a -	adverb							
+414	Indo-European	?	bʰr̩-t-	bʱ ɾ̩ t	0	361	derivation	zero-grade, suffix: t	0	bʰer	1	bʱ ɾ̩ t								
+415	Indo-European	?	bʰr̩ts	bʱ ɾ̩ t s	0	414	inflection	n.sg.	72	bʰer	0	bʱ ɾ̩ t s			n.sg.					
+416	Vedic	bringend, tragend	bhŕ̩t-	bʱ ˈr̩ t	0	414	inheritance	inheritance	0	bʰer	1	bʱ ˈr̩ t								
+417	Vedic	bringend, tragend	bhŕ̩t	bʱ ˈr̩ t	0	416	inflection	n.sg.	72	bʰer	0	bʱ ˈr̩ t -			n.sg.					
+418	Vedic	Nahrung bringend	pitu-bhŕ̩t-	p i t u bʱ ˈr̩ t	0	416	compound	compound2 with 0 p i t u	0	bʰer	1	p i t u bʱ ˈr̩ t	adjective							
+419	Vedic	Nahrung bringend	pitu-bhŕ̩t	p i t u bʱ ˈr̩ t	1	418	inflection	n.sg.masculine	0	bʰer	0	p i t u bʱ ˈr̩ t	adjective		n.sg.	masculine				
+420	Vedic	Last tragend	bhāra-bhŕ̩t-	bʱ aː ɾ ɐ bʱ ˈr̩ t	0	416	compound	compound2 with 0 bʱ aː ɾ ɐ	0	bʰer	1	bʱ aː ɾ ɐ bʱ ˈr̩ t	adjective							
+421	Vedic	Last tragend	bhāra-bhŕ̩t	bʱ aː ɾ ɐ bʱ ˈr̩ t	1	420	inflection	n.sg.masculine	0	bʰer	0	bʱ aː ɾ ɐ bʱ ˈr̩ t	adjective		n.sg.	masculine				
+422	Vedic	hölzerne Opferschale	upa-bhŕ̩t-	u p ɐ bʱ ˈr̩ t	0	416	prefixation	prefix: u p ɐ	0	bʰer	1	u p ɐ bʱ ˈr̩ t	substantive			feminine				
+423	Vedic	hölzerne Opferschale	upa-bhŕ̩t	u p ɐ bʱ ˈr̩ t	1	422	inflection	n.sg.	0	bʰer	0	u p ɐ bʱ ˈr̩ t	substantive		n.sg.	feminine				
+424	Indo-European	?	-bʰer-on-	bʱ ɛ ɾ ɔ n	0	361	suffixation	suffix: ɔ n	0	bʰer	1	bʱ ɛ ɾ ɔ n	substantive			masculine				
+425	Indo-European	?	-bʰerōn	bʱ ɛ ɾ ɔː n	0	424	inflection	n.sg.	73	bʰer	0	bʱ ɛ ɾ ɔː n	substantive		n.sg.	masculine				
+426	Germanic	?	-beran-	β ɛ r a n	0	424	inheritance	inheritance	0	bʰer	1	β ɛ r a n	substantive			masculine				corrected from -berōn-
+427	Germanic	?	berō	β ɛ r ɔː	0	426	inflection	n.sg.	73	bʰer	0	β ɛ r ɔː -	substantive		n.sg.	masculine				
+428	Old High German	?	bero-	b e r o	0	426	inheritance	inheritance	0	bʰer	1	b e r o	substantive			masculine				
+429	Old High German	?	bero	b e r o	0	428	inflection	n.sg.	73	bʰer	0	b e r o -	substantive		n.sg.	masculine				
+430	Old High German	Rittersporn	agabero-	a g a b e r o	0	428	compound	compound2 with 0 a g a	0	bʰer	1	a g a b e r o	substantive			masculine				
+431	Old High German	Rittersporn	agabero	a g a b e r o	1	430	inflection	n.sg.	0	bʰer	0	a g a b e r o	substantive		n.sg.	masculine				
+432	Indo-European	?	bʰér-men-	bʱ ˈɛ ɾ m ɛ n	0	361	suffixation	suffix: m ɛ n	0	bʰer	1	bʱ ˈɛ ɾ m ɛ n	substantive			neuter				
+433	Indo-European	?	bʰérmn̩	bʱ ˈɛ ɾ m n̩	0	432	inflection	n.sg.	74	bʰer	0	bʱ ˈɛ ɾ m n̩	substantive		n.sg.	neuter				
+434	Vedic	Erhalten, Bewahren, Fürsorge	bhárman-	bʱ ˈɐ ɾ m ɐ n	0	432	inheritance	inheritance	0	bʰer	1	bʱ ˈɐ ɾ m ɐ n	substantive			neuter				
+435	Vedic	Erhalten, Bewahren, Fürsorge	bhárma	bʱ ˈɐ ɾ m ɐ	1	434	inflection	n.sg.	74	bʰer	0	bʱ ˈɐ ɾ m ɐ	substantive		n.sg.	neuter				
+436	Greek	Frucht, Ertrag	φέρματ-	pʰ ˈɛ ɾ m a t	0	901	derivation	inflection class change	0	bʰer	1	pʰ ˈɛ ɾ m a t	substantive			neuter		[	[	
+437	Greek	Frucht, Ertrag	φέρμα	pʰ ˈɛ ɾ m a	0	901	inflection	n.sg.	74	bʰer	0	pʰ ˈɛ ɾ m a	substantive		n.sg.	neuter		[	[	
+438	Indo-European	?	bʰér-men-to-	bʱ ˈɛ ɾ m ɛ n t ɔ	0	432	suffixation	suffix: t ɔ	0	bʰer	1	bʱ ˈɛ ɾ m ɛ n t ɔ	substantive			neuter				
+439	Indo-European	?	bʰér-mentom	bʱ ˈɛ ɾ m ɛ n t ɔ m	0	438	inflection	n.sg.	75	bʰer	0	bʱ ˈɛ ɾ m ɛ n t ɔ m	substantive		n.sg.	neuter				
+440	Latin	Gährungsstoff, Sauerteig	fermento-	f ɛ ɾ m ɛ n t ɔ	0	438	inheritance	inheritance	0	bʰer	1	f ɛ ɾ m ɛ n t ɔ	substantive			neuter				
+441	Latin	Gährungsstoff, Sauerteig	fermentum	f ɛ ɾ m ɛ n t ʊ m	1	440	inflection	n.sg.	75	bʰer	0	f ɛ ɾ m ɛ n t ʊ m	substantive		n.sg.	neuter				
+442	Indo-European	?	bʰēr-men-	bʱ ɛː ɾ m ɛ n	0	361	derivation	lengthened grade, suffix: m ɛ n	0	bʰer	1	bʱ ɛː ɾ m ɛ n	substantive							
+443	Indo-European	?	bʰērmen	bʱ ɛː ɾ m ɛ n	0	442	inflection	n.sg.	76	bʰer	0	bʱ ɛː ɾ m ɛ n	substantive		l.sg.					
+444	Vedic	bei der Darbringung	bhā́rman-	bʱ ˈa ɾ m ɐ n	0	442	inheritance	inheritance	0	bʰer	1	bʱ ˈa ɾ m ɐ n	substantive							
+445	Vedic	bei der Darbringung	bhā́rman	bʱ ˈaː ɾ m ɐ n	1	444	inflection	n.sg.	76	bʰer	0	bʱ ˈaː ɾ m ɐ n	substantive		l.sg.					
+446	Indo-European	?	bʰer-men-	bʱ ɛ ɾ m ɛ n	0	361	suffixation	suffix: m ɛ n	0	bʰer	1	bʱ ɛ ɾ m ɛ n	substantive			masculine				
+447	Indo-European	?	bʰermōn	bʱ ɛ ɾ m ɔː n	0	446	inflection	n.sg.	77	bʰer	0	bʱ ɛ ɾ m ɔː n	substantive		n.sg.	masculine				
+448	Germanic	Hefe	berman-	β ɛ r m a n	0	446	inheritance	inheritance	0	bʰer	1	β ɛ r m a n	substantive			masculine	?		?	
+449	Germanic	Hefe	bermō	β ɛ r m ɔː	0	448	inflection	n.sg.	77	bʰer	0	β ɛ r m ɔː -	substantive		n.sg.	masculine	?		?	
+450	Indo-European	?	bʰer-tér-	bʱ ɛ ɾ t ˈɛ ɾ	0	361	suffixation	suffix: t ˈɛ ɾ	0	bʰer	1	bʱ ɛ ɾ t ˈɛ ɾ	substantive			masculine				
+451	Indo-European	?	bʰertḗr	bʱ ɛ ɾ t ˈɛː ɾ	0	450	inflection	n.sg.	78	bʰer	0	bʱ ɛ ɾ t ˈɛː ɾ	substantive		n.sg.	masculine				
+452	Vedic	Träger, Erhalter, Bewahrer, Herr	bhartár-	bʱ ɐ ɾ t ˈɐ ɾ	0	450	inheritance	inheritance	0	bʰer	1	bʱ ɐ ɾ t ˈɐ ɾ	substantive			masculine				
+453	Vedic	Träger, Erhalter, Bewahrer, Herr	bhartā́	bʱ ɐ ɾ t ˈaː	1	452	inflection	n.sg.	78	bʰer	0	bʱ ɐ ɾ t ˈaː -	substantive		n.sg.	masculine				
+454	Indo-European	?	bʰer-tr-ih₂-	bʱ ɛ ɾ t ɾ i χ	0	450	derivation	suffix-replacement: t ˈɛ ɾ, t ɾ i χ	0	bʰer	1	bʱ ɛ ɾ t ɾ i χ	substantive			feminine				
+455	Indo-European	?	bʰer-trih₂	bʱ ɛ ɾ t ɾ i χ	0	454	inflection	n.sg.	79	bʰer	0	bʱ ɛ ɾ t ɾ i χ	substantive		n.sg.	feminine				
+456	Vedic	Ernährerin, Mutter	bhartrī́-	bʱ ɐ ɾ t ɾ ˈiː	0	454	inheritance	inheritance	0	bʰer	1	bʱ ɐ ɾ t ɾ ˈiː	substantive			feminine				
+457	Vedic	Ernährerin, Mutter	bhartrī́	bʱ ɐ ɾ t ɾ ˈiː	1	456	inflection	n.sg.	79	bʰer	0	bʱ ɐ ɾ t ɾ ˈiː -	substantive		n.sg.	feminine				
+458	Indo-European	?	bʰér-tor-	bʱ ˈɛ ɾ t ɔ ɾ	0	361	suffixation	suffix: t ɔ ɾ	0	bʰer	1	bʱ ˈɛ ɾ t ɔ ɾ	substantive			masculine				
+459	Indo-European	?	bʰértōr	bʱ ˈɛ ɾ t ɔː ɾ	0	458	inflection	n.sg.	80	bʰer	0	bʱ ˈɛ ɾ t ɔː ɾ	substantive		n.sg.	masculine				
+460	Vedic	Gatte, Ernährer	bhártar-	bʱ ˈɐ ɾ t ɐ ɾ	0	458	inheritance	inheritance	0	bʰer	1	bʱ ˈɐ ɾ t ɐ ɾ	substantive			masculine				
+461	Vedic	Gatte, Ernährer	bhártā	bʱ ˈɐ ɾ t aː	1	460	inflection	n.sg.	80	bʰer	0	bʱ ˈɐ ɾ t aː -	substantive		n.sg.	masculine				
+462	Vedic	Voranbringer (von Indra)	prá-bhártar-	p ɾ ˈɐ bʱ ˈɐ ɾ t ɐ ɾ	0	460	prefixation	prefix: p ɾ ˈɐ	0	bʰer	1	p ɾ ˈɐ bʱ ˈɐ ɾ t ɐ ɾ	substantive			masculine				
+463	Vedic	Voranbringer (von Indra)	prá-bhártā	p ɾ ˈɐ bʱ ˈɐ ɾ t aː	1	462	inflection	n.sg.	0	bʰer	0	p ɾ ˈɐ bʱ ˈɐ ɾ t aː	substantive		n.sg.	masculine				
+464	Latin	?	-fertōr-	f ɛ ɾ t oː ɾ	0	458	inheritance	inheritance	0	bʰer	1	f ɛ ɾ t oː ɾ				masculine				
+465	Latin	?	-fertor	f ɛ ɾ t ɔ ɾ	0	464	inflection	n.sg.	80	bʰer	0	f ɛ ɾ t ɔ ɾ			n.sg.	masculine				
+466	Latin	Aufträger von Speisen	īn-fertōr-	iː n f ɛ ɾ t oː ɾ	0	464	prefixation	prefix: iː n	0	bʰer	1	iː n f ɛ ɾ t oː ɾ	substantive			masculine				
+467	Latin	Aufträger von Speisen	īn-fertor	iː n f ɛ ɾ t ɔ ɾ	1	466	inflection	n.sg.	0	bʰer	0	iː n f ɛ ɾ t ɔ ɾ	substantive		n.sg.	masculine				
+468	Latin	Opferer	of-fertōr-	ɔ f f ɛ ɾ t oː ɾ	0	464	prefixation	prefix: ɔ f	0	bʰer	1	ɔ f f ɛ ɾ t oː ɾ	substantive			masculine				
+469	Latin	Opferer	of-fertor	ɔ f f ɛ ɾ t ɔ ɾ	1	468	inflection	n.sg.	0	bʰer	0	ɔ f f ɛ ɾ t ɔ ɾ	substantive		n.sg.	masculine				
+470	Indo-European	?	-bʰer-i-	bʱ ɛ ɾ i	0	361	suffixation	suffix: i	0	bʰer	1	bʱ ɛ ɾ i								
+471	Indo-European	?	-bʰeris	bʱ ɛ ɾ i s	0	470	inflection	n.sg.	81	bʰer	0	bʱ ɛ ɾ i s			n.sg.					
+472	Vedic	?	-bhári-	bʱ ˈɐ ɾ i	0	470	inheritance	inheritance	0	bʰer	1	bʱ ˈɐ ɾ i								
+473	Vedic	?	-bháriḥ	bʱ ˈɐ ɾ i h	0	472	inflection	n.sg.	81	bʰer	0	bʱ ˈɐ ɾ i h			n.sg.					
+474	Vedic	Kraft tragend	saho-bhári-	s ɐ ɦ ɔː bʱ ˈɐ ɾ i	0	472	compound	compound2 with 0 s ɐ ɦ ɔː	0	bʰer	1	s ɐ ɦ ɔː bʱ ˈɐ ɾ i	adjective							
+475	Vedic	Kraft tragend	saho-bháriḥ	s ɐ ɦ ɔː bʱ ˈɐ ɾ i h	1	474	inflection	n.sg.masculine	0	bʰer	0	s ɐ ɦ ɔː bʱ ˈɐ ɾ i h	adjective		n.sg.	masculine				
+476	Greek	dickest	πένχιστο-	p ˈɛ n kʰ ɪ s t ɔ	0	338	inheritance	inheritance	0	bʰenǵʰ	1	p ˈɛ n kʰ ɪ s t ɔ	adjective					[	[	
+477	Greek	dickest	πένχιστος	p ˈɛ n kʰ ɪ s t ɔ s	0	476	inflection	n.sg.masculine	59	bʰenǵʰ	0	p ˈɛ n kʰ ɪ s t - ɔ s	adjective		n.sg.	masculine		[	[	
+478	Indo-European	?	bʰr̩-ti-	bʱ ɾ̩ t i	0	361	derivation	zero-grade, suffix: t i	0	bʰer	1	bʱ ɾ̩ t i	substantive			feminine				
+479	Indo-European	?	bʰŕ̩tis	bʱ ‘ɾ̩ t i s	0	478	inflection	n.sg.	82	bʰer	0	bʱ - ‘ɾ̩ t i s	substantive		n.sg.	feminine				
+480	Vedic	Unterhalt, Pflege	bhr̩tí-	bʱ r̩ t ˈi	0	903	derivation	inflection class change	0	bʰer	1	bʱ r̩ t ˈi	substantive			feminine				
+481	Vedic	Unterhalt, Pflege	bhr̩tíḥ	bʱ r̩ t ˈi h	1	480	inflection	n.sg.	0	bʰer	0	bʱ r̩ t ˈi h	substantive		n.sg.	feminine				
+482	Vedic	Darbringung	prá-bhr̩ti-	p ɾ ˈɐ bʱ r̩ t i	0	480	prefixation	prefix: p ɾ ˈɐ	0	bʰer	1	p ɾ ˈɐ bʱ r̩ t i	substantive			feminine				
+483	Vedic	Darbringung	prá-bhr̩tiḥ	p ɾ ˈɐ bʱ r̩ t i h	1	482	inflection	n.sg.	0	bʰer	0	p ɾ ˈɐ bʱ r̩ t i h	substantive		n.sg.	feminine				
+484	Vedic	Herbeibringen von Brennholz	idhmá-bhr̩ti-	i dʱ m ˈɐ bʱ r̩ t i	0	480	compound	compound2 with 0 i dʱ m ˈɐ	0	bʰer	1	i dʱ m ˈɐ bʱ r̩ t i	substantive			feminine				
+485	Vedic	Herbeibringen von Brennholz	idhmá-bhr̩tiḥ	i dʱ m ˈɐ bʱ r̩ t i h	1	484	inflection	n.sg.	0	bʰer	0	i dʱ m ˈɐ bʱ r̩ t i h	substantive		n.sg.	feminine				
+486	Latin	blinder Zufall	fort-	f ɔ ɾ t	0	478	inheritance	inheritance	0	bʰer	1	f ɔ ɾ t	substantive			feminine				
+487	Latin	blinder Zufall	fors	f ɔ ɾ s	1	486	inflection	n.sg.	82	bʰer	0	f ɔ ɾ - - s	substantive		n.sg.	feminine				
+488	Latin	von ungefähr, zufällig	forte-	f ɔ ɾ t ɛ	0	486	reanalysis	reanalysis of the ab.sg.	0	bʰer	1	f ɔ ɾ t ɛ	adverb							
+489	Latin	von ungefähr, zufällig	forte	f ɔ ɾ t ɛ	1	488	inflection	uninflectable word form	0	bʰer	0	f ɔ ɾ t ɛ	adverb							
+490	Latin	diebischerweise, heimlich	furtim-	f ʊ ɾ t ɪ m	0	492	analogy	analogy: 366	0	bʰer	1	f ʊ ɾ t ɪ m	adverb				?		?	
+491	Latin	diebischerweise, heimlich	furtim	f ʊ ɾ t ɪ m	1	490	inflection	uninflectable word form	0	bʰer	0	f ʊ ɾ t ɪ m	adverb				?		?	
+492	Latin	diebischerweise, heimlich	fortim-	f ɔ ɾ t ɪ m	0	486	reanalysis	reanalysis of the a.sg. (with irregularity)	0	bʰer	1	f ɔ ɾ t ɪ m	adverb							must have happened before the accusative ending became em
+493	Germanic	?	burdi-	β u r ð i	0	499	analogy	analogy: 502	0	bʰer	1	β u r ð i	substantive			feminine				
+494	Germanic	?	burdiz	β u r ð i z	0	493	inflection	n.sg.	84	bʰer	0	β u r ð i z	substantive		n.sg.	feminine				
+495	Old High German	Geburt, Gestalt	burt-	b u r t	0	493	inheritance	inheritance	0	bʰer	1	b u r t	substantive			feminine				
+496	Old High German	Geburt, Gestalt	burt	b u r t	1	495	inflection	n.sg.	84	bʰer	0	b u r t - -	substantive		n.sg.	feminine				
+497	Old High German	Herkunft, Geschlecht	gi-burt-	g i b u r t	0	495	prefixation	prefix: g i	0	bʰer	1	g i b u r t	substantive	i		feminine				
+498	Old High German	Herkunft, Geschlecht	gi-burt	g i b u r t	1	497	inflection	n.sg.	0	bʰer	0	g i b u r t	substantive	i	n.sg.	feminine				
+499	Germanic	?	-burþi-	β u r θ i	0	478	inheritance	inheritance	0	bʰer	1	β u r θ i	substantive	i		feminine				
+500	Germanic	?	-burþiz	β u r θ i z	0	499	inflection	n.sg.	82	bʰer	0	β u r θ i z	substantive	i	n.sg.	feminine				
+501	Indo-European	?	bʰr̩téi̯s	bʱ ɾ̩ t ‘ɛi̯ s	0	478	inflection	g.sg.	83	bʰer	0	bʱ - ɾ̩ t ‘ɛi̯ s	substantive		g.sg.	feminine				
+502	Germanic	?	burdes	β u r ð ɛ s	0	499	inflection	g.sg.	83	bʰer	0	β u r ð ɛ s	substantive		g.sg.	feminine				
+503	Vedic	Unterhalt, Pflege	bhr̩téḥ	bʱ r̩ t ɛː h	0	903	inflection	g.sg.	83	bʰer	0	bʱ - r̩ t ɛː h	substantive		g.sg.	feminine				
+504	Vedic	Unterhalt, Pflege	bhŕ̩tiḥ	bʱ ‘r̩ t i h	0	903	inflection	n.sg.	82	bʰer	0	bʱ - ‘r̩ t i h	substantive		n.sg.	feminine				
+505	Indo-European	?	bʰr̩-tu-	bʱ ɾ̩ t u	0	361	derivation	zero-grade, suffix: t u	0	bʰer	1	bʱ ɾ̩ t u								
+506	Indo-European	?	bʰr̩tus	bʱ ɾ̩ t u s	0	505	inflection	n.sg.	85	bʰer	0	bʱ - ɾ̩ t u s			n.sg.					
+507	Latin	?	fortu-	f ɔ ɾ t ʊ	0	505	inheritance	inheritance	0	bʰer	1	f ɔ ɾ t ʊ								
+508	Latin	?	fortus	f ɔ ɾ t ʊ s	0	507	inflection	n.sg.	85	bʰer	0	f ɔ ɾ t ʊ s			n.sg.					
+509	Latin	Zufall, Geschick, Glück, Unglück (Göttername)	Fortūna-	f ɔ ɾ t uː n a	0	507	derivation	lengthening suffix: n a	0	bʰer	1	f ɔ ɾ t uː n a	substantive					[	[	
+510	Latin	Zufall, Geschick, Glück, Unglück (Göttername)	Fortūna	f ɔ ɾ t uː n a	1	509	inflection	n.sg.	0	bʰer	0	f ɔ ɾ t uː n a	substantive		n.sg.			[	[	
+511	Indo-European	?	bʰér-tu-	bʱ ˈɛ ɾ t u	0	361	suffixation	suffix: t u	0	bʰer	1	bʱ ˈɛ ɾ t u	substantive							
+512	Indo-European	?	bʰértum	bʱ ˈɛ ɾ t u m	0	923	inflection	n.sg.	148	bʰer	0	bʱ ˈɛ ɾ t u m	substantive		n.sg.	neuter				
+513	Indo-European	?	bʰértus	bʱ ˈɛ ɾ t u s	0	511	inflection	n.sg.	86	bʰer	0	bʱ ˈɛ ɾ t - u s	substantive		n.sg.					
+514	Vedic	?	bhartum	bʱ ɐ ɾ t u m	0	947	inflection	infinitive	0	bʰer	0	bʱ ɐ ɾ t u m	infinitive		n.sg.	neuter				
+515	Vedic	?	bhŕ̩-	bʱ ˈr̩	0				0	bʰer	1	bʱ ˈr̩	verb							
+516	Vedic	?	bhártave	bʱ ˈɐ ɾ t ɐ w ɛː	1	947	inflection	infinitive d.sg.	0	bʰer	0	bʱ ˈɐ ɾ t ɐ w ɛː	infinitive		d.sg.	neuter				
+517	Vedic	?	prábhartu-	p ɾ ˈɐ bʱ ɐ ɾ t u	0	947	prefixation	prefix: p ɾ ˈɐ	0	bʰer	1	p ɾ ˈɐ bʱ ɐ ɾ t u	verb							
+518	Vedic	?	prábhartum	p ɾ ˈɐ bʱ ɐ ɾ t u m	1	517	inflection	infinitive	0	bʰer	0	p ɾ ˈɐ bʱ ɐ ɾ t u m	infinitive		n.sg.	neuter				
+519	Greek	ἆθλος, Θούριοι	φέρτρυ-	pʰ ˈɛ ɾ t ɾ ʏ	0	511	inheritance	inheritance	0	bʰer	1	pʰ ˈɛ ɾ t ɾ ʏ	substantive				?		?	
+520	Greek	ἆθλος, Θούριοι	φέρτρυς	pʰ ˈɛ ɾ t ɾ ʏ s	1	519	inflection	n.sg.	86	bʰer	0	pʰ ˈɛ ɾ t ɾ ʏ s	substantive		n.sg.		?		?	
+521	Indo-European	?	bʰer-es-	bʱ ɛ ɾ ɛ s	0	361	suffixation	suffix: ɛ s	0	bʰer	1	bʱ ɛ ɾ ɛ s				neuter				
+522	Indo-European	?	bʰeres	bʱ ɛ ɾ ɛ s	0	521	inflection	n.sg.	87	bʰer	0	bʱ ɛ ɾ ɛ s			n.sg.	neuter				
+523	Vedic	Pflege, Bewahrung	-bháras-	bʱ ˈɐ ɾ ɐ s	0	521	inheritance	inheritance	0	bʰer	1	bʱ ˈɐ ɾ ɐ s				neuter				
+524	Vedic	Pflege, Bewahrung	-bháraḥ	bʱ ˈɐ ɾ ɐ h	0	523	inflection	n.sg.	87	bʰer	0	bʱ ˈɐ ɾ ɐ h			n.sg.	neuter				
+525	Vedic	?	sá-bháras-	s ˈɐ bʱ ˈɐ ɾ ɐ s	0	523	prefixation	prefix: s ˈɐ	0	bʰer	1	s ˈɐ bʱ ˈɐ ɾ ɐ s	adjective							
+526	Vedic	?	sá-bháraḥ	s ˈɐ bʱ ˈɐ ɾ ɐ h	1	525	inflection	n.sg.masculine	0	bʰer	0	s ˈɐ bʱ ˈɐ ɾ ɐ h	adjective		n.sg.	neuter				
+527	Vedic	?	viśvá-bháras-	w i ɕ w ˈɐ bʱ ˈɐ ɾ ɐ s	0	523	compound	compound2 with 0 w i ɕ w ˈɐ	0	bʰer	1	w i ɕ w ˈɐ bʱ ˈɐ ɾ ɐ s	adjective							
+528	Vedic	?	viśvá-bháraḥ	w i ɕ w ˈɐ bʱ ˈɐ ɾ ɐ h	1	527	inflection	n.sg.masculine	0	bʰer	0	w i ɕ w ˈɐ bʱ ˈɐ ɾ ɐ h	adjective		n.sg.	neuter				
+529	Indo-European	?	bʰeresei	bʱ ɛ ɾ ɛ s ɛi̯	0	521	inflection	d.sg.	88	bʰer	0	bʱ ɛ ɾ ɛ s ɛi̯			d.sg.					
+530	Vedic	?	bhárase	bʱ ˈɐ ɾ ɐ s ɛː	1	950	inflection	infinitive d.sg.	0	bʰer	0	bʱ ˈɐ ɾ ɐ s ɛː	infinitive		d.sg.	neuter				
+531	Greek	?	-φερέσ-	pʰ ɛ ɾ ˈɛ s	0	521	inheritance	inheritance	0	bʰer	1	pʰ ɛ ɾ ˈɛ s								
+532	Greek	?	φερής	pʰ ɛ ɾ ˈɛː s	0	531	inflection	n.sg.	87	bʰer	0	pʰ ɛ ɾ ˈɛː s			n.sg.					
+533	Greek	hervorragend	προφερέσ-	p ɾ ɔ pʰ ɛ ɾ ˈɛ s	0	531	prefixation	prefix: p ɾ ɔ	0	bʰer	1	p ɾ ɔ pʰ ɛ ɾ ˈɛ s	adjective							
+534	Greek	hervorragend	προφερής	p ɾ ɔ pʰ ɛ ɾ ˈɛː s	0	533	inflection	n.sg.masculine	0	bʰer	0	p ɾ ɔ pʰ ɛ ɾ ˈɛː s	adjective		n.sg.	masculine				
+535	Indo-European	?	bʰer-nes-	bʱ ɛ ɾ n ɛ s	0	361	suffixation	suffix: n ɛ s	0	bʰer	1	bʱ ɛ ɾ n ɛ s								
+536	Indo-European	?	bʰor-nes-	bʱ ɔ ɾ n ɛ s	0	361	derivation	o-grade, suffix: n ɛ s	0	bʰer	1	bʱ ɔ ɾ n ɛ s								
+537	Indo-European	?	bʰernes	bʱ ɛ ɾ n ɛ s	0	535	inflection	n.sg.	89	bʰer	0	bʱ ɛ ɾ n ɛ s			n.sg.					
+538	Indo-European	?	bʰornes	bʱ ɔ ɾ n ɛ s	0	536	inflection	n.sg.	89	bʰer	0	bʱ ɔ ɾ n ɛ s			n.sg.					
+539	Vedic	Darbringung, Dargebrachtes	-bharn̩as-	bʱ ɐ ɾ ɳ ɐ s	0	536	inheritance	inheritance	0	bʰer	1	bʱ ɐ ɾ ɳ ɐ s								
+540	Vedic	Darbringung, Dargebrachtes	-bharn̩aḥ	bʱ ɐ ɾ ɳ ɐ h	0	539	inflection	n.sg.	89	bʰer	0	bʱ ɐ ɾ ɳ ɐ h			n.sg.					
+541	Vedic	?	sahásra-bharn̩as-	s ɐ ɦ ˈɐ s ɾ ɐ bʱ ɐ ɾ ɳ ɐ s	0	539	compound	compound2 with 0 s ɐ ɦ ˈɐ s ɾ ɐ	0	bʰer	1	s ɐ ɦ ˈɐ s ɾ ɐ bʱ ɐ ɾ ɳ ɐ s	adjective							
+542	Vedic	?	sahásra-bharn̩aḥ	s ɐ ɦ ˈɐ s ɾ ɐ bʱ ɐ ɾ ɳ ɐ h	1	541	inflection	n.sg.masculine	0	bʰer	0	s ɐ ɦ ˈɐ s ɾ ɐ bʱ ɐ ɾ ɳ ɐ h	adjective		n.sg.	masculine				
+543	Indo-European	?	bʰer-isth₂o-	bʱ ɛ ɾ i s t χ ɔ	0	361	suffixation	suffix: i s t χ ɔ	0	bʰer	1	bʱ ɛ ɾ i s t χ ɔ	adjective							
+544	Indo-European	?	bʰeristh₂os	bʱ ɛ ɾ i s t χ ɔ s	0	543	inflection	n.sg.masculine	90	bʰer	0	bʱ ɛ ɾ i s t χ ɔ s	adjective		n.sg.	masculine				
+545	Greek	vorzüglichst, best	φέριστο-	pʰ ˈɛ ɾ ɪ s t ɔ	0	543	inheritance	inheritance	0	bʰer	1	pʰ ˈɛ ɾ ɪ s t ɔ	adjective							
+546	Greek	vorzüglichst, best	φέριστος	pʰ ˈɛ ɾ ɪ s t ɔ s	1	545	inflection	n.sg.masculine	90	bʰer	0	pʰ ˈɛ ɾ ɪ s t - ɔ s	adjective		n.sg.	masculine				
+547	Indo-European	?	bʰer-et-	bʱ ɛ ɾ ɛ t	0	361	suffixation	suffix: ɛ t	0	bʰer	1	bʱ ɛ ɾ ɛ t	substantive			masculine				
+548	Indo-European	?	bʰerets	bʱ ɛ ɾ ɛ t s	0	547	inflection	n.sg.	91	bʰer	0	bʱ ɛ ɾ ɛ t s	substantive		n.sg.	masculine				
+549	Germanic	?	beriþa-	β ɛ r i θ a	0	577	derivation	inflection class change	0	bʰer	1	β ɛ r i θ a	substantive			masculine	?	[	?[	
+550	Germanic	?	beriþaz	β ɛ r i θ a z	0	549	inflection	n.sg.	92	bʰer	0	β ɛ r i θ a z	substantive		n.sg.	masculine	?	[	?[	
+551	Old High German	Mutterschoß	birid-	b i r i d	0	549	inheritance	inheritance	0	bʰer	1	b i r i d	substantive			masculine	?	[	?[	
+552	Old High German	Mutterschoß	birid	b i r i d	1	551	inflection	n.sg.	92	bʰer	0	b i r i d - -	substantive		n.sg.	masculine	?	[	?[	
+553	Indo-European	?	bʰer-o-	bʱ ɛ ɾ ɔ	0	361	suffixation	suffix: ɔ	0	bʰer	1	bʱ ɛ ɾ ɔ								
+554	Indo-European	?	bʰeros	bʱ ɛ ɾ ɔ s	0	553	inflection	n.sg.	93	bʰer	0	bʱ ɛ ɾ ɔ s			n.sg.	masculine				
+555	Germanic	?	-bera-	β ɛ r a	0	553	inheritance	inheritance	0	bʰer	1	β ɛ r a								
+556	Germanic	?	beraz	β ɛ r a z	0	555	inflection	n.sg.	93	bʰer	0	β ɛ r a z			n.sg.	masculine				
+557	Old High German	?	-ber-	b e r	0	555	inheritance	inheritance	0	bʰer	1	b e r								
+558	Old High German	?	-ber	b e r	0	557	inflection	n.sg.	93	bʰer	0	b e r - -			n.sg.	masculine				
+559	Old High German	gebährend	kindber-	k i n d b e r a	0	557	compound	compound2 with 0 k i n d	0	bʰer	1	k i n d b e r a	adjective							
+560	Old High German	gebährend	kindbera	k i n d b e r a	1	559	inflection	weak-n.sg.feminine	0	bʰer	0	k i n d b e r a	adjective		n.sg.	feminine				
+561	Old High German	nicht tragend, unfruchtbar	unber-	u n b e r	0	557	prefixation	prefix: u n	0	bʰer	1	u n b e r	adjective							
+562	Old High German	nicht tragend, unfruchtbar	unbera	u n b e r a	1	561	inflection	weak-n.sg.feminine	0	bʰer	0	u n b e r a	adjective		n.sg.	feminine				
+563	Old High German	nicht tragend, unfruchtbar	umber-	u m b e r	0	557	prefixation	prefix: u m	0	bʰer	1	u m b e r	adjective							
+564	Old High German	nicht tragend, unfruchtbar	umbera	u m b e r a	1	563	inflection	weak-n.sg.feminine	0	bʰer	0	u m b e r a	adjective		n.sg.	feminine				
+565	Indo-European	?	bʰēr-ah₂-	bʱ ɛː ɾ a χ	0	361	derivation	lengthened grade, suffix: a χ	0	bʰer	1	bʱ ɛː ɾ a χ	substantive			feminine				
+566	Indo-European	?	bʰērah₂	bʱ ɛː ɾ a χ	0	565	inflection	n.sg.	94	bʰer	0	bʱ ɛː ɾ a χ	substantive		n.sg.	feminine				
+567	Germanic	(Toten)bahre, Sänfte	bǣrō-	β ɛː r ɔː	0	565	inheritance	inheritance	0	bʰer	1	β ɛː r ɔː	substantive			feminine				
+568	Germanic	(Toten)bahre, Sänfte	bǣrō	β ɛː r ɔː	0	567	inflection	n.sg.	94	bʰer	0	β ɛː r ɔː -	substantive		n.sg.	feminine				
+569	Old High German	(Toten)bahre, Sänfte	bāra-	b aː r a	0	567	inheritance	inheritance	0	bʰer	1	b aː r a	substantive			feminine				
+570	Old High German	(Toten)bahre, Sänfte	bāra	b aː r a	1	569	inflection	n.sg.	94	bʰer	0	b aː r a -	substantive		n.sg.	feminine				
+571	Indo-European	?	bʰór-o-	bʱ ˈɔ ɾ ɔ	0	361	derivation	o-grade, suffix: ɔ	0	bʰer	1	bʱ ˈɔ ɾ ɔ	substantive			masculine				
+572	Indo-European	?	bʰóros	bʱ ˈɔ ɾ ɔ s	0	571	inflection	n.sg.	95	bʰer	0	bʱ ˈɔ ɾ ɔ s	substantive		n.sg.	masculine				
+573	Vedic	Bürde, Last	bhārá-	bʱ aː ɾ ˈɐ	0	581	analogy	analogy: 584	0	bʰer	1	bʱ aː ɾ ˈɐ	substantive			masculine		[	[	
+574	Vedic	Bürde, Last	bhāráḥ	bʱ aː ɾ ˈɐ h	1	573	inflection	n.sg.	0	bʰer	0	bʱ aː ɾ ˈɐ h	substantive		n.sg.	masculine		[	[	
+575	Vedic	Zusammentragen, Sammeln	saṃbhārá-	s ɐ N bʱ aː ɾ ˈɐ	0	573	prefixation	prefix: s ɐ N	0	bʰer	1	s ɐ N bʱ aː ɾ ˈɐ	substantive			masculine		[	[	
+576	Vedic	Zusammentragen, Sammeln	saṃbhāráḥ	s ɐ N bʱ aː ɾ ˈɐ h	1	575	inflection	n.sg.	0	bʰer	0	s ɐ N bʱ aː ɾ ˈɐ h	substantive		n.sg.	masculine		[	[	
+577	Germanic	?	beriþ-	β ɛ r i θ	0	547	inheritance	inheritance	0	bʰer	1	β ɛ r i θ	substantive			masculine	?	[	?[	
+578	Germanic	?	beriþz	β ɛ r i θ z	0	577	inflection	n.sg.	91	bʰer	0	β ɛ r i θ z	substantive		n.sg.	masculine	?	[	?[	
+579	Vedic	Erlangen, Wegtragen, Gewinn, Beute	bhára-	bʱ ˈɐ ɾ ɐ	0	581	analogy	analogy: 589	0	bʰer	1	bʱ ˈɐ ɾ ɐ	substantive			masculine				
+580	Vedic	Erlangen, Wegtragen, Gewinn, Beute	bháraḥ	bʱ ˈɐ ɾ ɐ h	1	579	inflection	n.sg.	0	bʰer	0	bʱ ˈɐ ɾ ɐ h	substantive		n.sg.	masculine				
+581	Vedic	Bürde, Last	bhā́ra-	bʱ ˈaː ɾ ɐ	0	571	inheritance	inheritance	0	bʰer	1	bʱ ˈaː ɾ ɐ	substantive			masculine		[	[	
+582	Vedic	Bürde, Last	bhā́raḥ	bʱ ˈaː ɾ ɐ h	0	581	inflection	n.sg.	95	bʰer	0	bʱ ˈaː ɾ ɐ h	substantive		n.sg.	masculine		[	[	
+583	Indo-European	?	bʰorósi̯o	bʱ ɔ ɾ ˈɔ s y ɔ	0	571	inflection	g.sg.	96	bʰer	0	bʱ ɔ ɾ ˈɔ s y ɔ	substantive		g.sg.	masculine				
+584	Vedic	Bürde, Last	bhārásya	bʱ aː ɾ ˈɐ s y ɐ	0	581	inflection	g.sg.	96	bʰer	0	bʱ aː ɾ ˈɐ s y ɐ	substantive		g.sg.	masculine		[	[	
+585	Greek	Beitrag, Steuer	φόρο-	pʰ ˈɔ ɾ ɔ	0	571	inheritance	inheritance	0	bʰer	1	pʰ ˈɔ ɾ ɔ	substantive			masculine				
+586	Greek	Beitrag, Steuer	φόρος	pʰ ˈɔ ɾ ɔ s	1	585	inflection	n.sg.	95	bʰer	0	pʰ ˈɔ ɾ ɔ s	substantive		n.sg.	masculine				
+587	Indo-European	?	bʰor-ó-	bʱ ɔ ɾ ˈɔ	0	361	derivation	o-grade, suffix: ˈɔ	0	bʰer	1	bʱ ɔ ɾ ˈɔ	adjective							
+588	Indo-European	?	bʰorós	bʱ ɔ ɾ ˈɔ s	0	587	inflection	n.sg.masculine	97	bʰer	0	bʱ ɔ ɾ ˈɔ s	adjective		n.sg.	masculine				
+589	Vedic	bringend	-bhará-	bʱ ɐ ɾ ˈɐ	0	587	inheritance	inheritance	0	bʰer	1	bʱ ɐ ɾ ˈɐ	adjective							
+590	Vedic	bringend	-bharáḥ	bʱ ɐ ɾ ˈɐ h	0	589	inflection	n.sg.masculine	97	bʰer	0	bʱ ɐ ɾ ˈɐ h	adjective		n.sg.	masculine				
+591	Vedic	Gedeihen	puṣṭim-bhará-	p u ʂ ʈ i m bʱ ɐ ɾ ˈɐ	0	589	compound	compound2 with 0 p u ʂ ʈ i m	0	bʰer	1	p u ʂ ʈ i m bʱ ɐ ɾ ˈɐ	substantive							
+592	Vedic	Gedeihen	puṣṭim-bharáḥ	p u ʂ ʈ i m bʱ ɐ ɾ ˈɐ h	1	591	inflection	n.sg.	0	bʰer	0	p u ʂ ʈ i m bʱ ɐ ɾ ˈɐ h	substantive		n.sg.	masculine				
+593	Greek	vorwärtsbringend, strebend nach, tragend	φορό-	pʰ ɔ ɾ ˈɔ	0	587	inheritance	inheritance	0	bʰer	1	pʰ ɔ ɾ ˈɔ	adjective							
+594	Greek	vorwärtsbringend, strebend nach, tragend	φορός	pʰ ɔ ɾ ˈɔ s	1	593	inflection	n.sg.masculine	97	bʰer	0	pʰ ɔ ɾ ˈɔ s	adjective		n.sg.	masculine				
+597	Greek	Weizen tragend	πῡρο-φόρο-	p yː ɾ ɔ pʰ ˈɔ ɾ ɔ	0	593	compound	compound2 with 0 p yː ɾ ɔ	0	bʰer	1	p yː ɾ ɔ pʰ ˈɔ ɾ ɔ	adjective							
+598	Greek	Weizen tragend	πῡροφόρος	p yː ɾ ɔ pʰ ˈɔ ɾ ɔ s	1	597	inflection	n.sg.masculine	0	bʰer	0	p yː ɾ ɔ pʰ ˈɔ ɾ ɔ s	adjective		n.sg.	masculine				
+599	Greek	Weizen tragend	πῡρη-φόρο-	p yː ɾ ɛː pʰ ˈɔ ɾ ɔ	0	593	compound	compound2 with 0 p yː ɾ ɛː	0	bʰer	1	p yː ɾ ɛː pʰ ˈɔ ɾ ɔ	adjective							
+600	Greek	Weizen tragend	πῡρηφόρος	p yː ɾ ɛː pʰ ˈɔ ɾ ɔ s	1	599	inflection	n.sg.masculine	0	bʰer	0	p yː ɾ ɛː pʰ ˈɔ ɾ ɔ s	adjective		n.sg.	masculine				
+601	Latin	tragend, Träger	-fer-	f ɛ ɾ	0	587	inheritance	inheritance	0	bʰer	1	f ɛ ɾ	adjective							
+602	Latin	tragend, Träger	-fer	f ɛ ɾ	0	601	inflection	n.sg.masculine	97	bʰer	0	f ɛ ɾ - -	adjective		n.sg.	masculine				
+603	Latin	einer, der mit der furca bestraft wird, Halunke	furci-fer-	f ʊ ɾ k ɪ f ɛ ɾ	0	601	compound	compound2 with 0 f ʊ ɾ k ɪ	0	bʰer	1	f ʊ ɾ k ɪ f ɛ ɾ	substantive			masculine				
+604	Latin	einer, der mit der furca bestraft wird, Halunke	furci-fer	f ʊ ɾ k ɪ f ɛ ɾ	1	603	inflection	n.sg.	0	bʰer	0	f ʊ ɾ k ɪ f ɛ ɾ	substantive		n.sg.	masculine				
+605	Latin	Ertrag bringend	frūgi-fer-	f ɾ uː g ɪ f ɛ ɾ	0	601	compound	compound2 with 0 f ɾ uː g ɪ	0	bʰer	1	f ɾ uː g ɪ f ɛ ɾ	adjective							
+606	Latin	Ertrag bringend	frūgi-fer	f ɾ uː g ɪ f ɛ ɾ	1	605	inflection	n.sg.masculine	0	bʰer	0	f ɾ uː g ɪ f ɛ ɾ	adjective		n.sg.	masculine				
+607	Germanic	?	-bara-	β a r a	0	587	inheritance	inheritance	0	bʰer	1	β a r a								
+608	Germanic	?	baraz	β a r a z	0	607	inflection	n.sg.	97	bʰer	0	β a r a z			n.sg.	masculine				
+609	Old High German	?	bar-	b a r	0	607	inheritance	inheritance	0	bʰer	1	b a r				neuter				
+610	Old High German	?	bar	b a r	0	609	inflection	n.sg.	97	bʰer	0	b a r - -			n.sg.	neuter				
+611	Old High German	Zuber, Amphore, Krug	zwi-bar-	ts w i b a r	0	609	compound	compound2 with 0 ts w i	0	bʰer	1	ts w i b a r	substantive			neuter				
+612	Old High German	Zuber, Amphore, Krug	zwi-bar	ts w i b a r	1	611	inflection	n.sg.	0	bʰer	0	ts w i b a r	substantive		n.sg.	neuter				
+613	Indo-European	?	bʰor-ah₂-	bʱ ɔ ɾ a χ	0	361	derivation	o-grade, suffix: a χ	0	bʰer	1	bʱ ɔ ɾ a χ	substantive			feminine				
+614	Indo-European	?	bʰorah₂	bʱ ɔ ɾ a χ	0	613	inflection	n.sg.	98	bʰer	0	bʱ ɔ ɾ a χ	substantive		n.sg.	feminine				
+615	Greek	Tragen, Last, Abgabe, Ertrag usw.	φορά-	pʰ ɔ ɾ ˈa	0	613	inheritance	inheritance	0	bʰer	1	pʰ ɔ ɾ ˈa	substantive			feminine				
+616	Greek	Tragen, Last, Abgabe, Ertrag usw.	φορά	pʰ ɔ ɾ ˈa	1	615	inflection	n.sg.	98	bʰer	0	pʰ ɔ ɾ ˈa -	substantive		n.sg.	feminine				
+618	Germanic	?	barō-	β a r ɔː	0	613	inheritance	inheritance	0	bʰer	1	β a r ɔː	substantive			feminine				
+619	Germanic	?	barō	β a r ɔː	0	618	inflection	n.sg.	98	bʰer	0	β a r ɔː -	substantive		n.sg.	feminine				
+620	Indo-European	?	bʰor-mó-	bʱ ɔ ɾ m ˈɔ	0	361	derivation	o-grade, suffix: m ˈɔ	0	bʰer	1	bʱ ɔ ɾ m ˈɔ	substantive			masculine				
+621	Indo-European	?	bʰormós	bʱ ɔ ɾ m ˈɔ s	0	620	inflection	n.sg.	99	bʰer	0	bʱ ɔ ɾ m ˈɔ s	substantive		n.sg.	masculine				
+622	Greek	Tragekorb, Matte, Sieb	φορμό-	pʰ ɔ ɾ m ˈɔ	0	620	inheritance	inheritance	0	bʰer	1	pʰ ɔ ɾ m ˈɔ	substantive			masculine				
+623	Greek	Tragekorb, Matte, Sieb	φορμός	pʰ ɔ ɾ m ˈɔ s	1	622	inflection	n.sg.	99	bʰer	0	pʰ ɔ ɾ m ˈɔ s	substantive		n.sg.	masculine				
+624	Germanic	Schoß, Busen	barma-	β a r m a	0	620	inheritance	inheritance	0	bʰer	1	β a r m a	substantive			masculine				
+625	Germanic	Schoß, Busen	barmaz	β a r m a z	0	624	inflection	n.sg.	99	bʰer	0	β a r m a z	substantive		n.sg.	masculine				
+626	Old High German	Schoß, Busen	barm-	b a r m	0	624	inheritance	inheritance	0	bʰer	1	b a r m	substantive			masculine				
+627	Old High German	Schoß, Busen	barm	b a r m	1	626	inflection	n.sg.	99	bʰer	0	b a r m - -	substantive		n.sg.	masculine				
+628	Indo-European	?	-bʰr̩-no-	bʱ ɾ̩ n ɔ	0	361	derivation	zero-grade, suffix: n ɔ	0	bʰer	1	bʱ ɾ̩ n ɔ								
+629	Indo-European	?	-bʰr̩nos	bʱ ɾ̩ n ɔ s	0	628	inflection	n.sg.	100	bʰer	0	bʱ ɾ̩ n ɔ s			n.sg.					
+630	Vedic	?	bhr̩n̩á-	bʱ r̩ ɳ ˈɐ	0	628	inheritance	inheritance	0	bʰer	1	bʱ r̩ ɳ ˈɐ					?		?	
+631	Vedic	?	bhr̩n̩áḥ	bʱ r̩ ɳ ˈɐ h	0	630	inflection	n.sg.	100	bʰer	0	bʱ r̩ ɳ ˈɐ h			n.sg.		?		?	
+632	Vedic	Soma-Kufe	ambhr̩n̩á-	ɐ m bʱ r̩ ɳ ˈɐ	0	630	prefixation	prefix: ɐ m	0	bʰer	1	ɐ m bʱ r̩ ɳ ˈɐ	substantive			masculine	?		?	
+633	Vedic	Soma-Kufe	ambhr̩n̩áḥ	ɐ m bʱ r̩ ɳ ˈɐ h	1	632	inflection	n.sg.	0	bʰer	0	ɐ m bʱ r̩ ɳ ˈɐ h	substantive		n.sg.	masculine	?		?	
+634	Indo-European	?	-bʰr̩-nah₂-	bʱ ɾ̩ n a χ	0	361	derivation	zero-grade, suffix: a χ	0	bʰer	1	bʱ ɾ̩ n a χ	substantive			feminine				
+635	Indo-European	?	-bʰr̩nah₂	bʱ ɾ̩ n a χ	0	634	inflection	n.sg.	101	bʰer	0	bʱ - ɾ̩ n a χ	substantive		n.sg.	feminine				
+637	Attic	Mitgift	φερνή-	pʰ ɛ ɾ n ˈɛː	0	634	inheritance	inheritance	0	bʰer	1	pʰ ɛ ɾ n ˈɛː	substantive			feminine				
+638	Attic	Mitgift	φερνή	pʰ ɛ ɾ n ˈɛː	1	637	inflection	n.sg.	101	bʰer	0	pʰ ɛ ɾ n ˈɛː -	substantive		n.sg.	feminine				
+640	Indo-European	?	bʰor-no-	bʱ ɔ ɾ n ɔ	0	361	derivation	o-grade, suffix: n ɔ	0	bʰer	1	bʱ ɔ ɾ n ɔ	substantive			neuter				
+641	Indo-European	?	bʰornom	bʱ ɔ ɾ n ɔ m	0	640	inflection	n.sg.	102	bʰer	0	bʱ ɔ ɾ n ɔ m	substantive		n.sg.	neuter				
+642	Germanic	Kind, Sohn	barna-	β a r n a	0	640	inheritance	inheritance	0	bʰer	1	β a r n a	substantive			neuter				
+643	Germanic	Kind, Sohn	barnan	β a r n a n	0	642	inflection	n.sg.	102	bʰer	0	β a r n a n	substantive		n.sg.	neuter				
+644	Old High German	Kind, Sohn	barn-	b a r n	0	642	inheritance	inheritance	0	bʰer	1	b a r n	substantive			neuter				
+645	Old High German	Kind, Sohn	barn	b a r n	1	644	inflection	n.sg.	102	bʰer	0	b a r n - -	substantive		n.sg.	neuter				
+646	Indo-European	?	bʰēr-i̯o-	bʱ ɛː ɾ j ɔ	0	361	derivation	lengthened grade, suffix: j ɔ	0	bʰer	1	bʱ ɛː ɾ j ɔ	adjective							
+647	Indo-European	?	bʰēri̯os	bʱ ɛː ɾ j ɔ s	0	646	inflection	n.sg.masculine	103	bʰer	0	bʱ ɛː ɾ j ɔ s	adjective		n.sg.	masculine				
+648	Vedic	zu erhalten	-bhārya-	bʱ aː ɾ j ɐ	0	646	inheritance	inheritance	0	bʰer	1	bʱ aː ɾ j ɐ	adjective							
+649	Vedic	zu erhalten	-bhāryaḥ	bʱ aː ɾ j ɐ h	1	648	inflection	n.sg.masculine	103	bʰer	0	bʱ aː ɾ j ɐ h	adjective		n.sg.	masculine				
+650	Germanic	?	bǣri-	β ɛː r i	0	646	inheritance	inheritance	0	bʰer	1	β ɛː r i	adjective					[	[	
+651	Germanic	?	bǣriz	β ɛː r i z	0	650	inflection	n.sg.masculine	103	bʰer	0	β ɛː r i - z	adjective		n.sg.	masculine		[	[	
+652	Old High German	?	-bāri-	b aː r i	0	650	inheritance	inheritance	0	bʰer	1	b aː r i	adjective					[	[	
+653	Old High German	?	-bāri	b aː r i	0	652	inflection	n.sg.	103	bʰer	0	b aː r i - -	adjective		n.sg.	masculine		[	[	
+654	Old High German	undankbar	unthanc-bāri-	u n t a n k b aː r i	0	652	compound	compound2 with 0 u n t a n k	0	bʰer	1	u n t a n k b aː r i	adjective					[	[	
+655	Old High German	undankbar	unthanc-bāri	u n t a n k b aː r i	1	654	inflection	n.sg.masculine	0	bʰer	0	u n t a n k b aː r i	adjective		n.sg.	masculine		[	[	
+656	Indo-European	?	bʰēri̯om	bʱ ɛː ɾ j ɔ m	0	922	inflection	n.sg.	104	bʰer	0	bʱ ɛː ɾ j ɔ m	substantive		n.sg.	neuter				
+657	Germanic	?	bǣrja-	β ɛː r j a	0	922	inheritance	inheritance	0	bʰer	1	β ɛː r j a	substantive			neuter		[	[	
+658	Germanic	?	bǣrjan	β ɛː r j a n	0	657	inflection	n.sg.	104	bʰer	0	β ɛː r j a n	substantive		n.sg.	neuter		[	[	
+659	Old High German	?	bāre-	b aː r e	0	657	inheritance	inheritance	0	bʰer	1	b aː r e	substantive			neuter		[	[	
+660	Old High German	?	bāre	b aː r e	0	659	inflection	n.sg.	104	bʰer	0	b aː r - e -	substantive		n.sg.	neuter		[	[	
+661	Old High German	das Wesen einer Person kennzeichnendes Verhalten, Gebaren	ge-bāre-	g e b aː r e	0	659	prefixation	prefix: g e	0	bʰer	1	g e b aː r e	substantive			neuter		[	[	
+662	Old High German	das Wesen einer Person kennzeichnendes Verhalten, Gebaren	ge-bāre	g e b aː r e	1	661	inflection	n.sg.	0	bʰer	0	g e b aː r e	substantive		n.sg.	neuter		[	[	
+663	Indo-European	?	bʰēr-i̯ah₂-	bʱ ɛː ɾ j a χ	0	361	derivation	lengthened grade, suffix: j a χ	0	bʰer	1	bʱ ɛː ɾ j a χ	substantive			feminine				
+664	Indo-European	?	bʰēri̯ah₂	bʱ ɛː ɾ j a χ	0	663	inflection	n.sg.	105	bʰer	0	bʱ ɛː ɾ j a χ	substantive		n.sg.	feminine				
+665	Vedic	Frau, Gattin	bhāryā̀-	bʱ aː ɾ j ˈaː	0	663	inheritance	inheritance	0	bʰer	1	bʱ aː ɾ j ˈaː	substantive			feminine				
+666	Vedic	Frau, Gattin	bhāryā̀	bʱ aː ɾ j ˈaː	1	665	inflection	n.sg.	105	bʰer	0	bʱ aː ɾ j ˈaː -	substantive		n.sg.	feminine				
+667	Indo-European	?	bʰr̩-tó-	bʱ ɾ̩ t ˈɔ	0	361	derivation	zero-grade, suffix: t ˈɔ	0	bʰer	1	bʱ ɾ̩ t ˈɔ	adjective							
+668	Indo-European	?	bʰr̩tós	bʱ ɾ̩ t ˈɔ s	0	667	inflection	n.sg.masculine	106	bʰer	0	bʱ ɾ̩ t ˈɔ s	adjective		n.sg.	masculine				
+669	Vedic	gebracht, gepflegt, gehegt	br̩tá-	b r̩ t ˈɐ	0	667	inheritance	inheritance	0	bʰer	1	b r̩ t ˈɐ	adjective							
+670	Vedic	gebracht, gepflegt, gehegt	br̩táḥ	b r̩ t ˈɐ h	0	669	inflection	n.sg.masculine	106	bʰer	0	b r̩ t ˈɐ h	adjective		n.sg.	masculine				
+671	Vedic	hergebracht	ā́br̩tá-	ˈaː b r̩ t ˈɐ	0	669	prefixation	prefix: ˈaː	0	bʰer	1	ˈaː b r̩ t ˈɐ	adjective							
+672	Vedic	hergebracht	ā́br̩táḥ	ˈaː b r̩ t ˈɐ h	1	671	inflection	n.sg.masculine	0	bʰer	0	ˈaː b r̩ t ˈɐ h	adjective		n.sg.	masculine				
+673	Vedic	wohlgepflegt	súbr̩tá-	s ˈu b r̩ t ˈɐ	0	669	prefixation	prefix: s ˈu	0	bʰer	1	s ˈu b r̩ t ˈɐ	adjective							
+674	Vedic	wohlgepflegt	súbr̩táḥ	s ˈu b r̩ t ˈɐ h	1	673	inflection	n.sg.masculine	0	bʰer	0	s ˈu b r̩ t ˈɐ h	adjective		n.sg.	masculine				
+675	Indo-European	?	bʰr̩tóm	bʱ ɾ̩ t ˈɔ m	0	930	inflection	n.sg.	107	bʰer	0	bʱ - ɾ̩ t ˈɔ m	substantive		n.sg.	neuter				
+676	Latin	Diebstahl, gestohlenes Gut, heimlicher Streich	fūrto-	f uː ɾ t ɔ	0	678	analogy	analogy: 366	0	bʰer	1	f uː ɾ t ɔ	substantive			neuter				
+677	Latin	Diebstahl, gestohlenes Gut, heimlicher Streich	fūrtum	f uː ɾ t ʊ m	1	676	inflection	n.sg.	0	bʰer	0	f uː ɾ t ʊ m	substantive		n.sg.	neuter				
+678	Latin	Diebstahl, gestohlenes Gut, heimlicher Streich	furto-	f ʊ ɾ t ɔ	0	930	inheritance	inheritance	0	bʰer	1	f ʊ ɾ t ɔ	substantive			neuter				
+679	Latin	Diebstahl, gestohlenes Gut, heimlicher Streich	furtum	f ʊ ɾ t ʊ m	1	678	inflection	n.sg.	107	bʰer	0	f ʊ ɾ t ʊ m	substantive		n.sg.	neuter				
+680	Indo-European	?	bʰer-to-	bʱ ɛ ɾ t ɔ	0	361	suffixation	suffix: t ɔ	0	bʰer	1	bʱ ɛ ɾ t ɔ								
+681	Indo-European	?	bʰertos	bʱ ɛ ɾ t ɔ s	0	680	inflection	n.sg.	108	bʰer	0	bʱ ɛ ɾ t ɔ s			n.sg.	masculine				
+682	Greek	?	-φερτο-	pʰ ɛ ɾ t ɔ	0	680	inheritance	inheritance	0	bʰer	1	pʰ ɛ ɾ t ɔ								
+683	Greek	?	φερτος	pʰ ɛ ɾ t ɔ s	0	682	inflection	n.sg.	108	bʰer	0	pʰ ɛ ɾ t ɔ s			n.sg.	masculine				
+684	Greek	verbunden	σύμ-φερτο-	s ˈʏ m pʰ ɛ ɾ t ɔ	0	682	prefixation	prefix: s ˈʏ m	0	bʰer	1	s ˈʏ m pʰ ɛ ɾ t ɔ	adjective							
+685	Greek	verbunden	σύμφερτος	s ˈʏ m pʰ ɛ ɾ t ɔ s	1	684	inflection	n.sg.masculine	0	bʰer	0	s ˈʏ m pʰ ɛ ɾ t ɔ s	adjective		n.sg.	masculine				
+686	Greek	unerträglich	ἄ-φερτο-	ˈa pʰ ɛ ɾ t ɔ	0	682	prefixation	prefix: ˈa	0	bʰer	1	ˈa pʰ ɛ ɾ t ɔ	adjective							
+687	Greek	unerträglich	ἄφερτος	ˈa pʰ ɛ ɾ t ɔ s	1	686	inflection	n.sg.masculine	0	bʰer	0	ˈa pʰ ɛ ɾ t ɔ s	adjective		n.sg.	masculine				
+688	Indo-European	?	bʰertom	bʱ ɛ ɾ t ɔ m	0	918	inflection	n.sg.	109	bʰer	0	bʱ ɛ ɾ t ɔ m	substantive		n.sg.	neuter				
+689	Germanic	?	berþa-	β ɛ r θ a	0	918	inheritance	inheritance	0	bʰer	1	β ɛ r θ a	substantive			neuter				
+690	Germanic	?	berþan	β ɛ r θ a n	0	689	inflection	n.sg.	109	bʰer	0	β ɛ r θ a n	substantive		n.sg.	neuter				
+691	Old High German	Gewächs, Brut	berd-	b e r d	0	689	inheritance	inheritance	0	bʰer	1	b e r d	substantive			neuter				
+692	Old High German	Gewächs, Brut	berd	b e r d	1	691	inflection	n.sg.	109	bʰer	0	b e r d - -	substantive		n.sg.	neuter				
+693	Greek	Last, Ladung	φόρτο-	pʰ ˈɔ ɾ t ɔ	0	926	inheritance	inheritance	0	bʰer	1	pʰ ˈɔ ɾ t ɔ	substantive			masculine				
+694	Greek	Last, Ladung	φόρτος	pʰ ˈɔ ɾ t ɔ s	1	693	inflection	n.sg.	110	bʰer	0	pʰ ˈɔ ɾ t ɔ s	substantive		n.sg.	masculine				
+695	Indo-European	?	bʰr-eto-	bʱ ɾ ɛ t ɔ	0	361	derivation	zero-grade, suffix: ɛ t ɔ	0	bʰer	1	bʱ ɾ ɛ t ɔ	substantive			neuter	?		?	
+696	Indo-European	?	bʰretom	bʱ ɾ ɛ t ɔ m	0	695	inflection	n.sg.	111	bʰer	0	bʱ ɾ ɛ t ɔ m	substantive		n.sg.	neuter	?		?	
+697	Latin	Brandung, Wallung des Meeres, Meerenge	freto-	f ɾ ɛ t ɔ	0	695	inheritance	inheritance	0	bʰer	1	f ɾ ɛ t ɔ	substantive			neuter				
+698	Latin	Brandung, Wallung des Meeres, Meerenge	fretum	f ɾ ɛ t ʊ m	1	697	inflection	n.sg.	111	bʰer	0	f ɾ ɛ t ʊ m	substantive		n.sg.	neuter				
+699	Indo-European	?	bʰer-eto-	bʱ ɛ ɾ ɛ t ɔ	0	361	suffixation	suffix: ɛ t ɔ	0	bʰer	1	bʱ ɛ ɾ ɛ t ɔ	substantive			masculine	?		?	
+700	Indo-European	?	bʰeretos	bʱ ɛ ɾ ɛ t ɔ s	0	699	inflection	n.sg.	112	bʰer	0	bʱ ɛ ɾ ɛ t ɔ s	substantive		n.sg.	masculine	?		?	
+701	Vedic	Name eines Stammes oder Volkes bzw. einer Dynastie, der Stammeskönig der bharatá-, m.Pl. die bharatá-Nachkommen	bharatá-	bʱ ɐ ɾ ɐ t ˈɐ	0	699	inheritance	inheritance	0	bʰer	1	bʱ ɐ ɾ ɐ t ˈɐ	substantive			masculine				
+702	Vedic	Name eines Stammes oder Volkes bzw. einer Dynastie, der Stammeskönig der bharatá-, m.Pl. die bharatá-Nachkommen	bharatáḥ	bʱ ɐ ɾ ɐ t ˈɐ h	1	701	inflection	n.sg.	112	bʰer	0	bʱ ɐ ɾ ɐ t ˈɐ h	substantive		n.sg.	masculine				
+703	Indo-European	?	bʰr̩-tro-	bʱ ɾ̩ t ɾ ɔ	0	361	derivation	zero-grade, suffix: t ɾ ɔ	0	bʰer	1	bʱ ɾ̩ t ɾ ɔ	adjective							
+704	Indo-European	?	bʰr̩tros	bʱ ɾ̩ t ɾ ɔ s	0	703	inflection	n.sg.masculine	113	bʰer	0	bʱ ɾ̩ t ɾ ɔ s	adjective		n.sg.	masculine				
+705	Vedic	?	bhr̩tra-	bʱ r̩ t ɾ ɐ	0	703	inheritance	inheritance	0	bʰer	1	bʱ r̩ t ɾ ɐ	adjective							
+706	Vedic	?	bhr̩traḥ	bʱ r̩ t ɾ ɐ h	0	705	inflection	n.sg.masculine	113	bʰer	0	bʱ r̩ t ɾ ɐ h	adjective		n.sg.	masculine				
+707	Indo-European	?	bʰer-tro-	bʱ ɛ ɾ t ɾ ɔ	0	361	suffixation	suffix: t ɾ ɔ	0	bʰer	1	bʱ ɛ ɾ t ɾ ɔ	substantive			neuter				
+708	Indo-European	?	bʰertrom	bʱ ɛ ɾ t ɾ ɔ m	0	707	inflection	n.sg.	114	bʰer	0	bʱ ɛ ɾ t ɾ ɔ m	substantive		n.sg.	neuter				
+709	Greek	Bahre	φέρτρο-	pʰ ˈɛ ɾ t ɾ ɔ	0	707	inheritance	inheritance	0	bʰer	1	pʰ ˈɛ ɾ t ɾ ɔ	substantive			neuter				
+710	Greek	Bahre	φέρτρον	pʰ ˈɛ ɾ t ɾ ɔ n	1	709	inflection	n.sg.	114	bʰer	0	pʰ ˈɛ ɾ t ɾ ɔ n	substantive		n.sg.	neuter				
+711	Germanic	?	berþra-	β ɛ r θ r a	0	707	inheritance	inheritance	0	bʰer	1	β ɛ r θ r a	substantive			neuter				
+712	Germanic	?	berþran	β ɛ r θ r a n	0	711	inflection	n.sg.	114	bʰer	0	β ɛ r θ r a n	substantive		n.sg.	neuter				
+713	Indo-European	?	bʰer-tlo-	bʱ ɛ ɾ t l ɔ	0	361	suffixation	suffix: t l ɔ	0	bʰer	1	bʱ ɛ ɾ t l ɔ	substantive			neuter				
+714	Indo-European	?	bʰertlom	bʱ ɛ ɾ t l ɔ m	0	713	inflection	n.sg.	115	bʰer	0	bʱ ɛ ɾ t - l ɔ m	substantive		n.sg.	neuter				
+715	Latin	Bahre, Speisebrett	ferculo-	f ɛ ɾ k ʊ l ɔ	0	713	inheritance	inheritance	0	bʰer	1	f ɛ ɾ k ʊ l ɔ	substantive			neuter	?		?	
+716	Latin	Bahre, Speisebrett	ferculum	f ɛ ɾ k ʊ l ʊ m	1	715	inflection	n.sg.	115	bʰer	0	f ɛ ɾ k ʊ l ʊ m	substantive		n.sg.	neuter	?		?	
+717	Indo-European	hoch werden, sich erheben	bʰerǵʰ-	bʱ ɛ ɾ gʱ	0				0	bʰerǵʰ	1	bʱ ɛ ɾ gʱ	root							
+718	Indo-European	?	bʰr̩ǵʰ-	bʱ ɾ̩ gʱ	0	717	derivation	zero-grade	0	bʰerǵʰ	1	bʱ ɾ̩ gʱ	substantive			feminine				
+719	Indo-European	?	bʰr̩ǵʰs	bʱ ɾ̩ gʱ s	0	718	inflection	n.sg.	116	bʰerǵʰ	0	bʱ - ɾ̩ gʱ s	substantive		n.sg.	feminine				
+720	Germanic	?	burg-	β u r ɣ	0	718	inheritance	inheritance	0	bʰerǵʰ	1	β u r ɣ	substantive			feminine				
+721	Germanic	?	burgs	β u r ɣ s	0	720	inflection	n.sg.	116	bʰerǵʰ	0	β u r ɣ s	substantive		n.sg.	feminine				
+722	Old High German	Stadt, Burg	burg-	b u r g	0	720	inheritance	inheritance	0	bʰerǵʰ	1	b u r g	substantive			feminine				
+723	Old High German	Stadt, Burg	burg	b u r g	1	722	inflection	n.sg.	116	bʰerǵʰ	0	b u r g -	substantive		n.sg.	feminine				
+724	Indo-European	?	bʰerǵʰ-o-	bʱ ɛ ɾ gʱ ɔ	0	717	suffixation	suffix: ɔ	0	bʰerǵʰ	1	bʱ ɛ ɾ gʱ ɔ	substantive			masculine				
+725	Indo-European	?	bʰerǵʰos	bʱ ɛ ɾ gʱ ɔ s	0	724	inflection	n.sg.	117	bʰerǵʰ	0	bʱ ɛ ɾ gʱ ɔ s	substantive		n.sg.	masculine				
+726	Germanic	?	berga-	β ɛ r ɣ a	0	724	inheritance	inheritance	0	bʰerǵʰ	1	β ɛ r ɣ a	substantive			masculine				
+727	Germanic	?	bergaz	β ɛ r ɣ a z	0	726	inflection	n.sg.	117	bʰerǵʰ	0	β ɛ r ɣ a z	substantive		n.sg.	masculine				
+728	Old High German	Berg	berg-	b e r g	0	726	inheritance	inheritance	0	bʰerǵʰ	1	b e r g	substantive			masculine				
+729	Old High German	Berg	berg	b e r g	1	728	inflection	n.sg.	117	bʰerǵʰ	0	b e r g - -	substantive		n.sg.	masculine				
+730	Indo-European	?	bʰerǵʰ-es-	bʱ ɛ ɾ gʱ ɛ s	0	717	suffixation	suffix: ɛ s	0	bʰerǵʰ	1	bʱ ɛ ɾ gʱ ɛ s								
+731	Indo-European	?	bʰerǵʰes	bʱ ɛ ɾ gʱ ɛ s	0	730	inflection	n.sg.	118	bʰerǵʰ	0	bʱ ɛ ɾ gʱ ɛ s			n.sg.					
+732	Vedic	?	-barhas-	b ɐ ɾ ɦ ɐ s	0	730	inheritance	inheritance	0	bʰerǵʰ	1	b ɐ ɾ ɦ ɐ s					?		?	
+733	Vedic	?	-barhaḥ	b ɐ ɾ ɦ ɐ h	0	732	inflection	n.sg.	118	bʰerǵʰ	0	b ɐ ɾ ɦ ɐ h			n.sg.		?		?	
+734	Vedic	felsenfest	ádribarhas-	ˈɐ d ɾ i b ɐ ɾ ɦ ɐ s	0	732	compound	compound2 with 0 ˈɐ d ɾ i	0	bʰerǵʰ	1	ˈɐ d ɾ i b ɐ ɾ ɦ ɐ s	adjective				?		?	
+735	Vedic	felsenfest	ádribarhaḥ	ˈɐ d ɾ i b ɐ ɾ ɦ ɐ h	1	734	inflection	n.sg.masculine	0	bʰerǵʰ	0	ˈɐ d ɾ i b ɐ ɾ ɦ ɐ h	adjective		n.sg.	neuter	?		?	
+736	Vedic	doppelte Stärke habend	dvibarhas-	d w i b ɐ ɾ ɦ ɐ s	0	732	compound	compound2 with 0 d w i	0	bʰerǵʰ	1	d w i b ɐ ɾ ɦ ɐ s	adjective				?		?	
+737	Vedic	doppelte Stärke habend	dvibarhaḥ	d w i b ɐ ɾ ɦ ɐ h	1	736	inflection	n.sg.masculine	0	bʰerǵʰ	0	d w i b ɐ ɾ ɦ ɐ h	adjective		n.sg.	neuter	?		?	
+738	Indo-European	?	bʰerǵʰ-isth₂o-	bʱ ɛ ɾ gʱ i s t χ ɔ	0	717	suffixation	suffix: i s t χ ɔ	0	bʰerǵʰ	1	bʱ ɛ ɾ gʱ i s t χ ɔ	adjective							
+739	Indo-European	?	bʰerǵʰisth₂os	bʱ ɛ ɾ gʱ i s t χ ɔ s	0	738	inflection	n.sg.masculine	119	bʰerǵʰ	0	bʱ ɛ ɾ gʱ i s t χ ɔ s	adjective		n.sg.	masculine				
+740	Vedic	sehr kräftig, sehr erhaben, sehr laut	bárhiṣṭha-	b ˈɐ ɾ ɦ i ʂ ʈʰ ɐ	0	738	inheritance	inheritance	0	bʰerǵʰ	1	b ˈɐ ɾ ɦ i ʂ ʈʰ ɐ	adjective							
+741	Vedic	sehr kräftig, sehr erhaben, sehr laut	bárhiṣṭhaḥ	b ˈɐ ɾ ɦ i ʂ ʈʰ ɐ h	1	740	inflection	n.sg.masculine	119	bʰerǵʰ	0	b ˈɐ ɾ ɦ i ʂ ʈʰ - ɐ h	adjective		n.sg.	masculine				
+742	Indo-European	?	bʰr̩ǵʰ-ónt-	bʱ ɾ̩ gʱ ˈɔ n t	0	717	derivation	zero-grade, suffix: ˈɔ n t	0	bʰerǵʰ	1	bʱ ɾ̩ gʱ ˈɔ n t	adjective							
+743	Indo-European	?	bʰr̩ǵʰ-ént-	bʱ ɾ̩ gʱ ˈɛ n t	0	717	derivation	zero-grade, suffix: ˈɛ n t	0	bʰerǵʰ	1	bʱ ɾ̩ gʱ ˈɛ n t	adjective							
+744	Indo-European	?	bʰr̩ǵʰónts	bʱ ɾ̩ gʱ ˈɔ n t s	0	742	inflection	n.sg.masculine	120	bʰerǵʰ	0	bʱ ɾ̩ gʱ ˈɔ n t s	adjective		n.sg.	masculine				
+745	Indo-European	?	bʰr̩ǵʰénts	bʱ ɾ̩ gʱ ˈɛ n t s	0	743	inflection	n.sg.masculine	120	bʰerǵʰ	0	bʱ ɾ̩ gʱ ˈɛ n t s	adjective		n.sg.	masculine				
+746	Vedic	groß, erhaben, hoch, weit, dicht, laut	br̩hánt-	b r̩ ɦ ˈɐ n t	0	743	inheritance	inheritance	0	bʰerǵʰ	1	b r̩ ɦ ˈɐ n t	adjective							
+747	Vedic	groß, erhaben, hoch, weit, dicht, laut	br̩hán	b r̩ ɦ ˈɐ n	1	746	inflection	n.sg.masculine	120	bʰerǵʰ	0	b r̩ ɦ ˈɐ n - -	adjective		n.sg.	masculine				
+748	Indo-European	?	bʰr̩ǵʰ-n̩t-ih₂-	bʱ ɾ̩ gʱ n̩ t i χ	0	743	derivation	suffix-replacement: ˈɛ n t, n̩ t i χ	0	bʰerǵʰ	1	bʱ ɾ̩ gʱ n̩ t i χ	adjective							
+749	Indo-European	?	bʰr̩ǵʰ-n̩tih₂	bʱ ɾ̩ gʱ n̩ t i χ	0	748	inflection	n.sg.feminine	121	bʰerǵʰ	0	bʱ - ɾ̩ gʱ - n̩ t i χ	adjective		n.sg.	feminine				this could also be treated as belonging to the same stem as 746
+750	Vedic	groß, erhaben	br̩hat-	b r̩ ɦ ɐ t	0	748	inheritance	inheritance	0	bʰerǵʰ	1	b r̩ ɦ ɐ t	adjective							
+751	Vedic	groß, erhaben	br̩hatī́	b r̩ ɦ ɐ t ˈiː	1	750	inflection	n.sg.feminine	121	bʰerǵʰ	0	b - r̩ ɦ - ɐ t ˈiː -	adjective		n.sg.	feminine				
+752	Germanic	?	burgundja-	β u r ɣ u n ð j a	0	748	inheritance	inheritance	0	bʰerǵʰ	1	β u r ɣ u n ð j a	adjective							
+753	Germanic	?	burgundī	β u r ɣ u n ð iː	0	752	inflection	n.sg.feminine	121	bʰerǵʰ	0	β u r ɣ u n ð iː -	adjective		n.sg.	feminine				
+754	Old High German	(Personenname)	Purgunt-	p u r g u n t	0	932	derivation	conversion to substantive	0	bʰerǵʰ	1	p u r g u n t	substantive							
+755	Old High German	(Personenname)	Purgunt	p u r g u n t	1	754	inflection	n.sg.	0	bʰerǵʰ	0	p u r g u n t	substantive		n.sg.	masculine				
+756	Indo-European	?	-bʰr̩ǵʰ-to-	bʱ ɾ̩ gʱ t ɔ	0	717	derivation	zero-grade, suffix: t ɔ	0	bʰerǵʰ	1	bʱ ɾ̩ gʱ t ɔ								
+757	Indo-European	?	-bʰr̩ǵʰtos	bʱ ɾ̩ gʱ t ɔ s	0	756	inflection	n.sg.	123	bʰerǵʰ	0	bʱ ɾ̩ gʱ t ɔ s			n.sg.					
+758	Vedic	fest, stark	-br̩ḍha-	b r̩ ɖ̤ʱ ɐ	0	756	inheritance	inheritance	0	bʰerǵʰ	1	b r̩ ɖ̤ʱ ɐ								
+759	Vedic	fest, stark	-br̩ḍhaḥ	b r̩ ɖ̤ʱ ɐ h	0	758	inflection	n.sg.	123	bʰerǵʰ	0	b r̩ - ɖ̤ʱ ɐ h			n.sg.					
+760	Indo-European	reiben, fegen, (zer)kauen	bʰes-	bʱ ɛ s	0				0	bʰes-	1	bʱ ɛ s	root							
+761	Indo-European	reiben, fegen, (zer)kauen	bʰesi	bʱ ɛ s i	0	937	inflection	d.sg.	124	bʰes-	0	bʱ ɛ s i	substantive		l.sg.					
+762	Old Indic	Asche	bhas-	bʱ ɐ s	0	937	inheritance	inheritance	0	bʰes-	1	bʱ ɐ s	substantive							
+763	Old Indic	Asche	bhasi	bʱ ɐ s i	1	762	inflection	n.sg.	124	bʰes-	0	bʱ ɐ s i	substantive		l.sg.					
+764	Indo-European	?	-bʰs-u-	bʱ s u	0	760	derivation	zero-grade, suffix: u	0	bʰes-	1	bʱ s u	substantive							
+765	Indo-European	?	-bʰsus	bʱ s u s	0	764	inflection	n.sg.	125	bʰes-	0	bʱ s u s	substantive		n.sg.					
+766	Vedic	Lebenshauch, Atemhauch	-psu-	p s u	0	764	inheritance	inheritance	0	bʰes-	1	p s u	substantive							
+767	Vedic	Lebenshauch, Atemhauch	-psuḥ	p s u h	0	766	inflection	n.sg.	125	bʰes-	0	p s u h	substantive		n.sg.					
+768	Vedic	Lebenshauch, -kraft	á-psu-	ˈɐ p s u	0	766	prefixation	prefix: ˈɐ	0	bʰes-	1	ˈɐ p s u	substantive							
+769	Vedic	Lebenshauch, -kraft	á-psuḥ	ˈɐ p s u h	1	768	inflection	n.sg.	0	bʰes-	0	ˈɐ p s u h	substantive		n.sg.					
+770	Vedic	mit rötlichem Atemhauch (von der Morgenröte usw.)	arun̩á-psu-	ɐ ɾ u ɳ ˈɐ p s u	0	766	compound	compound2 with 0 ɐ ɾ u ɳ ˈɐ	0	bʰes-	1	ɐ ɾ u ɳ ˈɐ p s u	adjective							
+771	Vedic	mit rötlichem Atemhauch (von der Morgenröte usw.)	arun̩á-psuḥ	ɐ ɾ u ɳ ˈɐ p s u h	1	770	inflection	n.sg.masculine	0	bʰes-	0	ɐ ɾ u ɳ ˈɐ p s u h	adjective		n.sg.	masculine				
+772	Greek	Hauch, Atem, (Lebens)kraft, Seele	ψῡχή-	ps yː kʰ ˈɛː	0	891	derivation	lengthening suffix: kʰ ˈɛː	0	bʰes-	1	ps yː kʰ ˈɛː	substantive			feminine	?	[	?[	
+773	Greek	Hauch, Atem, (Lebens)kraft, Seele	ψῡχή	ps yː kʰ ˈɛː	1	772	inflection	n.sg.	0	bʰes-	0	ps yː kʰ ˈɛː	substantive		n.sg.	feminine	?	[	?[	
+774	Greek	Kälte	ψῦχο-	ps ˈyː kʰ ɔ	0	891	derivation	lengthening suffix: kʰ ɔ	0	bʰes-	1	ps ˈyː kʰ ɔ	substantive			masculine				
+775	Greek	Kälte	ψῦχος	ps ˈyː kʰ ɔ s	1	774	inflection	n.sg.	0	bʰes-	0	ps ˈyː kʰ ɔ s	substantive		n.sg.	masculine				
+776	Greek	kalt	ψυχρό-	ps ʏ kʰ ɾ ˈɔ	0	891	suffixation	suffix: kʰ ɾ ɔ	0	bʰes-	1	ps ʏ kʰ ɾ ˈɔ	adjective							
+777	Greek	kalt	ψυχρός	ps ʏ kʰ ɾ ˈɔ s	1	776	inflection	n.sg.	0	bʰes-	0	ps ʏ kʰ ɾ ˈɔ s	adjective		n.sg.	masculine				
+778	Indo-European	?	bʰés-men-	bʱ ˈɛ s m ɛ n	0	760	suffixation	suffix: m ɛ n	0	bʰes-	1	bʱ ˈɛ s m ɛ n	substantive			neuter				
+779	Indo-European	?	bʰésmn̩	bʱ ˈɛ s m n̩	0	778	inflection	n.sg.	126	bʰes-	0	bʱ ˈɛ s m n̩	substantive		n.sg.	neuter				
+780	Vedic	Asche	bhásman-	bʱ ˈɐ s m ɐ n	0	778	inheritance	inheritance	0	bʰes-	1	bʱ ˈɐ s m ɐ n	substantive			neuter				
+781	Vedic	Asche	bhásma	bʱ ˈɐ s m ɐ	1	780	inflection	n.sg.	126	bʰes-	0	bʱ ˈɐ s m ɐ	substantive		n.sg.	neuter				
+782	Vedic	beißend, zerbeißend, blasend, schnaubend (Epitheton des Windes)	bhásman-	bʱ ˈɐ s m ɐ n	0	919	inheritance	inheritance	0	bʰes-	1	bʱ ˈɐ s m ɐ n	adjective							
+783	Vedic	beißend, zerbeißend, blasend, schnaubend (Epitheton des Windes)	bhásmā	bʱ ˈɐ s m aː	1	782	inflection	n.sg.masculine	128	bʰes-	0	bʱ ˈɐ s m aː -	adjective		n.sg.	masculine				
+784	Indo-European	?	bʰes-men-	bʱ ɛ s m ɛ n	0	760	suffixation	suffix: m ɛ n	0	bʰes-	1	bʱ ɛ s m ɛ n	substantive			masculine				
+785	Indo-European	?	bʰesmōn	bʱ ɛ s m ɔː n	0	784	inflection	n.sg.	127	bʰes-	0	bʱ ɛ s - m ɔː n	substantive		n.sg.	masculine				
+786	Germanic	Besen	besman-	β ɛ s m a n	0	784	inheritance	inheritance	0	bʰes-	1	β ɛ s m a n	substantive			masculine				
+787	Germanic	Besen	besmō	β ɛ s m ɔː	0	786	inflection	n.sg.	127	bʰes-	0	β ɛ s - m ɔː -	substantive		n.sg.	masculine				
+788	Old High German	Besen	besmo-	b e s̺ m o	0	786	inheritance	inheritance	0	bʰes-	1	b e s̺ m o	substantive			masculine				
+789	Old High German	Besen	besmo	b e s̺ m o	1	788	inflection	n.sg.	127	bʰes-	0	b e s̺ - m o -	substantive		n.sg.	masculine				
+790	Old High German	Besen	besamo-	b e s̺ a m o	0	786	inheritance	inheritance	0	bʰes-	1	b e s̺ a m o	substantive			masculine				
+791	Old High German	Besen	besamo	b e s̺ a m o	1	790	inflection	n.sg.	127	bʰes-	0	b e s̺ a m o -	substantive		n.sg.	masculine				
+792	Indo-European	?	bʰes-ed-	bʱ ɛ s ɛ d	0	760	suffixation	suffix: ɛ d	0	bʰes-	1	bʱ ɛ s ɛ d	substantive			feminine				
+793	Indo-European	?	bʰesods	bʱ ɛ s ɔ d s	0	792	inflection	n.sg.	129	bʰes-	0	bʱ ɛ s ɔ d s	substantive		n.sg.	feminine				
+794	Indo-European	?	bʰeseds	bʱ ɛ s ɛ d s	0	792	inflection	n.sg.	129	bʰes-	0	bʱ ɛ s ɛ d s	substantive		n.sg.	feminine				
+795	Vedic	Hinterteil, männliche Scham?, weibliche Scham, Steiß	bhasád-	bʱ ɐ s ˈɐ d	0	792	inheritance	inheritance	0	bʰes-	1	bʱ ɐ s ˈɐ d	substantive			feminine	?		?	
+796	Vedic	Hinterteil, männliche Scham?, weibliche Scham, Steiß	bhasát	bʱ ɐ s ˈɐ t	1	795	inflection	n.sg.	129	bʰes-	0	bʱ ɐ s ˈɐ t -	substantive		n.sg.	feminine	?		?	
+797	Indo-European	?	bʰós-o-	bʱ ˈɔ s ɔ	0	760	derivation	o-grade, suffix: ɔ	0	bʰes-	1	bʱ ˈɔ s ɔ	substantive			masculine	?		?	
+798	Indo-European	?	bʰósos	bʱ ˈɔ s ɔ s	0	797	inflection	n.sg.	130	bʰes-	0	bʱ ˈɔ s ɔ s	substantive		n.sg.	masculine	?		?	
+799	Vedic	ein Raubvogel	bhāsa-	bʱ aː s ɐ	0	797	inheritance	inheritance	0	bʰes-	1	bʱ aː s ɐ	substantive			masculine				
+800	Vedic	ein Raubvogel	bhāsaḥ	bʱ aː s ɐ h	1	799	inflection	n.sg.	130	bʰes-	0	bʱ aː s ɐ h	substantive		n.sg.	masculine				
+801	Indo-European	?	bʰos-ó-	bʱ ɔ s ˈɔ	0	760	derivation	o-grade, suffix: ˈɔ	0	bʰes-	1	bʱ ɔ s ˈɔ	adjective							
+802	Indo-European	?	bʰosós	bʱ ɔ s ˈɔ s	0	801	inflection	n.sg.masculine	131	bʰes-	0	bʱ ɔ s ˈɔ s	adjective		n.sg.	masculine				
+803	Germanic	entblößt	baza-	β a z a	0	801	inheritance	inheritance	0	bʰes-	1	β a z a	adjective							
+804	Germanic	entblößt	bazaz	β a z a z	0	803	inflection	n.sg.masculine	131	bʰes-	0	β a z a z	adjective		n.sg.	masculine				
+805	Old High German	entblößt	bar-	b a r	0	803	inheritance	inheritance	0	bʰes-	1	b a r	adjective							
+806	Old High German	entblößt	bar	b a r	1	805	inflection	n.sg.masculine	131	bʰes-	0	b a r - -	adjective		n.sg.	masculine				
+807	Indo-European	?	bʰos-to-	bʱ ɔ s t ɔ	0	760	derivation	o-grade, suffix: t ɔ	0	bʰes-	1	bʱ ɔ s t ɔ	substantive			masculine				
+808	Indo-European	?	bʰostos	bʱ ɔ s t ɔ s	0	807	inflection	n.sg.	132	bʰes-	0	bʱ ɔ s t ɔ s	substantive		n.sg.	masculine				
+809	Germanic	Bast (innere Schicht der Pflanzenschicht), Bastseil	basta-	β a s t a	0	807	inheritance	inheritance	0	bʰes-	1	β a s t a	substantive			masculine				
+810	Germanic	Bast (innere Schicht der Pflanzenschicht), Bastseil	bastaz	β a s t a z	0	809	inflection	n.sg.	132	bʰes-	0	β a s t a z	substantive		n.sg.	masculine				
+811	Old High German	Bast (innere Schicht der Pflanzenschicht), Bastseil	bast-	b a s̺ t	0	809	inheritance	inheritance	0	bʰes-	1	b a s̺ t	substantive			masculine				
+812	Old High German	Bast (innere Schicht der Pflanzenschicht), Bastseil	bast	b a s̺ t	1	811	inflection	n.sg.	132	bʰes-	0	b a s̺ t - -	substantive		n.sg.	masculine				
+813	Indo-European	?	bʰes-trah₂-	bʱ ɛ s t ɾ a χ	0	760	suffixation	suffix: t ɾ a χ	0	bʰes-	1	bʱ ɛ s t ɾ a χ	substantive			feminine				
+814	Indo-European	?	bʰestrah₂	bʱ ɛ s t ɾ a χ	0	813	inflection	n.sg.	133	bʰes-	0	bʱ ɛ s t ɾ a χ	substantive		n.sg.	feminine				
+815	Vedic	(Leder)schlauch, Lederflasche, Sack, Balg	bhastrā-	bʱ ɐ s t ɾ aː	0	813	inheritance	inheritance	0	bʰes-	1	bʱ ɐ s t ɾ aː	substantive			feminine				
+816	Vedic	(Leder)schlauch, Lederflasche, Sack, Balg	bhastrā	bʱ ɐ s t ɾ aː	1	815	inflection	n.sg.	133	bʰes-	0	bʱ ɐ s t ɾ aː -	substantive		n.sg.	feminine				
+817	Indo-European	wach werden, aufmerksam werden	bʰeu̯dʰ-	bʱ ɛu̯ dʱ	0				0	bʰeu̯dʰ-	1	bʱ ɛu̯ dʱ	root							
+818	Indo-European	?	bʰudʰ-	bʱ u dʱ	0	817	derivation	zero-grade	0	bʰeu̯dʰ-	1	bʱ u dʱ	substantive			feminine				
+819	Indo-European	?	bʰudʰs	bʱ u dʱ s	0	818	inflection	n.sg.	134	bʰeu̯dʰ-	0	bʱ u dʱ s	substantive		n.sg.	feminine				
+820	Vedic	Erwachen	búdh-	b ˈu dʱ	0	818	inheritance	inheritance	0	bʰeu̯dʰ-	1	b ˈu dʱ	substantive			feminine				
+821	Vedic	Erwachen	bút	b ˈu t	1	820	inflection	n.sg.	134	bʰeu̯dʰ-	0	b ˈu t -	substantive		n.sg.	feminine				
+822	Vedic	früh erwachend	uṣar-búdh-	u ʂ ɐ ɾ b ˈu dʱ	0	820	compound	compound2 with 0 u ʂ ɐ ɾ	0	bʰeu̯dʰ-	1	u ʂ ɐ ɾ b ˈu dʱ	adjective							
+823	Vedic	früh erwachend	uṣar-bút	u ʂ ɐ ɾ b ˈu t	1	822	inflection	n.sg.masculine	0	bʰeu̯dʰ-	0	u ʂ ɐ ɾ b ˈu t	adjective		n.sg.	masculine				
+824	Indo-European	?	bʰudʰ-o-	bʱ u dʱ ɔ	0	817	derivation	zero-grade, suffix: ɔ	0	bʰeu̯dʰ-	1	bʱ u dʱ ɔ	adjective							
+825	Indo-European	?	bʰudʰos	bʱ u dʱ ɔ s	0	824	inflection	n.sg.masculine	135	bʰeu̯dʰ-	0	bʱ u dʱ ɔ s	adjective		n.sg.	masculine				
+826	Indo-European	?	bʰudʰom	bʱ u dʱ ɔ m	0	824	inflection	n.sg.neuter	136	bʰeu̯dʰ-	0	bʱ u dʱ ɔ m	adjective		n.sg.	neuter				
+827	Vedic	klug, weise	budha-	b u dʱ ɐ	0	824	inheritance	inheritance	0	bʰeu̯dʰ-	1	b u dʱ ɐ	adjective							
+828	Vedic	klug, weise	budhaḥ	b u dʱ ɐ h	1	827	inflection	n.sg.masculine	135	bʰeu̯dʰ-	0	b u dʱ ɐ h	adjective		n.sg.	masculine				
+829	Old High German	?	-bot-	b o t	0	824	inheritance	inheritance	0	bʰeu̯dʰ-	1	b o t	adjective							
+830	Old High German	?	-bot	b o t	0	829	inflection	n.sg.masculine	136	bʰeu̯dʰ-	0	b o t - -	adjective		n.sg.	masculine				
+831	Old High German	Verbot	fir-bot-	f i r b o t	0	829	prefixation	prefix: f i r	0	bʰeu̯dʰ-	1	f i r b o t	substantive			neuter				
+832	Old High German	Verbot	fir-bot	f i r b o t	1	831	inflection	n.sg.	0	bʰeu̯dʰ-	0	f i r b o t	substantive		n.sg.	neuter				
+833	Indo-European	?	bʰudʰ-i̯o-	bʱ u dʱ j ɔ	0	817	derivation	zero-grade, suffix: j ɔ	0	bʰeu̯dʰ-	1	bʱ u dʱ j ɔ					?		?	
+834	Indo-European	?	bʰudʰi̯os	bʱ u dʱ j ɔ s	0	833	inflection	n.sg.	137	bʰeu̯dʰ-	0	bʱ u dʱ j ɔ s			n.sg.		?		?	
+835	Vedic	?	-budhyá-	b u dʱ j ˈɐ	0	833	inheritance	inheritance	0	bʰeu̯dʰ-	1	b u dʱ j ˈɐ								
+836	Vedic	?	-budhyáḥ	b u dʱ j ˈɐ h	0	835	inflection	n.sg.	137	bʰeu̯dʰ-	0	b u dʱ j ˈɐ h			n.sg.					
+837	Vedic	nicht zu wecken	a-budhyá-	ɐ b u dʱ j ˈɐ	0	835	prefixation	prefix: ɐ	0	bʰeu̯dʰ-	1	ɐ b u dʱ j ˈɐ	adjective							
+838	Vedic	nicht zu wecken	a-budhyáḥ	ɐ b u dʱ j ˈɐ h	1	837	inflection	n.sg.masculine	0	bʰeu̯dʰ-	0	ɐ b u dʱ j ˈɐ h	adjective		n.sg.	masculine				
+839	Indo-European	?	bʰeu̯dʰ-en-	bʱ ɛu̯ dʱ ɛ n	0	817	suffixation	suffix: ɛ n	0	bʰeu̯dʰ-	1	bʱ ɛu̯ dʱ ɛ n	substantive			masculine				
+840	Indo-European	?	bʰeu̯dʰēn	bʱ ɛu̯ dʱ ɛː n	0	839	inflection	n.sg.	138	bʰeu̯dʰ-	0	bʱ ɛu̯ dʱ ɛː n	substantive		n.sg.	masculine				
+841	Greek	Späher	πευθήν-	p ɛu̯ θ ˈɛː n	0	839	inheritance	inheritance	0	bʰeu̯dʰ-	1	p ɛu̯ θ ˈɛː n	substantive			masculine				
+842	Greek	Späher	πευθήν	p ɛu̯ θ ˈɛː n	1	841	inflection	n.sg.	138	bʰeu̯dʰ-	0	p ɛu̯ θ ˈɛː n	substantive		n.sg.	masculine				
+843	Indo-European	?	bʰeu̯dʰ-tel-	bʱ ɛu̯ dʱ t ɛ l	0	817	suffixation	suffix: t ɛ l	0	bʰeu̯dʰ-	1	bʱ ɛu̯ dʱ t ɛ l	substantive			masculine				
+844	Indo-European	?	bʰeu̯dʰtēl	bʱ ɛu̯ dʱ t ɛː l	0	843	inflection	n.sg.	139	bʰeu̯dʰ-	0	bʱ ɛu̯ dʱ t ɛː l	substantive		n.sg.	masculine				
+845	Vedic	Lerner, Kenner	boddhar-	b ɔː d dʱ ɐ ɾ	0	843	inheritance	inheritance	0	bʰeu̯dʰ-	1	b ɔː d dʱ ɐ ɾ	substantive			masculine				
+846	Vedic	Lerner, Kenner	boddhā	b ɔː d dʱ aː	1	845	inflection	n.sg.	139	bʰeu̯dʰ-	0	b ɔː d dʱ aː -	substantive		n.sg.	masculine				
+847	Indo-European	?	bʰeu̯dʰ-oi̯-	bʱ ɛu̯ dʱ ɔi̯	0	817	suffixation	suffix: ɔi̯	0	bʰeu̯dʰ-	1	bʱ ɛu̯ dʱ ɔi̯	substantive			feminine				
+848	Indo-European	?	bʰeu̯dʰoi̯	bʱ ɛu̯ dʱ ɔi̯	0	847	inflection	n.sg.	140	bʰeu̯dʰ-	0	bʱ ɛu̯ dʱ ɔi̯	substantive		n.sg.	feminine				
+849	Greek	Kunde	πευθόι-	p ɛu̯ θ ˈɔi̯	0	847	inheritance	inheritance	0	bʰeu̯dʰ-	1	p ɛu̯ θ ˈɔi̯	substantive			feminine				
+850	Greek	Kunde	πευθώ	p ɛu̯ θ ˈɔː	1	849	inflection	n.sg.	140	bʰeu̯dʰ-	0	p ɛu̯ θ ˈɔː	substantive		n.sg.	feminine				
+851	Indo-European	?	bʰou̯dʰ-i-	bʱ ɔu̯ dʱ i	0	817	derivation	o-grade, suffix: i	0	bʰeu̯dʰ-	1	bʱ ɔu̯ dʱ i	substantive			feminine				
+852	Indo-European	?	bʰou̯dʰis	bʱ ɔu̯ dʱ i s	0	851	inflection	n.sg.	141	bʰeu̯dʰ-	0	bʱ ɔu̯ dʱ i s	substantive		n.sg.	feminine				
+853	Old Indic	vollkommene Erkenntnis	bodhi-	b ɔː dʱ i	0	851	inheritance	inheritance	0	bʰeu̯dʰ-	1	b ɔː dʱ i	substantive			feminine				
+854	Old Indic	vollkommene Erkenntnis	bodhiḥ	b ɔː dʱ i h	1	853	inflection	n.sg.	141	bʰeu̯dʰ-	0	b ɔː dʱ i h	substantive		n.sg.	feminine				
+855	Indo-European	?	bʰudʰ-ti-	bʱ u dʱ t i	0	817	derivation	zero-grade, suffix: t i	0	bʰeu̯dʰ-	1	bʱ u dʱ t i	substantive			feminine				
+856	Indo-European	?	bʰudʰtis	bʱ u dʱ t i s	0	855	inflection	n.sg.	142	bʰeu̯dʰ-	0	bʱ u dʱ t i s	substantive		n.sg.	feminine				
+857	Vedic	Einsicht	buddhi-	b u d dʱ i	0	855	inheritance	inheritance	0	bʰeu̯dʰ-	1	b u d dʱ i	substantive			feminine				
+858	Vedic	Einsicht	buddhiḥ	b u d dʱ i h	1	857	inflection	n.sg.	142	bʰeu̯dʰ-	0	b u d dʱ i h	substantive		n.sg.	feminine				
+859	Greek	Nachforschung	πύστι-	p ˈʏ s t ɪ	0	855	inheritance	inheritance	0	bʰeu̯dʰ-	1	p ˈʏ s t ɪ	substantive			feminine		[	[	
+860	Greek	Nachforschung	πύστις	p ˈʏ s t ɪ s	1	859	inflection	n.sg.	142	bʰeu̯dʰ-	0	p ˈʏ s t ɪ s	substantive		n.sg.	feminine		[	[	
+861	Indo-European	?	bʰeu̯dʰ-tu-	bʱ ɛu̯ dʱ t u	0	817	suffixation	suffix: t u	0	bʰeu̯dʰ-	1	bʱ ɛu̯ dʱ t u	substantive							
+862	Indo-European	?	bʰeu̯dʰtum	bʱ ɛu̯ dʱ t u m	0	861	inflection	n.sg.	150	bʰeu̯dʰ-	0	bʱ ɛu̯ dʱ t u m	substantive		n.sg.	neuter				
+863	Vedic	wachsen	buddh-	b u d dʱ	0				0	bʰeu̯dʰ-	1	b u d dʱ	verb							
+864	Vedic	wachsen	boddhum	b ɔː d dʱ u m	1	953	inflection	infinitive	0	bʰeu̯dʰ-	0	b ɔː d dʱ u m	infinitive		n.sg.	neuter				
+865	Indo-European	?	(-)bʰeu̯dʰ-es-	bʱ ɛu̯ dʱ ɛ s	0	817	suffixation	suffix: ɛ s	0	bʰeu̯dʰ-	1	bʱ ɛu̯ dʱ ɛ s								
+866	Indo-European	?	bʰeu̯dʰēs	bʱ ɛu̯ dʱ ɛː s	0	865	inflection	n.sg.	143	bʰeu̯dʰ-	0	bʱ ɛu̯ dʱ ɛː s			n.sg.	masculine				
+867	Greek	?	-πευθέσ-	p ɛu̯ θ ˈɛ s	0	865	inheritance	inheritance	0	bʰeu̯dʰ-	1	p ɛu̯ θ ˈɛ s								
+868	Greek	?	πευθής	p ɛu̯ θ ˈɛː s	0	867	inflection	n.sg.	143	bʰeu̯dʰ-	0	p ɛu̯ θ ˈɛː s			n.sg.	masculine				
+869	Greek	unkundig, unbekannt	ἀ-πευθέσ-	a p ɛu̯ θ ˈɛ s	0	867	prefixation	prefix: a	0	bʰeu̯dʰ-	1	a p ɛu̯ θ ˈɛ s	adjective							
+870	Greek	unkundig, unbekannt	ἀπευθής	a p ɛu̯ θ ˈɛː s	1	869	inflection	n.sg.masculine	0	bʰeu̯dʰ-	0	a p ɛu̯ θ ˈɛː s	adjective		n.sg.	masculine				
+871	Indo-European	?	bʰeu̯dʰ-o-	bʱ ɛu̯ dʱ ɔ	0	817	suffixation	suffix: ɔ	0	bʰeu̯dʰ-	1	bʱ ɛu̯ dʱ ɔ	substantive			masculine				
+872	Indo-European	?	bʰeu̯dʰos	bʱ ɛu̯ dʱ ɔ s	0	871	inflection	n.sg.	144	bʰeu̯dʰ-	0	bʱ ɛu̯ dʱ ɔ s	substantive		n.sg.	masculine				
+873	Germanic	?	beud-a-	β ɛu̯ ð a	0	871	inheritance	inheritance	0	bʰeu̯dʰ-	1	β ɛu̯ ð a	substantive			masculine				
+874	Germanic	?	beudaz	β ɛu̯ ð a z	0	873	inflection	n.sg.	144	bʰeu̯dʰ-	0	β ɛu̯ ð a z	substantive		n.sg.	masculine				
+875	Indo-European	?	bʰou̯dʰ-o-	bʱ ɔu̯ dʱ ɔ	0	817	derivation	o-grade, suffix: ɔ	0	bʰeu̯dʰ-	1	bʱ ɔu̯ dʱ ɔ	substantive			masculine				
+876	Indo-European	?	bʰou̯dʰos	bʱ ɔu̯ dʱ ɔ s	0	875	inflection	n.sg.	145	bʰeu̯dʰ-	0	bʱ ɔu̯ dʱ ɔ s	substantive		n.sg.	masculine				
+877	Vedic	Wachen, Wachwerden	bodhá-	b ɔː dʱ ˈɐ	0	875	inheritance	inheritance	0	bʰeu̯dʰ-	1	b ɔː dʱ ˈɐ	substantive			masculine				
+878	Vedic	Wachen, Wachwerden	bodháḥ	b ɔː dʱ ˈɐ h	1	877	inflection	n.sg.	145	bʰeu̯dʰ-	0	b ɔː dʱ ˈɐ h	substantive		n.sg.	masculine				
+879	Indo-European	?	bʰudʰ-tó-	bʱ u dʱ t ˈɔ	0	817	derivation	zero-grade, suffix: t ˈɔ	0	bʰeu̯dʰ-	1	bʱ u dʱ t ˈɔ								
+880	Indo-European	?	bʰudʰtós	bʱ u dʱ t ˈɔ s	0	879	inflection	n.sg.	146	bʰeu̯dʰ-	0	bʱ u dʱ t ˈɔ s			n.sg.	masculine				
+881	Vedic	?	-buddha-	b u d dʱ ɐ	0	879	inheritance	inheritance	0	bʰeu̯dʰ-	1	b u d dʱ ɐ								
+882	Vedic	?	-buddhaḥ	b u d dʱ ɐ h	0	881	inflection	n.sg.	146	bʰeu̯dʰ-	0	b u d dʱ ɐ h			n.sg.	masculine				
+883	Vedic	wahrgenommen, erkannt	práti-buddha-	p ɾ ˈɐ t i b u d dʱ ɐ	0	881	prefixation	prefix: p ɾ ˈɐ t i	0	bʰeu̯dʰ-	1	p ɾ ˈɐ t i b u d dʱ ɐ	adjective							
+884	Vedic	wahrgenommen, erkannt	práti-buddhaḥ	p ɾ ˈɐ t i b u d dʱ ɐ h	1	883	inflection	n.sg.masculine	0	bʰeu̯dʰ-	0	p ɾ ˈɐ t i b u d dʱ ɐ h	adjective		n.sg.	masculine				
+885	Greek	?	-πυστο-	p ʏ s t ɔ	0	879	inheritance	inheritance	0	bʰeu̯dʰ-	1	p ʏ s t ɔ						[	[	
+886	Greek	?	πυστος	p ʏ s t ɔ s	0	885	inflection	n.sg.	146	bʰeu̯dʰ-	0	p ʏ s t ɔ s			n.sg.			[	[	
+887	Greek	unbekannt, unkundig	ἄ-πυστο-	ˈa p ʏ s t ɔ	0	885	prefixation	prefix: ˈa	0	bʰeu̯dʰ-	1	ˈa p ʏ s t ɔ	adjective					[	[	
+888	Greek	unbekannt, unkundig	ἄπυστος	ˈa p ʏ s t ɔ s	1	887	inflection	n.sg.	0	bʰeu̯dʰ-	0	ˈa p ʏ s t ɔ s	adjective		n.sg.	masculine		[	[	
+889	Indo-European	?	-bʰs-u-mi	bʱ s u m i	0	908	inflection	1.sg.	147	bʰes-	0	bʱ s u m i	verb							
+890	Greek	?	ψύμι	ps ˈʏ m ɪ	0	891	inflection	1.sg.	147	bʰes-	0	ps - ˈʏ m ɪ	verb							
+891	Greek	?	ψύ-	ps ˈʏ	0	908	inheritance	inheritance	0	bʰes-	1	ps ˈʏ	verb							
+892	Vedic	?	pári-br̩ḍha-	p ˈɐ ɾ i b r̩ ɖ̤ʱ ɐ	0	758	prefixation	prefix: p ˈɐ ɾ i	0	bʰerǵʰ	1	p ˈɐ ɾ i b r̩ ɖ̤ʱ ɐ	adjective							
+893	Vedic	?	páribr̩ḍhaḥ	p ˈɐ ɾ i b r̩ ɖ̤ʱ ɐ h	1	892	inflection	n.sg.masculine	0	bʰerǵʰ	0	p ˈɐ ɾ i b r̩ ɖ̤ʱ ɐ h	adjective		n.sg.	masculine				
+894	Greek	hervorragend	προφερλεστερος	p ɾ ɔ pʰ ɛ ɾ ˈɛ s t ɛ r ɔ s	1	533	inflection	superlative n.sg.masculine	0	bʰer	0	p ɾ ɔ pʰ ɛ ɾ ˈɛ s t ɛ r ɔ s	adjective		n.sg.	masculine				
+895	Vedic	tragbar, sich verteilend	víbhr̩tra-	w ˈi bʱ r̩ t ɾ ɐ	0	705	prefixation	prefix: w ˈi	0	bʰer	1	w ˈi bʱ r̩ t ɾ ɐ	adjective							
+896	Vedic	tragbar, sich verteilend	víbhr̩traḥ	w ˈi bʱ r̩ t ɾ ɐ h	1	895	inflection	n.sg.masculine	0	bʰer	0	w ˈi bʱ r̩ t ɾ ɐ h	adjective		n.sg.	masculine				
+897	Old High German	bitter	bittar-	b i tː a r	0	239	analogy	analogy: 241	0	bʰei̯d	1	b i tː a r	adjective							
+898	Old High German	bitter	bittres	b i tː r e s̺	1	897	inflection	g.sg.masculine	0	bʰei̯d	0	b i tː r e s̺	adjective		g.sg.	masculine				
+899	Indo-European	?	bʰid-tó-	bʱ i d t ˈɔ	0	182	derivation	zero-grade, suffix: t ˈɔ	0	bʰei̯d	1	bʱ i d t ˈɔ	adjective							
+900	Indo-European	?	bʰidtós	bʱ i d t ˈɔ s	0	899	inflection	n.sg.masculine	44	bʰei̯d	0	bʱ i d t ˈɔ s	adjective		n.sg.	masculine				
+901	Greek	Frucht, Ertrag	φέρμαν-	pʰ ˈɛ ɾ m a n	0	432	inheritance	inheritance	0	bʰer	1	pʰ ˈɛ ɾ m a n	substantive			neuter		[	[	
+902	Greek	Frucht, Ertrag	φέρμα	pʰ ˈɛ ɾ m a	1	436	inflection	n.sg.	0	bʰer	0	pʰ ˈɛ ɾ m a	substantive		n.sg.	neuter		[	[	
+903	Vedic	Unterhalt, Pflege	bhŕ̩ti-	bʱ ˈr̩ t i	0	478	inheritance	inheritance	0	bʰer	1	bʱ ˈr̩ t i	substantive			feminine				
+904	Vedic	Unterhalt, Pflege	bhr̩téḥ	bʱ r̩ t ɛː h	0	480	inflection	g.sg.	0	bʰer	0	bʱ r̩ t ɛː h	substantive		g.sg.	feminine				
+906	Latin	blinder Zufall	forte	f ɔ ɾ t ɛ	1	486	inflection	ab.sg.	0	bʰer	0	f ɔ ɾ t ɛ	substantive		ab.sg.	feminine				
+907	Latin	blinder Zufall	fortem	f ɔ ɾ t ɛ m	1	486	inflection	a.sg.	0	bʰer	0	f ɔ ɾ t ɛ m	substantive		a.sg.	feminine				
+908	Indo-European	?	-bʰs-u-	bʱ s u	0	764	derivation	conversion to verb	0	bʰes-	1	bʱ s u	verb							
+909	Old High German	Buch, Schriftstück	buoh-	b u o x	0	51	derivation	inflection class change	0	bʰah₂g-(ó-)	1	b u o x	substantive			neuter				
+910	Old High German	Buch, Schriftstück	buoh	b u o x	1	909	inflection	n.sg.	0	bʰah₂g-(ó-)	0	b u o x	substantive		n.sg.	neuter				
+911	Old High German	Buch, Schriftstück	buoh-	b u o x	0	51	derivation	inflection class change	0	bʰah₂g-(ó-)	1	b u o x	substantive			masculine				
+912	Old High German	Buch, Schriftstück	buoh	b u o x	1	911	inflection	n.sg.	0	bʰah₂g-(ó-)	0	b u o x	substantive		n.sg.	masculine				
+913	Germanic	?	barda-	β a r ð a	0	74	derivation	inflection class change	0	bʰar(s)dʰ-o/ah₂-	1	β a r ð a	substantive			neuter				
+914	Germanic	?	bardan	β a r ð a n	0	913	inflection	n.sg.	0	bʰar(s)dʰ-o/ah₂-	0	β a r ð a n	substantive		n.sg.	neuter				
+915	Indo-European	?	bʰoi̯d-ó-	bʱ ɔi̯ d ˈɔ	0	182	derivation	o-grade, suffix: ˈɔ	0	bʰei̯d	1	bʱ ɔi̯ d ˈɔ	adjective							
+916	Greek	in groben Zügen	παχυλῶς	p a kʰ ʏ l ˈɔː s	1	322	inflection	uninflectable word form	0	bʰenǵʰ	0	p a kʰ ʏ l ˈɔː s	adverb							
+917	Indo-European	?	bʰōr-i̯o-	bʱ ɔː ɾ j ɔ	0	361	derivation	lengthened o-grade, suffix: j ɔ	0	bʰer	1	bʱ ɔː ɾ j ɔ	substantive			neuter				
+918	Indo-European	?	bʰer-to-	bʱ ɛ ɾ t ɔ	0	361	suffixation	suffix: t ɔ	0	bʰer	1	bʱ ɛ ɾ t ɔ	substantive			neuter				
+919	Indo-European	?	bʰes-men-	bʱ ɛ s m ɛ n	0	760	suffixation	suffix: m ɛ n	0	bʰes-	1	bʱ ɛ s m ɛ n	substantive			masculine				
+920	Indo-European	?	bʰesmōn	bʱ ɛ s m ɔː n	0	919	inflection	n.sg.	128	bʰes-	0	bʱ ɛ s m ɔː n	substantive		n.sg.	masculine				
+921	Indo-European	?	bʰoi̯dós	bʱ ɔi̯ d ˈɔ s	0	915	inflection	n.sg.	38	bʰei̯d	0	bʱ ɔi̯ d ˈɔ s	adjective		n.sg.	masculine				
+922	Indo-European	?	bʰēr-i̯o-	bʱ ɛː ɾ j ɔ	0	361	derivation	lengthened grade, suffix: j ɔ	0	bʰer	1	bʱ ɛː ɾ j ɔ	substantive			neuter				
+923	Indo-European	?	bʰér-tu-	bʱ ˈɛ ɾ t u	0	361	suffixation	suffix: t u	0	bʰer	1	bʱ ˈɛ ɾ t u	substantive			neuter				
+924	Old High German	Eimer, situla, urna, hydria	ein-bar-	ei̯ n b a r	0	609	compound	compound2 with 0 ei̯ n	0	bʰer	1	ei̯ n b a r	substantive			neuter				
+925	Old High German	Eimer, situla, urna, hydria	ein-bar	ei̯ n b a r	1	924	inflection	n.sg.	0	bʰer	0	ei̯ n b a r	substantive		n.sg.	neuter				
+926	Indo-European	?	bʰor-to-	bʱ ɔ ɾ t ɔ	0	361	derivation	o-grade, suffix: t ɔ	0	bʰer	1	bʱ ɔ ɾ t ɔ	substantive			masculine				
+927	Indo-European	?	bʰortos	bʱ ɔ ɾ t ɔ s	0	926	inflection	n.sg.	110	bʰer	0	bʱ ɔ ɾ t ɔ s	substantive		n.sg.	masculine				
+928	Old High German	Mutterschoß	birid-	b i r i d	0	551	derivation	inflection class change	0	bʰer	1	b i r i d	substantive			neuter	?	[	?[	
+929	Old High German	Mutterschoß	birid	b i r i d	1	928	inflection	n.sg.	0	bʰer	0	b i r i d	substantive		n.sg.	neuter	?	[	?[	
+930	Indo-European	?	bʰr̩-tó-	bʱ ɾ̩ t ˈɔ	0	361	derivation	zero-grade, suffix: t ˈɔ	0	bʰer	1	bʱ ɾ̩ t ˈɔ	substantive							
+931	Germanic	?	burgundjaz	β u r ɣ u n ð j a z	0	752	inflection	n.sg.masculine	122	bʰerǵʰ	0	β u r ɣ u n ð j a z	adjective		n.sg.	masculine				
+932	Old High German	?	purgunt-	p u r g u n t	0	752	inheritance	inheritance	0	bʰerǵʰ	1	p u r g u n t	adjective							
+933	Old High German	?	purgunt	p u r g u n t	0	932	inflection	n.sg.masculine	122	bʰerǵʰ	0	p u r g u n t - - -	adjective		n.sg.	masculine				
+934	Vedic	spalten	bhettum	bʱ ɛː tː u m	0	955	inflection	n.sg.masculine	149	bʰei̯d	0	bʱ ɛː - tː u m	substantive		n.sg.	neuter				
+937	Indo-European	reiben, fegen, (zer)kauen	bʰes-	bʱ ɛ s	0	760	derivation	root noun	0	bʰes-	1	bʱ ɛ s	substantive							
+938	Vedic	gespalten	bhinná-	bʱ i nː ˈɐ	0	229	inheritance	inheritance	0	bʰei̯d	1	bʱ i nː ˈɐ								
+939	Vedic	gespalten	bhinná-	bʱ i nː ˈɐ	0	938	derivation	grammaticalization to ppp of 213	0	bʰei̯d	1	bʱ i nː ˈɐ	ppp							
+940	Latin	gespalten	fīsso-	f iː sː ɔ	0	899	inheritance	inheritance	0	bʰei̯d	1	f iː sː ɔ								
+941	Latin	gespalten	fīsso-	f iː sː ɔ	0	940	derivation	grammaticalization to ppp of 246	0	bʰei̯d	1	f iː sː ɔ	ppp							
+942	Latin	gespalten	fīssus	f iː sː ʊ s	0	940	inflection	n.sg.masculine	44	bʰei̯d	0	f iː - sː ʊ s			n.sg.	masculine				
+943	Latin	vertrauen (Perfekt)	fisto-	f ɪ s t ɔ	0	295	inheritance	inheritance	0	bʰei̯dʰ	1	f ɪ s t ɔ								
+944	Latin	vertrauen (Perfekt)	fisto-	f ɪ s t ɔ	0	943	derivation	grammaticalization to ppp of 299	0	bʰei̯dʰ	1	f ɪ s t ɔ	ppp							
+945	Latin	vertrauen (Perfekt)	fistus	f ɪ s t ʊ s	0	943	inflection	n.sg.masculine	52	bʰei̯dʰ	0	f ɪ s t ʊ s			n.sg.	masculine				
+946	Vedic	?	bhartu-	bʱ ɐ ɾ t u	0	923	inheritance	inheritance	0	bʰer	1	bʱ ɐ ɾ t u								
+947	Vedic	?	bhartu-	bʱ ɐ ɾ t u	0	946	derivation	grammaticalization to infinitive of 515	0	bʰer	1	bʱ ɐ ɾ t u	infinitive							
+948	Vedic	?	bhartum	bʱ ɐ ɾ t u m	0	946	inflection	n.sg.	148	bʰer	0	bʱ ɐ ɾ t u m			n.sg.	neuter				
+949	Vedic	?	bháras-	bʱ ˈɐ ɾ ɐ s	0	521	inheritance	inheritance	0	bʰer	1	bʱ ˈɐ ɾ ɐ s								
+950	Vedic	?	bháras-	bʱ ˈɐ ɾ ɐ s	0	949	derivation	grammaticalization to infinitive of 515	0	bʰer	1	bʱ ˈɐ ɾ ɐ s	infinitive							
+951	Vedic	?	bhárase	bʱ ˈɐ ɾ ɐ s ɛː	0	949	inflection	d.sg.	88	bʰer	0	bʱ ˈɐ ɾ ɐ s ɛː			d.sg.	neuter				
+952	Vedic	wachsen	boddhu-	b ɔː d dʱ u	0	861	inheritance	inheritance	0	bʰeu̯dʰ-	1	b ɔː d dʱ u								
+953	Vedic	wachsen	boddhu-	b ɔː d dʱ u	0	952	derivation	grammaticalization to infinitive of 863	0	bʰeu̯dʰ-	1	b ɔː d dʱ u	infinitive							
+954	Vedic	wachsen	boddhum	b ɔː d dʱ u m	0	952	inflection	n.sg.	150	bʰeu̯dʰ-	0	b ɔː d dʱ u m			n.sg.	neuter				
+955	Vedic	spalten	bhettu	bʱ ɛː tː u	0	211	inheritance	inheritance	0	bʰei̯d	1	bʱ ɛː tː u								
+956	Vedic	spalten	bhettu	bʱ ɛː tː u	1	955	derivation	grammaticalization to infinitive of 213	0	bʰei̯d	1	bʱ ɛː tː u	infinitive							
+957	Greek	?	τόφρα	t ˈɔ pʰ ɾ a	0	412	inflection	a.pl.	71	bʰer	0	t ˈɔ pʰ ɾ a -			a.pl.					
+958	Greek	solange	τόφρα-	t ˈɔ pʰ ɾ a	0	412	reanalysis	reanalysis of the a.pl.	0	bʰer	1	t ˈɔ pʰ ɾ a	adverb							

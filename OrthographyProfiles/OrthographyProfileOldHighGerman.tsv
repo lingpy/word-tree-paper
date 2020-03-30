@@ -1,0 +1,66 @@
+Grapheme	IPA	Notes
+a	a	
+ā	aː	
+â	aː	
+e	e	
+ē	eː	
+ê	eː	
+i	i	might be j before vowel, iu sometimes is also y
+ī	iː	
+î	iː	
+o	o	
+ō	oː	
+ô	oː	
+u	u	
+ū	uː	
+û	uː	
+b	b	might represent p in upper german
+bb	bː	
+c	k	can also be ts or tts (mainly before e and i)
+ck	kː	
+kk	kː	
+d	d	
+dd	dː	
+f	f	
+ff	fː	
+g	g	
+gg	gː	
+^h	h	
+hh	xː	
+h	x	may also represent h, manual correction necessary
+k	k	
+l	l	
+ll	lː	
+m	m	
+mm	mː	
+n	n	
+nn	nː	
+p	p	
+pp	pː	
+pf	pf	
+ph	pf	
+qu	kʷ	
+kw	kʷ	
+r	r	
+rr	rː	
+s	s̺	
+ss	s̺ː	
+t	t	
+tt	tː	
+v	w	may also represent f, manual correction necessary
+w	w	
+zz	sː	may also represent ts, manual correction necessary
+z	ts	may also represent s, manual correction necessary
+-	NULL	
+^	NULL	
+$	NULL	
+j	j	
+(	NULL	
+)	NULL	
+ch	xː	kx after consonant
+^ch	kx	
+th	t	might have been pronounced d
+ea	j a	
+nk	ŋ k	
+ng	ŋ g	
+e i	ei̯	
