@@ -1,5 +1,28 @@
 # Code and data accompanying the study "Modeling word trees in historical linguistics"
 
+When using the code or data in this repository, please cite the following (forthcoming) paper:
+
+> Schweikhard, N. and J. List (forthcoming): Modeling word trees in historical linguistics. Preliminary ideas for the reconciliation of word trees and language trees. In: Sprach(en)forschung: Disziplinen und Interdisziplinarität. Akten der 27. Fachtagung der Gesellschaft für Sprache und Sprachen. Draft: https://doi.org/10.17613/8h49-rp11
+
+```
+@InProceedings{Schweikhard2020,
+  author     = {Nathanael E. Schweikhard and Johann-Mattis List},
+  booktitle  = {Sprach(en)forschung: Disziplinen und Interdisziplinarität. Akten der 27. Fachtagung der Gesellschaft für Sprache und Sprachen},
+  title      = {Modeling word trees in historical linguistics. Preliminary ideas for the reconciliation of word trees and language trees},
+  editor     = {Brogyanyi, Bela and Lipp, Reiner},
+  eventdate  = {2019-05-30/2019-06-01},
+  eventtitle = {27. Fachtagung der Gesellschaft für Sprache und Sprachen},
+  publisher  = {Dr. Kovač},
+  venue      = {Warschau},
+  url        = {https://doi.org/10.17613/8h49-rp11},
+  address    = {Hamburg},
+  year       = {forthcoming},
+}
+```
+
+To inspect the results of this annotation study directl, you can just visit the interactive web application at [https://lingpy.github.io/word-tree-paper/index.html](https://lingpy.github.io/word-tree-paper/index.html).
+
+
 ## Installation
 
 Assuming you have Python and `pip` installed on your system, just type:
