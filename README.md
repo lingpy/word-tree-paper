@@ -20,7 +20,7 @@ When using the code or data in this repository, please cite the following (forth
 }
 ```
 
-To inspect the results of this annotation study directl, you can just visit the interactive web application at [https://lingpy.github.io/word-tree-paper/index.html](https://lingpy.github.io/word-tree-paper/index.html).
+To inspect the results of this annotation study directly, you can just visit the interactive web application at [https://lingpy.github.io/word-tree-paper/index.html](https://lingpy.github.io/word-tree-paper/index.html).
 
 
 ## Installation
@@ -76,4 +76,4 @@ In order to visualize the data we provide here in Cytoscape, please follow these
 The supplementary material also includes the Cytoscape-file we created this way as NIL.cys.
 You can import new data into this file in order to visualize them with the same settings (you will need to choose the layout from the Layout menu again).
 
-You can export the data, which makes it possible to view them in any browser (File -> Export -> Network to Web Page). The supplementary material includes this as index.html in the folder application.
+You can export the data, which makes it possible to view them in any browser (File -> Export -> Network to Web Page).
